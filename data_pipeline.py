@@ -1,53 +1,64 @@
-import fastf1
-from fastf1.events import get_event_schedule
-import name_to_compond
 import csv
+import fastf1
+import name_to_compond
 
-# Set the year and event name for which you want to get the race number
-year = 2024
-event_name = 'Bahrain'
-session_race = 'R'
-driver_id = 'VER'
-
-# Get the event schedule for the specified year
-schedule = get_event_schedule(year)
-
-# Try to find the event by name and extract the race number (round)
-race_info = schedule.get_event_by_name(event_name)
-if not race_info.empty:
-    race_number = race_info['RoundNumber']
-    print(f"Race number for '{event_name}' in {year} is: {race_number}")
-else:
-    print(f"Event '{event_name}' not found in {year}.")
-    race_number = None  # Set to None if not found
-
-# Only proceed if the race number was found
-if race_number is not None:
-    # Load the race session for a different year/event as an example
-    session = fastf1.get_session(year, event_name, session_race)
+def get_session_info(year: int, race_number: int, session_type: str):
+    """
+    Loads an F1 session, detects tyre stints for all drivers, and writes stint info to a CSV file.
+    Each row in the CSV represents the end of a stint for a driver.
+    """
+    # Load the session using the round number (race_number) and session type (e.g., 'R' for Race)
+    session = fastf1.get_session(year, race_number, session_type)
     session.load()
 
-    # Get all laps from the session
+    # Get all laps and session results (for driver/team info)
     laps = session.laps
-
-    # Select the fastest lap 
-    fastest_lap = laps.pick_drivers(driver_id).pick_fastest()
-
-    # Print the compound used on the fastest lap
-    print(f"Fastest lap compound: {fastest_lap['Compound']}")
-
-    # Print the compound mapping using your custom function
-    compound_code = name_to_compond.get_compound(year, race_number, fastest_lap['Compound'])
-    print(f"Compound code from mapping: {compound_code}")
-
-    # Debug: Show the arguments used for mapping
-    print(f"Mapping arguments: year={year}, race_number={race_number}, compound={fastest_lap['Compound']}")
-
-    # Get team from session results
     results = session.results
-    driver_row = results[results['Abbreviation'] == driver_id]
-    if not driver_row.empty:
-        team_name = driver_row.iloc[0]['TeamName']
-        print(team_name)
-else:
-    print("Skipping session analysis due to missing race number.")
+
+    # Open a CSV file to write stint information
+    with open('sessionstints.csv', 'w', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile, delimiter=',')
+        # Write the header row
+        csv_writer.writerow(['driver_id', 'team_id', 'gp_number', 'year', 'compound', 'lap_number', 'lap_time'])
+
+        # Initialize variables to track the previous lap's tyre age and driver
+        prev_lap_tyre_age = None
+        prev_lap_driver = None
+
+        # Iterate over all laps in the session
+        for idx, lap in laps.iterrows():
+            tyre_life = lap['TyreLife']
+            driver_id = lap['Driver']
+
+            # Check if a new stint has started (either a driver change or tyre age reset)
+            if (
+                prev_lap_tyre_age is not None and prev_lap_driver is not None
+                and (driver_id != prev_lap_driver or tyre_life != prev_lap_tyre_age + 1)
+            ):
+                # Find the position of the current lap in the DataFrame
+                current_pos = laps.index.get_loc(idx)
+                # Get the previous lap's data (end of the previous stint)
+                prev_lap = laps.iloc[current_pos - 1]
+                tyre_name = prev_lap['Compound']
+                lap_number = prev_lap['LapNumber']
+
+                # Get the team ID for the previous driver from the results DataFrame
+                team_name = ''
+                driver_row = results[results['Abbreviation'] == prev_lap_driver]
+                if not driver_row.empty:
+                    team_name = driver_row.iloc[0]['TeamId']
+
+                # Map the compound name to its code using your custom function
+                compound_code = name_to_compond.get_compound(year, race_number, tyre_name)
+
+                # Write the stint info to the CSV file
+                csv_writer.writerow([
+                    prev_lap_driver, team_name, race_number, year, compound_code, lap_number, prev_lap_tyre_age
+                ])
+
+            # Update previous lap variables for the next iteration
+            prev_lap_tyre_age = tyre_life
+            prev_lap_driver = driver_id
+
+# Example usage: process the 2023 Bahrain Grand Prix race session
+get_session_info(2023, 1, 'R')
