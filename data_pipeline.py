@@ -19,7 +19,7 @@ def get_session_info(year: int, race_number: int, session_type: str):
     with open('sessionstints.csv', 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',')
         # Write the header row
-        csv_writer.writerow(['driver_id', 'team_id', 'gp_number', 'year', 'compound', 'lap_number', 'lap_time'])
+        csv_writer.writerow(['driver_id', 'team_id', 'gp_number', 'year', 'compound', 'num_of_laps', 'lap_time'])
 
         # Initialize variables to track the previous lap's tyre age and driver
         prev_lap_tyre_age = None
@@ -40,7 +40,6 @@ def get_session_info(year: int, race_number: int, session_type: str):
                 # Get the previous lap's data (end of the previous stint)
                 prev_lap = laps.iloc[current_pos - 1]
                 tyre_name = prev_lap['Compound']
-                lap_number = prev_lap['LapNumber']
 
                 # Get the team ID for the previous driver from the results DataFrame
                 team_name = ''
@@ -53,7 +52,7 @@ def get_session_info(year: int, race_number: int, session_type: str):
 
                 # Write the stint info to the CSV file
                 csv_writer.writerow([
-                    prev_lap_driver, team_name, race_number, year, compound_code, lap_number, prev_lap_tyre_age
+                    prev_lap_driver, team_name, race_number, year, compound_code, prev_lap_tyre_age, prev_lap_tyre_age
                 ])
 
             # Update previous lap variables for the next iteration
