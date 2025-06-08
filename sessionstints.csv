@@ -1,4 +1,4 @@
-driver_id,team_id,gp_number,year,compound,lap_number,lap_time
+driver_id,team_id,gp_number,year,compound,last_lap_number,tyre_life
 VER,red_bull,1,2023,C3,14.0,17.0
 VER,red_bull,1,2023,C3,36.0,22.0
 VER,red_bull,1,2023,C1,57.0,21.0
