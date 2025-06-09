@@ -70,4 +70,4 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
             prev_lap_driver = driver_id
 
 # Example usage
-write_session_info(2023, 7, 'R', 'all_years_sessions.csv')
+#write_session_info(2023, 7, 'R', 'all_years_sessions.csv')
