@@ -11,5 +11,7 @@ python -m venv venv
 # (Alternative) Activate the virtual environment (Command Prompt)
 venv\Scripts\activate
 
-# Install the fastf1 module inside the virtual environment
+# Install the fastf1, seaborn, sklearn modules inside the virtual environment
 pip install fastf1
+pip install seaborn
+pip install sklearn
