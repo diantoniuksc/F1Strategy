@@ -1,13 +1,22 @@
 import csv
 import fastf1
 import name_to_compond
+from fastf1.events import get_event_schedule
 
 def write_session_info(year: int, race_number: int, session_type: str, doc_name: str):
     """
     Loads an F1 session, detects tyre stints for all drivers, and writes stint info to a CSV file.
     Each row in the CSV represents the end of a stint for a driver.
     """
-    # Load the session using the round number (race_number) and session type (e.g., 'R' for Race)
+    # Get the race name from the event schedule
+    schedule = get_event_schedule(year)
+    event_row = schedule[schedule['RoundNumber'] == race_number]
+    if not event_row.empty:
+        race_name = event_row.iloc[0]['EventName']
+    else:
+        race_name = f"Round_{race_number}"
+
+    # Load the session using the round number and session type (e.g., 'R' for Race)
     session = fastf1.get_session(year, race_number, session_type)
     session.load()
 
@@ -19,7 +28,7 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
     with open(doc_name, 'a', newline='') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',')
         # Write the header row
-        #csv_writer.writerow(['driver_id', 'team_id', 'gp_number', 'year', 'compound', 'stint_start_lap', 'tyre_life'])
+        #csv_writer.writerow(['driver_id', 'team_id', 'race_name', 'year', 'compound', 'stint_start_lap', 'tyre_life'])
 
         # Initialize variables to track the previous lap's tyre age and driver
         prev_lap_tyre_age = None
@@ -58,10 +67,11 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
                 # Map the compound name to its code using your custom function
                 compound_code = name_to_compond.get_compound(year, race_number, tyre_name)
 
-                # Write the stint info to the CSV file
+                # Write the stint info to the CSV file (using race_name)
                 csv_writer.writerow([
-                    prev_lap_driver, team_name, race_number, year, compound_code, stint_start_lap, prev_lap_tyre_age
+                    prev_lap_driver, team_name, race_name, year, compound_code, stint_start_lap, prev_lap_tyre_age
                 ])
+                print(f"Stint: {prev_lap_driver}, {team_name}, {race_name}, {year}, {compound_code}, {stint_start_lap}, {prev_lap_tyre_age}")
 
                 stint_start_lap = lap['LapNumber']
 
@@ -70,4 +80,4 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
             prev_lap_driver = driver_id
 
 # Example usage
-#write_session_info(2023, 7, 'R', 'all_years_sessions.csv')
+# write_session_info(2023, 7, 'R', 'Dataset_Preparation/session_test.csv')

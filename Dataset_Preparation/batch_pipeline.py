@@ -5,7 +5,7 @@ import time
 
 years_races = {2022: 22, 2023: 22, 2024: 24, 2025: 3}
 session_type = 'R'
-document_name = "all_years_sessions_norm.csv"
+document_name = "all_years_sessions.csv"
 
 def write_all_sessions_csv(year: int):
     if year not in years_races:
