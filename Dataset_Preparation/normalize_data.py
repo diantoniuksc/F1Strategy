@@ -31,6 +31,8 @@ def find_invalid_rows():
         writer = csv.writer(file)
         writer.writerows(rows)
 
+find_invalid_rows()
+
 def normalize_gp_name():
     with open(input_file, 'r', encoding='utf-8') as file:
         data = file.read()
@@ -40,4 +42,4 @@ def normalize_gp_name():
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(data)
 
-normalize_gp_name()
+#normalize_gp_name()
