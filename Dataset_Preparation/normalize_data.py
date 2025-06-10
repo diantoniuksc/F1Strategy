@@ -1,13 +1,34 @@
 import csv
 
-input_file = 'all_years_sessions.csv'
-output_file = 'all_years_sessions.csv' 
+input_file = 'Dataset_Preparation/all_years_sessions.csv'
+output_file = 'Dataset_Preparation/all_years_sessions.csv' 
 
-with open(input_file, 'r', encoding='utf-8') as file:
-    data = file.read()
 
-# Replace text
-data = data.replace('alfa', 'sauber')
+def normalize_team_name():
+    with open(input_file, 'r', encoding='utf-8') as file:
+        data = file.read()
 
-with open(output_file, 'w', encoding='utf-8') as file:
-    file.write(data)
+    data = data.replace('alfa', 'sauber')
+
+    with open(output_file, 'w', encoding='utf-8') as file:
+        file.write(data)
+
+def find_invalid_rows():
+    rows = []
+    with open(input_file, 'r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        header = next(reader)
+        # Add the new column to the header
+        header.append('is_valid')
+        rows.append(header)
+        for row in reader:
+            # Mark as valid if compound is not '0'
+            is_valid = '1' if row[4] != '0' else '0' 
+            row.append(is_valid)
+            rows.append(row)
+
+    with open(output_file, 'w', encoding='utf-8', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(rows)
+
+find_invalid_rows()
