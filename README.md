@@ -13,3 +13,5 @@ venv\Scripts\activate
 
 # Install the fastf1 module inside the virtual environment
 pip install fastf1
+pip install scikit-learn
+pip install seaborn
