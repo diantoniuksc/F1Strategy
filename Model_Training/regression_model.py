@@ -36,5 +36,5 @@ plt.show()
 
 #125.92828872331333
 #104.16281526580653 GPs as names OHEed
-#67.80278542438577 removed outliers
+#67.71570635444589 removed outliers
 print(metrics.mean_squared_error(y_test, predictions))
