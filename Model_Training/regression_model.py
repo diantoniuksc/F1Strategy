@@ -28,6 +28,7 @@ linear_model.fit(x_train, y_train)
 print(linear_model.coef_)
 
 predictions = linear_model.predict(x_test)
+
 plt.scatter(y_test, predictions)
 plt.xlabel("Actual Tyre Life")
 plt.ylabel("Predicted Tyre Life")

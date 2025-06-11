@@ -10,10 +10,11 @@ def normalize_team_name():
         data = file.read()
 
     data = data.replace('alfa', 'sauber')
+    data = data.replace('alphatauri', 'racing_bulls')
+    data = data.replace('rb', 'racing_bulls')
 
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(data)
-
 
 def find_invalid_rows():
     rows = []
@@ -58,6 +59,7 @@ def find_invalid_rows():
 
 
 find_invalid_rows()
+
 
 
 def normalize_gp_name():
