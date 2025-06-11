@@ -12,7 +12,7 @@ training_data = pd.read_csv("Dataset_Preparation/all_years_sessions.csv")
 training_data = training_data[training_data['is_valid'] == 1]
 
 # One-hot encode categorical columns
-categorical_cols = ['driver_id', 'team_id', 'compound']
+categorical_cols = ['driver_id', 'team_id', 'race_name', 'compound']
 training_data_encoded = pd.get_dummies(training_data, columns=categorical_cols)
 
 #training_data_encoded.info()
@@ -28,11 +28,13 @@ linear_model.fit(x_train, y_train)
 print(linear_model.coef_)
 
 predictions = linear_model.predict(x_test)
-'''plt.scatter(y_test, predictions)
+plt.scatter(y_test, predictions)
 plt.xlabel("Actual Tyre Life")
 plt.ylabel("Predicted Tyre Life")
 plt.title("Actual vs Predicted Tyre Life")
-plt.show()'''
+plt.show()
 
 #125.92828872331333
+#104.16281526580653 GPs as names OHEed
+#67.80278542438577 removed outliers
 print(metrics.mean_squared_error(y_test, predictions))
