@@ -28,7 +28,7 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
     with open(doc_name, 'a', newline='') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',')
         # Write the header row
-        #csv_writer.writerow(['driver_id', 'team_id', 'race_name', 'year', 'compound', 'stint_start_lap', 'tyre_life'])
+        #csv_writer.writerow(['driver_id', 'team_id', 'race_name', 'year', 'compound', 'stint_start_lap', 'tyre_life', 'is_valid'])
 
         # Initialize variables to track the previous lap's tyre age and driver
         prev_lap_tyre_age = None
