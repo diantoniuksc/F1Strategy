@@ -52,7 +52,7 @@ OCO,alpine,Bahrain Grand Prix,2022,C1,31.0,13.0,1
 OCO,alpine,Bahrain Grand Prix,2022,C3,44.0,17.0,1
 NOR,mclaren,Bahrain Grand Prix,2022,C2,1.0,24.0,1
 NOR,mclaren,Bahrain Grand Prix,2022,C1,25.0,17.0,1
-NOR,mclaren,Bahrain Grand Prix,2022,C3,42.0,4.0,1
+NOR,mclaren,Bahrain Grand Prix,2022,C3,42.0,4.0,0
 NOR,mclaren,Bahrain Grand Prix,2022,C3,46.0,15.0,1
 HAM,mercedes,Bahrain Grand Prix,2022,C3,1.0,13.0,1
 HAM,mercedes,Bahrain Grand Prix,2022,C1,12.0,17.0,1
@@ -119,19 +119,19 @@ PER,red_bull,Australian Grand Prix,2022,C3,1.0,20.0,1
 PER,red_bull,Australian Grand Prix,2022,C2,21.0,38.0,1
 ALO,alpine,Australian Grand Prix,2022,C2,1.0,39.0,1
 ALO,alpine,Australian Grand Prix,2022,C3,40.0,14.0,1
-ALO,alpine,Australian Grand Prix,2022,C3,54.0,4.0,1
+ALO,alpine,Australian Grand Prix,2022,C3,54.0,4.0,0
 LEC,ferrari,Australian Grand Prix,2022,C3,1.0,22.0,1
 LEC,ferrari,Australian Grand Prix,2022,C2,23.0,36.0,1
-STR,aston_martin,Australian Grand Prix,2022,C2,1.0,4.0,1
-STR,aston_martin,Australian Grand Prix,2022,C3,4.0,3.0,1
+STR,aston_martin,Australian Grand Prix,2022,C2,1.0,4.0,0
+STR,aston_martin,Australian Grand Prix,2022,C3,4.0,3.0,0
 STR,aston_martin,Australian Grand Prix,2022,C2,5.0,19.0,1
 STR,aston_martin,Australian Grand Prix,2022,C2,24.0,39.0,1
 MAG,haas,Australian Grand Prix,2022,C2,1.0,39.0,1
 MAG,haas,Australian Grand Prix,2022,C3,40.0,20.0,1
 TSU,alphatauri,Australian Grand Prix,2022,C3,1.0,18.0,1
 TSU,alphatauri,Australian Grand Prix,2022,C2,19.0,39.0,1
-ALB,williams,Australian Grand Prix,2022,C2,1.0,57.0,1
-ALB,williams,Australian Grand Prix,2022,C5,58.0,1.0,1
+ALB,williams,Australian Grand Prix,2022,C2,1.0,57.0,0
+ALB,williams,Australian Grand Prix,2022,C5,58.0,1.0,0
 ZHO,alfa,Australian Grand Prix,2022,C3,1.0,21.0,1
 ZHO,alfa,Australian Grand Prix,2022,C2,22.0,37.0,1
 RIC,mclaren,Australian Grand Prix,2022,C3,1.0,21.0,1
@@ -145,7 +145,7 @@ HAM,mercedes,Australian Grand Prix,2022,C2,23.0,36.0,1
 MSC,haas,Australian Grand Prix,2022,C3,1.0,16.0,1
 MSC,haas,Australian Grand Prix,2022,C2,15.0,43.0,1
 VET,aston_martin,Australian Grand Prix,2022,C2,1.0,24.0,1
-SAI,ferrari,Australian Grand Prix,2022,C2,1.0,2.0,1
+SAI,ferrari,Australian Grand Prix,2022,C2,1.0,2.0,0
 LAT,williams,Australian Grand Prix,2022,C3,1.0,13.0,1
 LAT,williams,Australian Grand Prix,2022,C2,14.0,11.0,1
 LAT,williams,Australian Grand Prix,2022,C2,24.0,34.0,1
@@ -166,7 +166,7 @@ BOT,alfa,Emilia Romagna Grand Prix,2022,0,1.0,18.0,0
 BOT,alfa,Emilia Romagna Grand Prix,2022,C3,19.0,45.0,1
 LEC,ferrari,Emilia Romagna Grand Prix,2022,0,1.0,19.0,0
 LEC,ferrari,Emilia Romagna Grand Prix,2022,C3,20.0,30.0,1
-LEC,ferrari,Emilia Romagna Grand Prix,2022,C4,50.0,4.0,1
+LEC,ferrari,Emilia Romagna Grand Prix,2022,C4,50.0,4.0,0
 LEC,ferrari,Emilia Romagna Grand Prix,2022,C4,54.0,10.0,1
 TSU,alphatauri,Emilia Romagna Grand Prix,2022,0,1.0,18.0,0
 TSU,alphatauri,Emilia Romagna Grand Prix,2022,C3,19.0,45.0,1
@@ -217,7 +217,7 @@ TSU,alphatauri,Miami Grand Prix,2022,C2,12.0,30.0,1
 TSU,alphatauri,Miami Grand Prix,2022,C4,42.0,19.0,1
 ALB,williams,Miami Grand Prix,2022,C3,1.0,16.0,1
 ALB,williams,Miami Grand Prix,2022,C2,17.0,41.0,1
-ZHO,alfa,Miami Grand Prix,2022,C3,1.0,6.0,1
+ZHO,alfa,Miami Grand Prix,2022,C3,1.0,6.0,0
 RIC,mclaren,Miami Grand Prix,2022,C3,1.0,30.0,1
 RIC,mclaren,Miami Grand Prix,2022,C2,31.0,11.0,1
 RIC,mclaren,Miami Grand Prix,2022,C4,42.0,16.0,1
@@ -229,7 +229,7 @@ HAM,mercedes,Miami Grand Prix,2022,C3,1.0,22.0,1
 HAM,mercedes,Miami Grand Prix,2022,C2,23.0,35.0,1
 MSC,haas,Miami Grand Prix,2022,C3,1.0,14.0,1
 MSC,haas,Miami Grand Prix,2022,C2,15.0,40.0,1
-MSC,haas,Miami Grand Prix,2022,C3,55.0,3.0,1
+MSC,haas,Miami Grand Prix,2022,C3,55.0,3.0,0
 VET,aston_martin,Miami Grand Prix,2022,C2,1.0,43.0,1
 VET,aston_martin,Miami Grand Prix,2022,C3,42.0,15.0,1
 SAI,ferrari,Miami Grand Prix,2022,C3,1.0,27.0,1
@@ -255,7 +255,7 @@ SAI,ferrari,Spanish Grand Prix,2022,C3,1.0,13.0,1
 SAI,ferrari,Spanish Grand Prix,2022,C2,11.0,21.0,1
 SAI,ferrari,Spanish Grand Prix,2022,C2,32.0,14.0,1
 SAI,ferrari,Spanish Grand Prix,2022,C3,46.0,24.0,1
-HAM,mercedes,Spanish Grand Prix,2022,C2,1.0,1.0,1
+HAM,mercedes,Spanish Grand Prix,2022,C2,1.0,1.0,0
 HAM,mercedes,Spanish Grand Prix,2022,C3,2.0,23.0,1
 HAM,mercedes,Spanish Grand Prix,2022,C2,23.0,26.0,1
 HAM,mercedes,Spanish Grand Prix,2022,C3,49.0,21.0,1
@@ -300,7 +300,7 @@ LAT,williams,Spanish Grand Prix,2022,C3,1.0,12.0,1
 LAT,williams,Spanish Grand Prix,2022,C2,13.0,14.0,1
 LAT,williams,Spanish Grand Prix,2022,C3,27.0,24.0,1
 LAT,williams,Spanish Grand Prix,2022,C3,51.0,17.0,1
-MAG,haas,Spanish Grand Prix,2022,C3,1.0,3.0,1
+MAG,haas,Spanish Grand Prix,2022,C3,1.0,3.0,0
 MAG,haas,Spanish Grand Prix,2022,C2,2.0,28.0,1
 MAG,haas,Spanish Grand Prix,2022,C1,30.0,35.0,1
 ALB,williams,Spanish Grand Prix,2022,C3,1.0,11.0,1
@@ -326,7 +326,7 @@ LEC,ferrari,Monaco Grand Prix,2022,0,1.0,21.0,0
 LEC,ferrari,Monaco Grand Prix,2022,C3,22.0,43.0,1
 STR,aston_martin,Monaco Grand Prix,2022,0,1.0,2.0,0
 STR,aston_martin,Monaco Grand Prix,2022,C3,2.0,11.0,1
-STR,aston_martin,Monaco Grand Prix,2022,C3,13.0,58.0,1
+STR,aston_martin,Monaco Grand Prix,2022,C3,13.0,58.0,0
 MAG,haas,Monaco Grand Prix,2022,0,1.0,20.0,0
 TSU,alphatauri,Monaco Grand Prix,2022,0,1.0,6.0,0
 TSU,alphatauri,Monaco Grand Prix,2022,C3,7.0,23.0,1
@@ -354,8 +354,8 @@ VET,aston_martin,Monaco Grand Prix,2022,C3,31.0,42.0,1
 SAI,ferrari,Monaco Grand Prix,2022,C3,1.0,30.0,1
 SAI,ferrari,Monaco Grand Prix,2022,C3,31.0,43.0,1
 LAT,williams,Monaco Grand Prix,2022,0,1.0,1.0,0
-LAT,williams,Monaco Grand Prix,2022,C3,2.0,1.0,1
-LAT,williams,Monaco Grand Prix,2022,C4,3.0,61.0,1
+LAT,williams,Monaco Grand Prix,2022,C3,2.0,1.0,0
+LAT,williams,Monaco Grand Prix,2022,C4,3.0,61.0,0
 RUS,mercedes,Monaco Grand Prix,2022,C3,1.0,30.0,1
 RUS,mercedes,Monaco Grand Prix,2022,C4,31.0,34.0,1
 BOT,alfa,Monaco Grand Prix,2022,C3,1.0,30.0,1
@@ -407,7 +407,7 @@ BOT,alfa,Azerbaijan Grand Prix,2022,C3,1.0,33.0,1
 VER,red_bull,Canadian Grand Prix,2022,C4,1.0,9.0,1
 VER,red_bull,Canadian Grand Prix,2022,C3,10.0,34.0,1
 VER,red_bull,Canadian Grand Prix,2022,C3,44.0,27.0,1
-GAS,alphatauri,Canadian Grand Prix,2022,C4,1.0,5.0,1
+GAS,alphatauri,Canadian Grand Prix,2022,C4,1.0,5.0,0
 GAS,alphatauri,Canadian Grand Prix,2022,C3,6.0,31.0,1
 GAS,alphatauri,Canadian Grand Prix,2022,C3,37.0,34.0,1
 PER,red_bull,Canadian Grand Prix,2022,C3,1.0,8.0,1
@@ -419,7 +419,7 @@ LEC,ferrari,Canadian Grand Prix,2022,C4,42.0,29.0,1
 STR,aston_martin,Canadian Grand Prix,2022,C3,1.0,47.0,1
 STR,aston_martin,Canadian Grand Prix,2022,C4,48.0,24.0,1
 MAG,haas,Canadian Grand Prix,2022,C4,1.0,7.0,1
-MAG,haas,Canadian Grand Prix,2022,C3,8.0,63.0,1
+MAG,haas,Canadian Grand Prix,2022,C3,8.0,63.0,0
 TSU,alphatauri,Canadian Grand Prix,2022,C4,1.0,9.0,1
 TSU,alphatauri,Canadian Grand Prix,2022,C3,10.0,38.0,1
 ALB,williams,Canadian Grand Prix,2022,C4,1.0,18.0,1
@@ -441,9 +441,9 @@ HAM,mercedes,Canadian Grand Prix,2022,C4,1.0,9.0,1
 HAM,mercedes,Canadian Grand Prix,2022,C3,10.0,35.0,1
 HAM,mercedes,Canadian Grand Prix,2022,C3,45.0,26.0,1
 MSC,haas,Canadian Grand Prix,2022,C4,1.0,19.0,1
-VET,aston_martin,Canadian Grand Prix,2022,C4,1.0,6.0,1
+VET,aston_martin,Canadian Grand Prix,2022,C4,1.0,6.0,0
 VET,aston_martin,Canadian Grand Prix,2022,C3,6.0,14.0,1
-VET,aston_martin,Canadian Grand Prix,2022,C3,20.0,51.0,1
+VET,aston_martin,Canadian Grand Prix,2022,C3,20.0,51.0,0
 SAI,ferrari,Canadian Grand Prix,2022,C4,1.0,20.0,1
 SAI,ferrari,Canadian Grand Prix,2022,C3,21.0,29.0,1
 SAI,ferrari,Canadian Grand Prix,2022,C3,50.0,21.0,1
@@ -453,79 +453,79 @@ LAT,williams,Canadian Grand Prix,2022,C3,38.0,33.0,1
 RUS,mercedes,Canadian Grand Prix,2022,C4,1.0,19.0,1
 RUS,mercedes,Canadian Grand Prix,2022,C3,20.0,26.0,1
 RUS,mercedes,Canadian Grand Prix,2022,C3,46.0,25.0,1
-BOT,alfa,Canadian Grand Prix,2022,C3,1.0,49.0,1
-VER,red_bull,British Grand Prix,2022,C3,1.0,1.0,1
+BOT,alfa,Canadian Grand Prix,2022,C3,1.0,49.0,0
+VER,red_bull,British Grand Prix,2022,C3,1.0,1.0,0
 VER,red_bull,British Grand Prix,2022,C2,2.0,11.0,1
 VER,red_bull,British Grand Prix,2022,C2,13.0,11.0,1
 VER,red_bull,British Grand Prix,2022,C1,24.0,16.0,1
 VER,red_bull,British Grand Prix,2022,C3,40.0,13.0,1
-GAS,alphatauri,British Grand Prix,2022,C2,1.0,1.0,1
+GAS,alphatauri,British Grand Prix,2022,C2,1.0,1.0,0
 GAS,alphatauri,British Grand Prix,2022,C3,2.0,15.0,1
 GAS,alphatauri,British Grand Prix,2022,C1,17.0,11.0,1
-PER,red_bull,British Grand Prix,2022,C2,1.0,1.0,1
-PER,red_bull,British Grand Prix,2022,C2,2.0,4.0,1
+PER,red_bull,British Grand Prix,2022,C2,1.0,1.0,0
+PER,red_bull,British Grand Prix,2022,C2,2.0,4.0,0
 PER,red_bull,British Grand Prix,2022,C2,6.0,35.0,1
 PER,red_bull,British Grand Prix,2022,C3,40.0,13.0,1
-ALO,alpine,British Grand Prix,2022,C2,1.0,1.0,1
+ALO,alpine,British Grand Prix,2022,C2,1.0,1.0,0
 ALO,alpine,British Grand Prix,2022,C2,2.0,32.0,1
-ALO,alpine,British Grand Prix,2022,C1,34.0,6.0,1
+ALO,alpine,British Grand Prix,2022,C1,34.0,6.0,0
 ALO,alpine,British Grand Prix,2022,C3,40.0,13.0,1
-LEC,ferrari,British Grand Prix,2022,C2,1.0,1.0,1
+LEC,ferrari,British Grand Prix,2022,C2,1.0,1.0,0
 LEC,ferrari,British Grand Prix,2022,C2,2.0,24.0,1
 LEC,ferrari,British Grand Prix,2022,C1,26.0,27.0,1
-STR,aston_martin,British Grand Prix,2022,C2,1.0,3.0,1
+STR,aston_martin,British Grand Prix,2022,C2,1.0,3.0,0
 STR,aston_martin,British Grand Prix,2022,C2,2.0,16.0,1
 STR,aston_martin,British Grand Prix,2022,C1,16.0,26.0,1
 STR,aston_martin,British Grand Prix,2022,C2,41.0,15.0,1
-MAG,haas,British Grand Prix,2022,C3,1.0,1.0,1
+MAG,haas,British Grand Prix,2022,C3,1.0,1.0,0
 MAG,haas,British Grand Prix,2022,C2,2.0,23.0,1
 MAG,haas,British Grand Prix,2022,C2,23.0,30.0,1
-TSU,alphatauri,British Grand Prix,2022,C2,1.0,1.0,1
+TSU,alphatauri,British Grand Prix,2022,C2,1.0,1.0,0
 TSU,alphatauri,British Grand Prix,2022,C3,2.0,17.0,1
 TSU,alphatauri,British Grand Prix,2022,C1,19.0,21.0,1
 TSU,alphatauri,British Grand Prix,2022,C3,39.0,14.0,1
-ALB,williams,British Grand Prix,2022,C3,1.0,1.0,1
-ZHO,alfa,British Grand Prix,2022,C2,1.0,1.0,1
+ALB,williams,British Grand Prix,2022,C3,1.0,1.0,0
+ZHO,alfa,British Grand Prix,2022,C2,1.0,1.0,0
 RIC,mclaren,British Grand Prix,2022,C2,1.0,20.0,1
 RIC,mclaren,British Grand Prix,2022,C1,21.0,12.0,1
-RIC,mclaren,British Grand Prix,2022,C3,33.0,6.0,1
+RIC,mclaren,British Grand Prix,2022,C3,33.0,6.0,0
 RIC,mclaren,British Grand Prix,2022,C3,39.0,14.0,1
-OCO,alpine,British Grand Prix,2022,C2,1.0,1.0,1
+OCO,alpine,British Grand Prix,2022,C2,1.0,1.0,0
 OCO,alpine,British Grand Prix,2022,C3,2.0,21.0,1
 OCO,alpine,British Grand Prix,2022,C1,23.0,16.0,1
 NOR,mclaren,British Grand Prix,2022,C2,1.0,34.0,1
-NOR,mclaren,British Grand Prix,2022,C1,35.0,6.0,1
+NOR,mclaren,British Grand Prix,2022,C1,35.0,6.0,0
 NOR,mclaren,British Grand Prix,2022,C3,41.0,12.0,1
-HAM,mercedes,British Grand Prix,2022,C2,1.0,1.0,1
+HAM,mercedes,British Grand Prix,2022,C2,1.0,1.0,0
 HAM,mercedes,British Grand Prix,2022,C2,2.0,32.0,1
-HAM,mercedes,British Grand Prix,2022,C1,34.0,6.0,1
+HAM,mercedes,British Grand Prix,2022,C1,34.0,6.0,0
 HAM,mercedes,British Grand Prix,2022,C3,40.0,13.0,1
-MSC,haas,British Grand Prix,2022,C2,1.0,3.0,1
+MSC,haas,British Grand Prix,2022,C2,1.0,3.0,0
 MSC,haas,British Grand Prix,2022,C2,2.0,18.0,1
 MSC,haas,British Grand Prix,2022,C1,20.0,20.0,1
 MSC,haas,British Grand Prix,2022,C3,40.0,13.0,1
-VET,aston_martin,British Grand Prix,2022,C3,1.0,1.0,1
-VET,aston_martin,British Grand Prix,2022,C3,2.0,5.0,1
+VET,aston_martin,British Grand Prix,2022,C3,1.0,1.0,0
+VET,aston_martin,British Grand Prix,2022,C3,2.0,5.0,0
 VET,aston_martin,British Grand Prix,2022,C2,7.0,35.0,1
 VET,aston_martin,British Grand Prix,2022,C2,40.0,15.0,1
-SAI,ferrari,British Grand Prix,2022,C2,1.0,1.0,1
+SAI,ferrari,British Grand Prix,2022,C2,1.0,1.0,0
 SAI,ferrari,British Grand Prix,2022,C2,2.0,19.0,1
 SAI,ferrari,British Grand Prix,2022,C1,21.0,19.0,1
 SAI,ferrari,British Grand Prix,2022,C3,40.0,13.0,1
-LAT,williams,British Grand Prix,2022,C3,1.0,1.0,1
+LAT,williams,British Grand Prix,2022,C3,1.0,1.0,0
 LAT,williams,British Grand Prix,2022,C3,2.0,18.0,1
 LAT,williams,British Grand Prix,2022,C2,20.0,20.0,1
 LAT,williams,British Grand Prix,2022,C3,40.0,14.0,1
-RUS,mercedes,British Grand Prix,2022,C1,1.0,1.0,1
-BOT,alfa,British Grand Prix,2022,C2,1.0,1.0,1
+RUS,mercedes,British Grand Prix,2022,C1,1.0,1.0,0
+BOT,alfa,British Grand Prix,2022,C2,1.0,1.0,0
 VER,red_bull,Austrian Grand Prix,2022,C4,1.0,13.0,1
 VER,red_bull,Austrian Grand Prix,2022,C3,14.0,23.0,1
 VER,red_bull,Austrian Grand Prix,2022,C4,37.0,35.0,1
 GAS,alphatauri,Austrian Grand Prix,2022,C4,1.0,12.0,1
-GAS,alphatauri,Austrian Grand Prix,2022,C3,13.0,1.0,1
-GAS,alphatauri,Austrian Grand Prix,2022,C3,14.0,57.0,1
-PER,red_bull,Austrian Grand Prix,2022,C4,1.0,1.0,1
-PER,red_bull,Austrian Grand Prix,2022,C3,2.0,2.0,1
+GAS,alphatauri,Austrian Grand Prix,2022,C3,13.0,1.0,0
+GAS,alphatauri,Austrian Grand Prix,2022,C3,14.0,57.0,0
+PER,red_bull,Austrian Grand Prix,2022,C4,1.0,1.0,0
+PER,red_bull,Austrian Grand Prix,2022,C3,2.0,2.0,0
 PER,red_bull,Austrian Grand Prix,2022,C3,4.0,21.0,1
 ALO,alpine,Austrian Grand Prix,2022,C3,1.0,27.0,1
 ALO,alpine,Austrian Grand Prix,2022,C4,28.0,31.0,1
@@ -536,36 +536,36 @@ LEC,ferrari,Austrian Grand Prix,2022,C4,59.0,13.0,1
 STR,aston_martin,Austrian Grand Prix,2022,C4,1.0,31.0,1
 STR,aston_martin,Austrian Grand Prix,2022,C4,30.0,43.0,1
 MAG,haas,Austrian Grand Prix,2022,C4,1.0,15.0,1
-MAG,haas,Austrian Grand Prix,2022,C3,16.0,55.0,1
+MAG,haas,Austrian Grand Prix,2022,C3,16.0,55.0,0
 TSU,alphatauri,Austrian Grand Prix,2022,C3,1.0,26.0,1
 TSU,alphatauri,Austrian Grand Prix,2022,C3,27.0,44.0,1
 ALB,williams,Austrian Grand Prix,2022,C4,1.0,11.0,1
-ALB,williams,Austrian Grand Prix,2022,C3,12.0,2.0,1
-ALB,williams,Austrian Grand Prix,2022,C3,14.0,57.0,1
+ALB,williams,Austrian Grand Prix,2022,C3,12.0,2.0,0
+ALB,williams,Austrian Grand Prix,2022,C3,14.0,57.0,0
 ZHO,alfa,Austrian Grand Prix,2022,C3,1.0,24.0,1
 ZHO,alfa,Austrian Grand Prix,2022,C4,25.0,46.0,1
 RIC,mclaren,Austrian Grand Prix,2022,C4,1.0,12.0,1
-RIC,mclaren,Austrian Grand Prix,2022,C3,13.0,1.0,1
-RIC,mclaren,Austrian Grand Prix,2022,C3,14.0,57.0,1
+RIC,mclaren,Austrian Grand Prix,2022,C3,13.0,1.0,0
+RIC,mclaren,Austrian Grand Prix,2022,C3,14.0,57.0,0
 OCO,alpine,Austrian Grand Prix,2022,C4,1.0,16.0,1
-OCO,alpine,Austrian Grand Prix,2022,C3,17.0,55.0,1
+OCO,alpine,Austrian Grand Prix,2022,C3,17.0,55.0,0
 NOR,mclaren,Austrian Grand Prix,2022,C4,1.0,14.0,1
-NOR,mclaren,Austrian Grand Prix,2022,C3,15.0,56.0,1
+NOR,mclaren,Austrian Grand Prix,2022,C3,15.0,56.0,0
 HAM,mercedes,Austrian Grand Prix,2022,C4,1.0,28.0,1
 HAM,mercedes,Austrian Grand Prix,2022,C4,29.0,43.0,1
 MSC,haas,Austrian Grand Prix,2022,C4,1.0,16.0,1
-MSC,haas,Austrian Grand Prix,2022,C3,17.0,54.0,1
+MSC,haas,Austrian Grand Prix,2022,C3,17.0,54.0,0
 VET,aston_martin,Austrian Grand Prix,2022,C3,1.0,21.0,1
-VET,aston_martin,Austrian Grand Prix,2022,C4,21.0,52.0,1
+VET,aston_martin,Austrian Grand Prix,2022,C4,21.0,52.0,0
 SAI,ferrari,Austrian Grand Prix,2022,C4,1.0,27.0,1
 SAI,ferrari,Austrian Grand Prix,2022,C3,28.0,30.0,1
 LAT,williams,Austrian Grand Prix,2022,C4,1.0,12.0,1
-LAT,williams,Austrian Grand Prix,2022,C3,13.0,1.0,1
+LAT,williams,Austrian Grand Prix,2022,C3,13.0,1.0,0
 LAT,williams,Austrian Grand Prix,2022,C3,14.0,35.0,1
 RUS,mercedes,Austrian Grand Prix,2022,C4,1.0,11.0,1
-RUS,mercedes,Austrian Grand Prix,2022,C3,12.0,63.0,1
-BOT,alfa,Austrian Grand Prix,2022,C4,1.0,6.0,1
-BOT,alfa,Austrian Grand Prix,2022,C3,7.0,5.0,1
+RUS,mercedes,Austrian Grand Prix,2022,C3,12.0,63.0,0
+BOT,alfa,Austrian Grand Prix,2022,C4,1.0,6.0,0
+BOT,alfa,Austrian Grand Prix,2022,C3,7.0,5.0,0
 VER,red_bull,French Grand Prix,2022,C3,1.0,16.0,1
 VER,red_bull,French Grand Prix,2022,C2,17.0,37.0,1
 GAS,alphatauri,French Grand Prix,2022,C2,1.0,18.0,1
@@ -605,7 +605,7 @@ SAI,ferrari,French Grand Prix,2022,C3,19.0,24.0,1
 SAI,ferrari,French Grand Prix,2022,C3,43.0,11.0,1
 LAT,williams,French Grand Prix,2022,C3,1.0,19.0,1
 LAT,williams,French Grand Prix,2022,C2,20.0,19.0,1
-LAT,williams,French Grand Prix,2022,C3,39.0,3.0,1
+LAT,williams,French Grand Prix,2022,C3,39.0,3.0,0
 RUS,mercedes,French Grand Prix,2022,C3,1.0,18.0,1
 RUS,mercedes,French Grand Prix,2022,C2,19.0,36.0,1
 BOT,alfa,French Grand Prix,2022,C2,1.0,18.0,1
@@ -628,15 +628,15 @@ LEC,ferrari,Hungarian Grand Prix,2022,C4,55.0,19.0,1
 STR,aston_martin,Hungarian Grand Prix,2022,C4,1.0,17.0,1
 STR,aston_martin,Hungarian Grand Prix,2022,C3,15.0,33.0,1
 STR,aston_martin,Hungarian Grand Prix,2022,C4,47.0,23.0,1
-MAG,haas,Hungarian Grand Prix,2022,C3,1.0,6.0,1
+MAG,haas,Hungarian Grand Prix,2022,C3,1.0,6.0,0
 MAG,haas,Hungarian Grand Prix,2022,C2,7.0,29.0,1
 MAG,haas,Hungarian Grand Prix,2022,C3,36.0,32.0,1
-MAG,haas,Hungarian Grand Prix,2022,C4,68.0,2.0,1
+MAG,haas,Hungarian Grand Prix,2022,C4,68.0,2.0,0
 TSU,alphatauri,Hungarian Grand Prix,2022,C4,1.0,13.0,1
 TSU,alphatauri,Hungarian Grand Prix,2022,C3,14.0,20.0,1
 TSU,alphatauri,Hungarian Grand Prix,2022,C4,34.0,18.0,1
 TSU,alphatauri,Hungarian Grand Prix,2022,C4,52.0,20.0,1
-ALB,williams,Hungarian Grand Prix,2022,C4,1.0,2.0,1
+ALB,williams,Hungarian Grand Prix,2022,C4,1.0,2.0,0
 ALB,williams,Hungarian Grand Prix,2022,C3,3.0,19.0,1
 ALB,williams,Hungarian Grand Prix,2022,C3,22.0,19.0,1
 ALB,williams,Hungarian Grand Prix,2022,C4,41.0,29.0,1
@@ -683,10 +683,10 @@ PER,red_bull,Belgian Grand Prix,2022,C2,28.0,17.0,1
 ALO,alpine,Belgian Grand Prix,2022,C3,1.0,11.0,1
 ALO,alpine,Belgian Grand Prix,2022,C3,12.0,14.0,1
 ALO,alpine,Belgian Grand Prix,2022,C2,26.0,19.0,1
-LEC,ferrari,Belgian Grand Prix,2022,C4,1.0,3.0,1
+LEC,ferrari,Belgian Grand Prix,2022,C4,1.0,3.0,0
 LEC,ferrari,Belgian Grand Prix,2022,C3,4.0,22.0,1
 LEC,ferrari,Belgian Grand Prix,2022,C3,26.0,17.0,1
-LEC,ferrari,Belgian Grand Prix,2022,C4,43.0,5.0,1
+LEC,ferrari,Belgian Grand Prix,2022,C4,43.0,5.0,0
 STR,aston_martin,Belgian Grand Prix,2022,C3,1.0,16.0,1
 STR,aston_martin,Belgian Grand Prix,2022,C3,16.0,12.0,1
 STR,aston_martin,Belgian Grand Prix,2022,C2,27.0,18.0,1
@@ -711,7 +711,7 @@ OCO,alpine,Belgian Grand Prix,2022,C3,33.0,12.0,1
 NOR,mclaren,Belgian Grand Prix,2022,C3,1.0,13.0,1
 NOR,mclaren,Belgian Grand Prix,2022,C2,14.0,16.0,1
 NOR,mclaren,Belgian Grand Prix,2022,C3,30.0,15.0,1
-HAM,mercedes,Belgian Grand Prix,2022,C3,1.0,1.0,1
+HAM,mercedes,Belgian Grand Prix,2022,C3,1.0,1.0,0
 MSC,haas,Belgian Grand Prix,2022,C3,1.0,14.0,1
 MSC,haas,Belgian Grand Prix,2022,C2,15.0,16.0,1
 MSC,haas,Belgian Grand Prix,2022,C3,31.0,13.0,1
@@ -721,7 +721,7 @@ VET,aston_martin,Belgian Grand Prix,2022,C3,34.0,12.0,1
 SAI,ferrari,Belgian Grand Prix,2022,C4,1.0,13.0,1
 SAI,ferrari,Belgian Grand Prix,2022,C3,12.0,14.0,1
 SAI,ferrari,Belgian Grand Prix,2022,C2,26.0,19.0,1
-LAT,williams,Belgian Grand Prix,2022,C3,1.0,3.0,1
+LAT,williams,Belgian Grand Prix,2022,C3,1.0,3.0,0
 LAT,williams,Belgian Grand Prix,2022,C3,4.0,13.0,1
 LAT,williams,Belgian Grand Prix,2022,C2,16.0,19.0,1
 LAT,williams,Belgian Grand Prix,2022,C4,35.0,9.0,1
@@ -757,7 +757,7 @@ MAG,haas,Dutch Grand Prix,2022,C1,35.0,13.0,1
 MAG,haas,Dutch Grand Prix,2022,C3,48.0,28.0,1
 TSU,alphatauri,Dutch Grand Prix,2022,C3,1.0,16.0,1
 TSU,alphatauri,Dutch Grand Prix,2022,C2,14.0,30.0,1
-TSU,alphatauri,Dutch Grand Prix,2022,C1,43.0,2.0,1
+TSU,alphatauri,Dutch Grand Prix,2022,C1,43.0,2.0,0
 ALB,williams,Dutch Grand Prix,2022,C2,1.0,21.0,1
 ALB,williams,Dutch Grand Prix,2022,C2,22.0,21.0,1
 ALB,williams,Dutch Grand Prix,2022,C1,43.0,13.0,1
@@ -805,7 +805,7 @@ BOT,alfa,Dutch Grand Prix,2022,C3,1.0,16.0,1
 BOT,alfa,Dutch Grand Prix,2022,C3,17.0,18.0,1
 VER,red_bull,Italian Grand Prix,2022,C4,1.0,25.0,1
 VER,red_bull,Italian Grand Prix,2022,C3,26.0,23.0,1
-VER,red_bull,Italian Grand Prix,2022,C4,49.0,5.0,1
+VER,red_bull,Italian Grand Prix,2022,C4,49.0,5.0,0
 GAS,alphatauri,Italian Grand Prix,2022,C3,1.0,18.0,1
 GAS,alphatauri,Italian Grand Prix,2022,C2,19.0,36.0,1
 PER,red_bull,Italian Grand Prix,2022,C3,1.0,7.0,1
@@ -820,10 +820,10 @@ STR,aston_martin,Italian Grand Prix,2022,C3,1.0,19.0,1
 STR,aston_martin,Italian Grand Prix,2022,C2,19.0,22.0,1
 MAG,haas,Italian Grand Prix,2022,C3,1.0,24.0,1
 MAG,haas,Italian Grand Prix,2022,C2,25.0,22.0,1
-MAG,haas,Italian Grand Prix,2022,C4,47.0,6.0,1
+MAG,haas,Italian Grand Prix,2022,C4,47.0,6.0,0
 TSU,alphatauri,Italian Grand Prix,2022,C3,1.0,19.0,1
 TSU,alphatauri,Italian Grand Prix,2022,C2,20.0,29.0,1
-TSU,alphatauri,Italian Grand Prix,2022,C4,48.0,5.0,1
+TSU,alphatauri,Italian Grand Prix,2022,C4,48.0,5.0,0
 ZHO,alfa,Italian Grand Prix,2022,C3,1.0,18.0,1
 ZHO,alfa,Italian Grand Prix,2022,C2,19.0,35.0,1
 RIC,mclaren,Italian Grand Prix,2022,C3,1.0,19.0,1
@@ -842,16 +842,16 @@ MSC,haas,Italian Grand Prix,2022,C4,34.0,20.0,1
 VET,aston_martin,Italian Grand Prix,2022,C3,1.0,12.0,1
 SAI,ferrari,Italian Grand Prix,2022,C3,1.0,30.0,1
 SAI,ferrari,Italian Grand Prix,2022,C4,31.0,17.0,1
-SAI,ferrari,Italian Grand Prix,2022,C4,48.0,6.0,1
+SAI,ferrari,Italian Grand Prix,2022,C4,48.0,6.0,0
 LAT,williams,Italian Grand Prix,2022,C3,1.0,15.0,1
 LAT,williams,Italian Grand Prix,2022,C2,16.0,32.0,1
-LAT,williams,Italian Grand Prix,2022,C4,48.0,5.0,1
+LAT,williams,Italian Grand Prix,2022,C4,48.0,5.0,0
 RUS,mercedes,Italian Grand Prix,2022,C4,1.0,23.0,1
 RUS,mercedes,Italian Grand Prix,2022,C2,24.0,24.0,1
 RUS,mercedes,Italian Grand Prix,2022,C4,48.0,9.0,1
 BOT,alfa,Italian Grand Prix,2022,C3,1.0,35.0,1
 VER,red_bull,Singapore Grand Prix,2022,0,1.0,35.0,0
-VER,red_bull,Singapore Grand Prix,2022,C4,36.0,5.0,1
+VER,red_bull,Singapore Grand Prix,2022,C4,36.0,5.0,0
 VER,red_bull,Singapore Grand Prix,2022,C5,41.0,19.0,1
 GAS,alphatauri,Singapore Grand Prix,2022,0,1.0,36.0,0
 GAS,alphatauri,Singapore Grand Prix,2022,C4,34.0,26.0,1
@@ -866,7 +866,7 @@ MAG,haas,Singapore Grand Prix,2022,0,1.0,7.0,0
 MAG,haas,Singapore Grand Prix,2022,0,8.0,29.0,0
 MAG,haas,Singapore Grand Prix,2022,C4,34.0,26.0,1
 TSU,alphatauri,Singapore Grand Prix,2022,0,1.0,39.0,0
-TSU,alphatauri,Singapore Grand Prix,2022,C4,34.0,2.0,1
+TSU,alphatauri,Singapore Grand Prix,2022,C4,34.0,2.0,0
 ALB,williams,Singapore Grand Prix,2022,0,1.0,25.0,0
 ZHO,alfa,Singapore Grand Prix,2022,0,1.0,7.0,0
 RIC,mclaren,Singapore Grand Prix,2022,0,1.0,36.0,0
@@ -886,9 +886,9 @@ SAI,ferrari,Singapore Grand Prix,2022,C4,36.0,24.0,1
 LAT,williams,Singapore Grand Prix,2022,0,1.0,7.0,0
 RUS,mercedes,Singapore Grand Prix,2022,0,1.0,21.0,0
 RUS,mercedes,Singapore Grand Prix,2022,C4,22.0,14.0,1
-RUS,mercedes,Singapore Grand Prix,2022,C4,36.0,6.0,1
+RUS,mercedes,Singapore Grand Prix,2022,C4,36.0,6.0,0
 RUS,mercedes,Singapore Grand Prix,2022,C5,42.0,10.0,1
-RUS,mercedes,Singapore Grand Prix,2022,C5,52.0,6.0,1
+RUS,mercedes,Singapore Grand Prix,2022,C5,52.0,6.0,0
 BOT,alfa,Singapore Grand Prix,2022,0,1.0,33.0,0
 VER,red_bull,Japanese Grand Prix,2022,0,1.0,2.0,0
 VER,red_bull,Japanese Grand Prix,2022,0,3.0,5.0,0
@@ -961,7 +961,7 @@ PER,red_bull,United States Grand Prix,2022,C3,1.0,14.0,1
 PER,red_bull,United States Grand Prix,2022,C2,15.0,24.0,1
 PER,red_bull,United States Grand Prix,2022,C3,39.0,18.0,1
 ALO,alpine,United States Grand Prix,2022,C2,1.0,18.0,1
-ALO,alpine,United States Grand Prix,2022,C3,19.0,4.0,1
+ALO,alpine,United States Grand Prix,2022,C3,19.0,4.0,0
 ALO,alpine,United States Grand Prix,2022,C2,23.0,34.0,1
 LEC,ferrari,United States Grand Prix,2022,C3,1.0,18.0,1
 LEC,ferrari,United States Grand Prix,2022,C2,19.0,17.0,1
@@ -997,14 +997,14 @@ MSC,haas,United States Grand Prix,2022,C2,34.0,23.0,1
 VET,aston_martin,United States Grand Prix,2022,C3,1.0,19.0,1
 VET,aston_martin,United States Grand Prix,2022,C3,19.0,24.0,1
 VET,aston_martin,United States Grand Prix,2022,C2,42.0,16.0,1
-SAI,ferrari,United States Grand Prix,2022,C3,1.0,1.0,1
-LAT,williams,United States Grand Prix,2022,C3,1.0,5.0,1
+SAI,ferrari,United States Grand Prix,2022,C3,1.0,1.0,0
+LAT,williams,United States Grand Prix,2022,C3,1.0,5.0,0
 LAT,williams,United States Grand Prix,2022,C3,6.0,13.0,1
 LAT,williams,United States Grand Prix,2022,C2,19.0,38.0,1
 RUS,mercedes,United States Grand Prix,2022,C3,1.0,13.0,1
 RUS,mercedes,United States Grand Prix,2022,C2,14.0,23.0,1
 RUS,mercedes,United States Grand Prix,2022,C2,37.0,18.0,1
-RUS,mercedes,United States Grand Prix,2022,C4,55.0,5.0,1
+RUS,mercedes,United States Grand Prix,2022,C4,55.0,5.0,0
 BOT,alfa,United States Grand Prix,2022,C3,1.0,10.0,1
 VER,red_bull,Mexico City Grand Prix,2022,C4,1.0,28.0,1
 VER,red_bull,Mexico City Grand Prix,2022,C3,26.0,46.0,1
@@ -1046,7 +1046,7 @@ LAT,williams,Mexico City Grand Prix,2022,C2,24.0,29.0,1
 LAT,williams,Mexico City Grand Prix,2022,C4,53.0,17.0,1
 RUS,mercedes,Mexico City Grand Prix,2022,C3,1.0,34.0,1
 RUS,mercedes,Mexico City Grand Prix,2022,C2,35.0,35.0,1
-RUS,mercedes,Mexico City Grand Prix,2022,C4,70.0,5.0,1
+RUS,mercedes,Mexico City Grand Prix,2022,C4,70.0,5.0,0
 BOT,alfa,Mexico City Grand Prix,2022,C3,1.0,39.0,1
 VER,red_bull,Sao Paulo Grand Prix,2022,C4,1.0,7.0,1
 VER,red_bull,Sao Paulo Grand Prix,2022,C3,8.0,16.0,1
@@ -1070,19 +1070,19 @@ LEC,ferrari,Sao Paulo Grand Prix,2022,C4,45.0,28.0,1
 STR,aston_martin,Sao Paulo Grand Prix,2022,C3,1.0,30.0,1
 STR,aston_martin,Sao Paulo Grand Prix,2022,C3,30.0,20.0,1
 STR,aston_martin,Sao Paulo Grand Prix,2022,C4,49.0,23.0,1
-MAG,haas,Sao Paulo Grand Prix,2022,C3,1.0,1.0,1
+MAG,haas,Sao Paulo Grand Prix,2022,C3,1.0,1.0,0
 TSU,alphatauri,Sao Paulo Grand Prix,2022,C3,1.0,20.0,1
 TSU,alphatauri,Sao Paulo Grand Prix,2022,C4,21.0,20.0,1
 TSU,alphatauri,Sao Paulo Grand Prix,2022,C4,41.0,14.0,1
 TSU,alphatauri,Sao Paulo Grand Prix,2022,C3,55.0,16.0,1
-ALB,williams,Sao Paulo Grand Prix,2022,C2,1.0,4.0,1
+ALB,williams,Sao Paulo Grand Prix,2022,C2,1.0,4.0,0
 ALB,williams,Sao Paulo Grand Prix,2022,C3,5.0,21.0,1
 ALB,williams,Sao Paulo Grand Prix,2022,C3,26.0,22.0,1
 ALB,williams,Sao Paulo Grand Prix,2022,C3,48.0,24.0,1
 ZHO,alfa,Sao Paulo Grand Prix,2022,C4,1.0,16.0,1
 ZHO,alfa,Sao Paulo Grand Prix,2022,C3,17.0,21.0,1
 ZHO,alfa,Sao Paulo Grand Prix,2022,C4,38.0,34.0,1
-RIC,mclaren,Sao Paulo Grand Prix,2022,C4,1.0,1.0,1
+RIC,mclaren,Sao Paulo Grand Prix,2022,C4,1.0,1.0,0
 OCO,alpine,Sao Paulo Grand Prix,2022,C4,1.0,24.0,1
 OCO,alpine,Sao Paulo Grand Prix,2022,C3,25.0,23.0,1
 OCO,alpine,Sao Paulo Grand Prix,2022,C4,48.0,27.0,1
@@ -1202,7 +1202,7 @@ ALB,williams,Bahrain Grand Prix,2023,C3,41.0,17.0,1
 ZHO,alfa,Bahrain Grand Prix,2023,C3,1.0,12.0,1
 ZHO,alfa,Bahrain Grand Prix,2023,C1,13.0,20.0,1
 ZHO,alfa,Bahrain Grand Prix,2023,C3,33.0,25.0,1
-ZHO,alfa,Bahrain Grand Prix,2023,C3,55.0,5.0,1
+ZHO,alfa,Bahrain Grand Prix,2023,C3,55.0,5.0,0
 HUL,haas,Bahrain Grand Prix,2023,C3,1.0,14.0,1
 HUL,haas,Bahrain Grand Prix,2023,C1,12.0,15.0,1
 HUL,haas,Bahrain Grand Prix,2023,C1,27.0,14.0,1
@@ -1240,7 +1240,7 @@ ALO,aston_martin,Saudi Arabian Grand Prix,2023,C2,19.0,33.0,1
 LEC,ferrari,Saudi Arabian Grand Prix,2023,C4,1.0,16.0,1
 LEC,ferrari,Saudi Arabian Grand Prix,2023,C2,17.0,34.0,1
 STR,aston_martin,Saudi Arabian Grand Prix,2023,C3,1.0,13.0,1
-STR,aston_martin,Saudi Arabian Grand Prix,2023,C2,14.0,5.0,1
+STR,aston_martin,Saudi Arabian Grand Prix,2023,C2,14.0,5.0,0
 SAR,williams,Saudi Arabian Grand Prix,2023,C2,1.0,18.0,1
 SAR,williams,Saudi Arabian Grand Prix,2023,C3,19.0,32.0,1
 MAG,haas,Saudi Arabian Grand Prix,2023,C3,1.0,8.0,1
@@ -1258,7 +1258,7 @@ HUL,haas,Saudi Arabian Grand Prix,2023,C3,1.0,11.0,1
 HUL,haas,Saudi Arabian Grand Prix,2023,C2,12.0,39.0,1
 OCO,alpine,Saudi Arabian Grand Prix,2023,C3,1.0,16.0,1
 OCO,alpine,Saudi Arabian Grand Prix,2023,C2,17.0,34.0,1
-NOR,mclaren,Saudi Arabian Grand Prix,2023,C4,1.0,2.0,1
+NOR,mclaren,Saudi Arabian Grand Prix,2023,C4,1.0,2.0,0
 NOR,mclaren,Saudi Arabian Grand Prix,2023,C2,3.0,17.0,1
 NOR,mclaren,Saudi Arabian Grand Prix,2023,C3,20.0,31.0,1
 HAM,mercedes,Saudi Arabian Grand Prix,2023,C2,1.0,18.0,1
@@ -1271,33 +1271,33 @@ BOT,alfa,Saudi Arabian Grand Prix,2023,C3,1.0,9.0,1
 BOT,alfa,Saudi Arabian Grand Prix,2023,C2,10.0,8.0,1
 BOT,alfa,Saudi Arabian Grand Prix,2023,C3,18.0,18.0,1
 BOT,alfa,Saudi Arabian Grand Prix,2023,C4,36.0,14.0,1
-PIA,mclaren,Saudi Arabian Grand Prix,2023,C3,1.0,1.0,1
+PIA,mclaren,Saudi Arabian Grand Prix,2023,C3,1.0,1.0,0
 VER,red_bull,Australian Grand Prix,2023,C4,1.0,8.0,1
 VER,red_bull,Australian Grand Prix,2023,C3,9.0,47.0,1
-VER,red_bull,Australian Grand Prix,2023,C5,56.0,6.0,1
+VER,red_bull,Australian Grand Prix,2023,C5,56.0,6.0,0
 GAS,alpine,Australian Grand Prix,2023,C5,1.0,8.0,1
 GAS,alpine,Australian Grand Prix,2023,C3,9.0,47.0,1
-GAS,alpine,Australian Grand Prix,2023,C5,56.0,3.0,1
-PER,red_bull,Australian Grand Prix,2023,C3,1.0,1.0,1
-PER,red_bull,Australian Grand Prix,2023,C4,2.0,1.0,1
-PER,red_bull,Australian Grand Prix,2023,C3,3.0,6.0,1
+GAS,alpine,Australian Grand Prix,2023,C5,56.0,3.0,0
+PER,red_bull,Australian Grand Prix,2023,C3,1.0,1.0,0
+PER,red_bull,Australian Grand Prix,2023,C4,2.0,1.0,0
+PER,red_bull,Australian Grand Prix,2023,C3,3.0,6.0,0
 PER,red_bull,Australian Grand Prix,2023,C3,9.0,48.0,1
-PER,red_bull,Australian Grand Prix,2023,C5,56.0,2.0,1
-PER,red_bull,Australian Grand Prix,2023,C5,58.0,1.0,1
+PER,red_bull,Australian Grand Prix,2023,C5,56.0,2.0,0
+PER,red_bull,Australian Grand Prix,2023,C5,58.0,1.0,0
 ALO,aston_martin,Australian Grand Prix,2023,C4,1.0,9.0,1
 ALO,aston_martin,Australian Grand Prix,2023,C3,9.0,47.0,1
-ALO,aston_martin,Australian Grand Prix,2023,C5,56.0,6.0,1
-ALO,aston_martin,Australian Grand Prix,2023,C5,58.0,5.0,1
-LEC,ferrari,Australian Grand Prix,2023,C4,1.0,1.0,1
+ALO,aston_martin,Australian Grand Prix,2023,C5,56.0,6.0,0
+ALO,aston_martin,Australian Grand Prix,2023,C5,58.0,5.0,0
+LEC,ferrari,Australian Grand Prix,2023,C4,1.0,1.0,0
 STR,aston_martin,Australian Grand Prix,2023,C4,1.0,9.0,1
 STR,aston_martin,Australian Grand Prix,2023,C3,9.0,47.0,1
 STR,aston_martin,Australian Grand Prix,2023,C5,56.0,7.0,1
 STR,aston_martin,Australian Grand Prix,2023,C5,58.0,7.0,1
-SAR,williams,Australian Grand Prix,2023,C3,1.0,1.0,1
+SAR,williams,Australian Grand Prix,2023,C3,1.0,1.0,0
 SAR,williams,Australian Grand Prix,2023,C3,2.0,7.0,1
 SAR,williams,Australian Grand Prix,2023,C4,9.0,28.0,1
 SAR,williams,Australian Grand Prix,2023,C3,37.0,25.0,1
-SAR,williams,Australian Grand Prix,2023,C5,55.0,3.0,1
+SAR,williams,Australian Grand Prix,2023,C5,55.0,3.0,0
 MAG,haas,Australian Grand Prix,2023,C4,1.0,7.0,1
 MAG,haas,Australian Grand Prix,2023,C3,8.0,46.0,1
 DEV,alphatauri,Australian Grand Prix,2023,C3,1.0,8.0,1
@@ -1306,45 +1306,45 @@ DEV,alphatauri,Australian Grand Prix,2023,C5,46.0,9.0,1
 DEV,alphatauri,Australian Grand Prix,2023,C5,55.0,7.0,1
 TSU,alphatauri,Australian Grand Prix,2023,C4,1.0,8.0,1
 TSU,alphatauri,Australian Grand Prix,2023,C3,9.0,46.0,1
-TSU,alphatauri,Australian Grand Prix,2023,C5,55.0,1.0,1
-TSU,alphatauri,Australian Grand Prix,2023,C5,56.0,6.0,1
+TSU,alphatauri,Australian Grand Prix,2023,C5,55.0,1.0,0
+TSU,alphatauri,Australian Grand Prix,2023,C5,56.0,6.0,0
 TSU,alphatauri,Australian Grand Prix,2023,C5,58.0,9.0,1
 ALB,williams,Australian Grand Prix,2023,C4,1.0,7.0,1
-ZHO,alfa,Australian Grand Prix,2023,C5,1.0,1.0,1
-ZHO,alfa,Australian Grand Prix,2023,C3,2.0,53.0,1
-ZHO,alfa,Australian Grand Prix,2023,C5,55.0,1.0,1
-ZHO,alfa,Australian Grand Prix,2023,C5,56.0,3.0,1
+ZHO,alfa,Australian Grand Prix,2023,C5,1.0,1.0,0
+ZHO,alfa,Australian Grand Prix,2023,C3,2.0,53.0,0
+ZHO,alfa,Australian Grand Prix,2023,C5,55.0,1.0,0
+ZHO,alfa,Australian Grand Prix,2023,C5,56.0,3.0,0
 HUL,haas,Australian Grand Prix,2023,C4,1.0,8.0,1
 HUL,haas,Australian Grand Prix,2023,C3,9.0,47.0,1
-HUL,haas,Australian Grand Prix,2023,C5,56.0,6.0,1
-HUL,haas,Australian Grand Prix,2023,C5,58.0,5.0,1
-OCO,alpine,Australian Grand Prix,2023,C5,1.0,1.0,1
-OCO,alpine,Australian Grand Prix,2023,C3,2.0,54.0,1
-OCO,alpine,Australian Grand Prix,2023,C5,56.0,2.0,1
+HUL,haas,Australian Grand Prix,2023,C5,56.0,6.0,0
+HUL,haas,Australian Grand Prix,2023,C5,58.0,5.0,0
+OCO,alpine,Australian Grand Prix,2023,C5,1.0,1.0,0
+OCO,alpine,Australian Grand Prix,2023,C3,2.0,54.0,0
+OCO,alpine,Australian Grand Prix,2023,C5,56.0,2.0,0
 NOR,mclaren,Australian Grand Prix,2023,C4,1.0,8.0,1
 NOR,mclaren,Australian Grand Prix,2023,C3,9.0,47.0,1
-NOR,mclaren,Australian Grand Prix,2023,C5,56.0,2.0,1
-NOR,mclaren,Australian Grand Prix,2023,C5,58.0,5.0,1
+NOR,mclaren,Australian Grand Prix,2023,C5,56.0,2.0,0
+NOR,mclaren,Australian Grand Prix,2023,C5,58.0,5.0,0
 HAM,mercedes,Australian Grand Prix,2023,C4,1.0,8.0,1
 HAM,mercedes,Australian Grand Prix,2023,C3,9.0,47.0,1
-HAM,mercedes,Australian Grand Prix,2023,C5,56.0,6.0,1
-HAM,mercedes,Australian Grand Prix,2023,C5,58.0,5.0,1
+HAM,mercedes,Australian Grand Prix,2023,C5,56.0,6.0,0
+HAM,mercedes,Australian Grand Prix,2023,C5,58.0,5.0,0
 SAI,ferrari,Australian Grand Prix,2023,C4,1.0,7.0,1
 SAI,ferrari,Australian Grand Prix,2023,C3,8.0,48.0,1
-SAI,ferrari,Australian Grand Prix,2023,C5,56.0,6.0,1
-SAI,ferrari,Australian Grand Prix,2023,C5,58.0,5.0,1
+SAI,ferrari,Australian Grand Prix,2023,C5,56.0,6.0,0
+SAI,ferrari,Australian Grand Prix,2023,C5,58.0,5.0,0
 RUS,mercedes,Australian Grand Prix,2023,C4,1.0,7.0,1
 RUS,mercedes,Australian Grand Prix,2023,C3,8.0,11.0,1
-BOT,alfa,Australian Grand Prix,2023,C5,1.0,1.0,1
-BOT,alfa,Australian Grand Prix,2023,C3,2.0,52.0,1
-BOT,alfa,Australian Grand Prix,2023,C5,54.0,5.0,1
+BOT,alfa,Australian Grand Prix,2023,C5,1.0,1.0,0
+BOT,alfa,Australian Grand Prix,2023,C3,2.0,52.0,0
+BOT,alfa,Australian Grand Prix,2023,C5,54.0,5.0,0
 PIA,mclaren,Australian Grand Prix,2023,C4,1.0,8.0,1
 PIA,mclaren,Australian Grand Prix,2023,C3,9.0,46.0,1
-PIA,mclaren,Australian Grand Prix,2023,C5,55.0,1.0,1
-PIA,mclaren,Australian Grand Prix,2023,C5,56.0,2.0,1
+PIA,mclaren,Australian Grand Prix,2023,C5,55.0,1.0,0
+PIA,mclaren,Australian Grand Prix,2023,C5,56.0,2.0,0
 VER,red_bull,Azerbaijan Grand Prix,2023,C4,1.0,10.0,1
 VER,red_bull,Azerbaijan Grand Prix,2023,C3,11.0,41.0,1
-GAS,alpine,Azerbaijan Grand Prix,2023,C4,1.0,5.0,1
+GAS,alpine,Azerbaijan Grand Prix,2023,C4,1.0,5.0,0
 GAS,alpine,Azerbaijan Grand Prix,2023,C3,6.0,18.0,1
 GAS,alpine,Azerbaijan Grand Prix,2023,C3,24.0,28.0,1
 PER,red_bull,Azerbaijan Grand Prix,2023,C4,1.0,11.0,1
@@ -1366,10 +1366,10 @@ ALB,williams,Azerbaijan Grand Prix,2023,C4,1.0,7.0,1
 ALB,williams,Azerbaijan Grand Prix,2023,C3,8.0,44.0,1
 ZHO,alfa,Azerbaijan Grand Prix,2023,C4,1.0,11.0,1
 ZHO,alfa,Azerbaijan Grand Prix,2023,C3,12.0,25.0,1
-HUL,haas,Azerbaijan Grand Prix,2023,C3,1.0,49.0,1
-HUL,haas,Azerbaijan Grand Prix,2023,C5,50.0,1.0,1
-OCO,alpine,Azerbaijan Grand Prix,2023,C3,1.0,50.0,1
-OCO,alpine,Azerbaijan Grand Prix,2023,C5,51.0,1.0,1
+HUL,haas,Azerbaijan Grand Prix,2023,C3,1.0,49.0,0
+HUL,haas,Azerbaijan Grand Prix,2023,C5,50.0,1.0,0
+OCO,alpine,Azerbaijan Grand Prix,2023,C3,1.0,50.0,0
+OCO,alpine,Azerbaijan Grand Prix,2023,C5,51.0,1.0,0
 NOR,mclaren,Azerbaijan Grand Prix,2023,C4,1.0,9.0,1
 NOR,mclaren,Azerbaijan Grand Prix,2023,C3,10.0,42.0,1
 HAM,mercedes,Azerbaijan Grand Prix,2023,C4,1.0,9.0,1
@@ -1378,9 +1378,9 @@ SAI,ferrari,Azerbaijan Grand Prix,2023,C4,1.0,11.0,1
 SAI,ferrari,Azerbaijan Grand Prix,2023,C3,12.0,40.0,1
 RUS,mercedes,Azerbaijan Grand Prix,2023,C4,1.0,11.0,1
 RUS,mercedes,Azerbaijan Grand Prix,2023,C3,12.0,38.0,1
-RUS,mercedes,Azerbaijan Grand Prix,2023,C5,50.0,2.0,1
-BOT,alfa,Azerbaijan Grand Prix,2023,C4,1.0,6.0,1
-BOT,alfa,Azerbaijan Grand Prix,2023,C3,7.0,6.0,1
+RUS,mercedes,Azerbaijan Grand Prix,2023,C5,50.0,2.0,0
+BOT,alfa,Azerbaijan Grand Prix,2023,C4,1.0,6.0,0
+BOT,alfa,Azerbaijan Grand Prix,2023,C3,7.0,6.0,0
 BOT,alfa,Azerbaijan Grand Prix,2023,C3,13.0,22.0,1
 BOT,alfa,Azerbaijan Grand Prix,2023,C4,35.0,16.0,1
 PIA,mclaren,Azerbaijan Grand Prix,2023,C4,1.0,8.0,1
@@ -1416,57 +1416,57 @@ HUL,haas,Miami Grand Prix,2023,C2,1.0,33.0,1
 HUL,haas,Miami Grand Prix,2023,C3,34.0,24.0,1
 ZHO,alfa,Miami Grand Prix,2023,C2,1.0,31.0,1
 ZHO,alfa,Miami Grand Prix,2023,C3,32.0,26.0,1
-NOR,mclaren,Miami Grand Prix,2023,C4,1.0,4.0,1
-NOR,mclaren,Miami Grand Prix,2023,C2,5.0,53.0,1
+NOR,mclaren,Miami Grand Prix,2023,C4,1.0,4.0,0
+NOR,mclaren,Miami Grand Prix,2023,C2,5.0,53.0,0
 DEV,alphatauri,Miami Grand Prix,2023,C3,1.0,15.0,1
 DEV,alphatauri,Miami Grand Prix,2023,C2,16.0,42.0,1
-PIA,mclaren,Miami Grand Prix,2023,C4,1.0,5.0,1
-PIA,mclaren,Miami Grand Prix,2023,C2,6.0,51.0,1
-SAR,williams,Miami Grand Prix,2023,C3,1.0,2.0,1
-VER,red_bull,Monaco Grand Prix,2023,C4,1.0,55.0,1
+PIA,mclaren,Miami Grand Prix,2023,C4,1.0,5.0,0
+PIA,mclaren,Miami Grand Prix,2023,C2,6.0,51.0,0
+SAR,williams,Miami Grand Prix,2023,C3,1.0,2.0,0
+VER,red_bull,Monaco Grand Prix,2023,C4,1.0,55.0,0
 VER,red_bull,Monaco Grand Prix,2023,0,56.0,23.0,0
 GAS,alpine,Monaco Grand Prix,2023,C3,1.0,47.0,1
 GAS,alpine,Monaco Grand Prix,2023,C4,48.0,7.0,1
 GAS,alpine,Monaco Grand Prix,2023,0,55.0,24.0,0
-PER,red_bull,Monaco Grand Prix,2023,C4,1.0,1.0,1
+PER,red_bull,Monaco Grand Prix,2023,C4,1.0,1.0,0
 PER,red_bull,Monaco Grand Prix,2023,C3,2.0,33.0,1
 PER,red_bull,Monaco Grand Prix,2023,C4,35.0,20.0,1
 PER,red_bull,Monaco Grand Prix,2023,0,54.0,4.0,0
 PER,red_bull,Monaco Grand Prix,2023,0,58.0,13.0,0
 PER,red_bull,Monaco Grand Prix,2023,0,71.0,6.0,0
-ALO,aston_martin,Monaco Grand Prix,2023,C3,1.0,55.0,1
-ALO,aston_martin,Monaco Grand Prix,2023,C4,55.0,2.0,1
+ALO,aston_martin,Monaco Grand Prix,2023,C3,1.0,55.0,0
+ALO,aston_martin,Monaco Grand Prix,2023,C4,55.0,2.0,0
 ALO,aston_martin,Monaco Grand Prix,2023,0,56.0,23.0,0
 LEC,ferrari,Monaco Grand Prix,2023,C3,1.0,44.0,1
 LEC,ferrari,Monaco Grand Prix,2023,C4,45.0,11.0,1
 LEC,ferrari,Monaco Grand Prix,2023,0,56.0,23.0,0
-STR,aston_martin,Monaco Grand Prix,2023,C3,1.0,52.0,1
+STR,aston_martin,Monaco Grand Prix,2023,C3,1.0,52.0,0
 STR,aston_martin,Monaco Grand Prix,2023,0,52.0,3.0,0
 SAR,williams,Monaco Grand Prix,2023,C4,1.0,20.0,1
-SAR,williams,Monaco Grand Prix,2023,C3,21.0,3.0,1
+SAR,williams,Monaco Grand Prix,2023,C3,21.0,3.0,0
 SAR,williams,Monaco Grand Prix,2023,C5,24.0,29.0,1
 SAR,williams,Monaco Grand Prix,2023,0,53.0,24.0,0
-MAG,haas,Monaco Grand Prix,2023,C3,1.0,56.0,1
+MAG,haas,Monaco Grand Prix,2023,C3,1.0,56.0,0
 MAG,haas,Monaco Grand Prix,2023,0,57.0,15.0,0
-DEV,alphatauri,Monaco Grand Prix,2023,C4,1.0,53.0,1
+DEV,alphatauri,Monaco Grand Prix,2023,C4,1.0,53.0,0
 DEV,alphatauri,Monaco Grand Prix,2023,0,54.0,24.0,0
-TSU,alphatauri,Monaco Grand Prix,2023,C4,1.0,53.0,1
+TSU,alphatauri,Monaco Grand Prix,2023,C4,1.0,53.0,0
 TSU,alphatauri,Monaco Grand Prix,2023,0,54.0,23.0,0
 ALB,williams,Monaco Grand Prix,2023,C4,1.0,18.0,1
 ALB,williams,Monaco Grand Prix,2023,C3,19.0,34.0,1
 ALB,williams,Monaco Grand Prix,2023,0,53.0,25.0,0
-ZHO,alfa,Monaco Grand Prix,2023,C5,1.0,1.0,1
-ZHO,alfa,Monaco Grand Prix,2023,C3,2.0,51.0,1
+ZHO,alfa,Monaco Grand Prix,2023,C5,1.0,1.0,0
+ZHO,alfa,Monaco Grand Prix,2023,C3,2.0,51.0,0
 ZHO,alfa,Monaco Grand Prix,2023,0,53.0,25.0,0
-HUL,haas,Monaco Grand Prix,2023,C4,1.0,1.0,1
-HUL,haas,Monaco Grand Prix,2023,C3,2.0,53.0,1
+HUL,haas,Monaco Grand Prix,2023,C4,1.0,1.0,0
+HUL,haas,Monaco Grand Prix,2023,C3,2.0,53.0,0
 HUL,haas,Monaco Grand Prix,2023,0,55.0,5.0,0
 HUL,haas,Monaco Grand Prix,2023,0,60.0,17.0,0
 OCO,alpine,Monaco Grand Prix,2023,C4,1.0,32.0,1
 OCO,alpine,Monaco Grand Prix,2023,C3,33.0,22.0,1
 OCO,alpine,Monaco Grand Prix,2023,0,55.0,24.0,0
-NOR,mclaren,Monaco Grand Prix,2023,C4,1.0,50.0,1
-NOR,mclaren,Monaco Grand Prix,2023,C3,51.0,4.0,1
+NOR,mclaren,Monaco Grand Prix,2023,C4,1.0,50.0,0
+NOR,mclaren,Monaco Grand Prix,2023,C3,51.0,4.0,0
 NOR,mclaren,Monaco Grand Prix,2023,0,55.0,23.0,0
 HAM,mercedes,Monaco Grand Prix,2023,C4,1.0,31.0,1
 HAM,mercedes,Monaco Grand Prix,2023,C3,32.0,23.0,1
@@ -1474,11 +1474,11 @@ HAM,mercedes,Monaco Grand Prix,2023,0,55.0,24.0,0
 SAI,ferrari,Monaco Grand Prix,2023,C3,1.0,33.0,1
 SAI,ferrari,Monaco Grand Prix,2023,C4,34.0,22.0,1
 SAI,ferrari,Monaco Grand Prix,2023,0,56.0,23.0,0
-RUS,mercedes,Monaco Grand Prix,2023,C3,1.0,54.0,1
+RUS,mercedes,Monaco Grand Prix,2023,C3,1.0,54.0,0
 RUS,mercedes,Monaco Grand Prix,2023,0,55.0,24.0,0
-BOT,alfa,Monaco Grand Prix,2023,C3,1.0,51.0,1
+BOT,alfa,Monaco Grand Prix,2023,C3,1.0,51.0,0
 BOT,alfa,Monaco Grand Prix,2023,0,52.0,26.0,0
-PIA,mclaren,Monaco Grand Prix,2023,C3,1.0,54.0,1
+PIA,mclaren,Monaco Grand Prix,2023,C3,1.0,54.0,0
 VER,red_bull,Spanish Grand Prix,2023,C2,1.0,26.0,1
 VER,red_bull,Spanish Grand Prix,2023,C1,27.0,26.0,1
 VER,red_bull,Spanish Grand Prix,2023,C3,53.0,16.0,1
@@ -1510,7 +1510,7 @@ GAS,alpine,Spanish Grand Prix,2023,C3,1.0,22.0,1
 GAS,alpine,Spanish Grand Prix,2023,C2,20.0,20.0,1
 GAS,alpine,Spanish Grand Prix,2023,C1,40.0,27.0,1
 LEC,ferrari,Spanish Grand Prix,2023,C1,1.0,16.0,1
-LEC,ferrari,Spanish Grand Prix,2023,C1,17.0,50.0,1
+LEC,ferrari,Spanish Grand Prix,2023,C1,17.0,50.0,0
 TSU,alphatauri,Spanish Grand Prix,2023,C3,1.0,10.0,1
 TSU,alphatauri,Spanish Grand Prix,2023,C1,11.0,24.0,1
 TSU,alphatauri,Spanish Grand Prix,2023,C2,35.0,32.0,1
@@ -1527,7 +1527,7 @@ HUL,haas,Spanish Grand Prix,2023,C2,44.0,22.0,1
 ALB,williams,Spanish Grand Prix,2023,C3,1.0,16.0,1
 ALB,williams,Spanish Grand Prix,2023,C1,17.0,21.0,1
 ALB,williams,Spanish Grand Prix,2023,C2,38.0,28.0,1
-NOR,mclaren,Spanish Grand Prix,2023,C3,1.0,3.0,1
+NOR,mclaren,Spanish Grand Prix,2023,C3,1.0,3.0,0
 NOR,mclaren,Spanish Grand Prix,2023,C1,2.0,21.0,1
 NOR,mclaren,Spanish Grand Prix,2023,C2,23.0,28.0,1
 NOR,mclaren,Spanish Grand Prix,2023,C3,51.0,18.0,1
@@ -1535,7 +1535,7 @@ MAG,haas,Spanish Grand Prix,2023,C3,1.0,10.0,1
 MAG,haas,Spanish Grand Prix,2023,C2,11.0,14.0,1
 MAG,haas,Spanish Grand Prix,2023,C1,25.0,18.0,1
 MAG,haas,Spanish Grand Prix,2023,C2,43.0,23.0,1
-BOT,alfa,Spanish Grand Prix,2023,C3,1.0,5.0,1
+BOT,alfa,Spanish Grand Prix,2023,C3,1.0,5.0,0
 BOT,alfa,Spanish Grand Prix,2023,C1,6.0,34.0,1
 BOT,alfa,Spanish Grand Prix,2023,C1,40.0,26.0,1
 SAR,williams,Spanish Grand Prix,2023,C2,1.0,17.0,1
@@ -1548,7 +1548,7 @@ GAS,alpine,Canadian Grand Prix,2023,C3,11.0,23.0,1
 GAS,alpine,Canadian Grand Prix,2023,C3,34.0,37.0,1
 PER,red_bull,Canadian Grand Prix,2023,C3,1.0,37.0,1
 PER,red_bull,Canadian Grand Prix,2023,C4,38.0,31.0,1
-PER,red_bull,Canadian Grand Prix,2023,C5,69.0,2.0,1
+PER,red_bull,Canadian Grand Prix,2023,C5,69.0,2.0,0
 ALO,aston_martin,Canadian Grand Prix,2023,C4,1.0,12.0,1
 ALO,aston_martin,Canadian Grand Prix,2023,C3,13.0,29.0,1
 ALO,aston_martin,Canadian Grand Prix,2023,C3,42.0,29.0,1
@@ -1564,11 +1564,11 @@ MAG,haas,Canadian Grand Prix,2023,C4,54.0,16.0,1
 DEV,alphatauri,Canadian Grand Prix,2023,C4,1.0,11.0,1
 DEV,alphatauri,Canadian Grand Prix,2023,C3,12.0,39.0,1
 DEV,alphatauri,Canadian Grand Prix,2023,C3,51.0,19.0,1
-TSU,alphatauri,Canadian Grand Prix,2023,C4,1.0,1.0,1
-TSU,alphatauri,Canadian Grand Prix,2023,C3,2.0,1.0,1
-TSU,alphatauri,Canadian Grand Prix,2023,C3,3.0,68.0,1
+TSU,alphatauri,Canadian Grand Prix,2023,C4,1.0,1.0,0
+TSU,alphatauri,Canadian Grand Prix,2023,C3,2.0,1.0,0
+TSU,alphatauri,Canadian Grand Prix,2023,C3,3.0,68.0,0
 ALB,williams,Canadian Grand Prix,2023,C4,1.0,13.0,1
-ALB,williams,Canadian Grand Prix,2023,C3,13.0,58.0,1
+ALB,williams,Canadian Grand Prix,2023,C3,13.0,58.0,0
 ZHO,alfa,Canadian Grand Prix,2023,C4,1.0,12.0,1
 ZHO,alfa,Canadian Grand Prix,2023,C3,13.0,20.0,1
 ZHO,alfa,Canadian Grand Prix,2023,C3,33.0,37.0,1
@@ -1595,7 +1595,7 @@ PIA,mclaren,Canadian Grand Prix,2023,C3,13.0,25.0,1
 VER,red_bull,Austrian Grand Prix,2023,C4,1.0,24.0,1
 VER,red_bull,Austrian Grand Prix,2023,C3,25.0,25.0,1
 VER,red_bull,Austrian Grand Prix,2023,C4,50.0,20.0,1
-VER,red_bull,Austrian Grand Prix,2023,C5,70.0,5.0,1
+VER,red_bull,Austrian Grand Prix,2023,C5,70.0,5.0,0
 GAS,alpine,Austrian Grand Prix,2023,C4,1.0,14.0,1
 GAS,alpine,Austrian Grand Prix,2023,C3,15.0,30.0,1
 GAS,alpine,Austrian Grand Prix,2023,C4,45.0,27.0,1
@@ -1615,14 +1615,14 @@ STR,aston_martin,Austrian Grand Prix,2023,C4,55.0,17.0,1
 SAR,williams,Austrian Grand Prix,2023,C4,1.0,14.0,1
 SAR,williams,Austrian Grand Prix,2023,C3,15.0,29.0,1
 SAR,williams,Austrian Grand Prix,2023,C3,44.0,27.0,1
-MAG,haas,Austrian Grand Prix,2023,C3,1.0,1.0,1
-MAG,haas,Austrian Grand Prix,2023,C4,2.0,1.0,1
+MAG,haas,Austrian Grand Prix,2023,C3,1.0,1.0,0
+MAG,haas,Austrian Grand Prix,2023,C4,2.0,1.0,0
 MAG,haas,Austrian Grand Prix,2023,C3,3.0,32.0,1
 MAG,haas,Austrian Grand Prix,2023,C3,35.0,37.0,1
 DEV,alphatauri,Austrian Grand Prix,2023,C4,1.0,12.0,1
 DEV,alphatauri,Austrian Grand Prix,2023,C3,13.0,25.0,1
 DEV,alphatauri,Austrian Grand Prix,2023,C4,38.0,33.0,1
-TSU,alphatauri,Austrian Grand Prix,2023,C4,1.0,1.0,1
+TSU,alphatauri,Austrian Grand Prix,2023,C4,1.0,1.0,0
 TSU,alphatauri,Austrian Grand Prix,2023,C3,2.0,22.0,1
 TSU,alphatauri,Austrian Grand Prix,2023,C3,24.0,20.0,1
 TSU,alphatauri,Austrian Grand Prix,2023,C4,44.0,27.0,1
@@ -1633,7 +1633,7 @@ ZHO,alfa,Austrian Grand Prix,2023,C4,1.0,8.0,1
 ZHO,alfa,Austrian Grand Prix,2023,C3,9.0,30.0,1
 ZHO,alfa,Austrian Grand Prix,2023,C3,39.0,32.0,1
 HUL,haas,Austrian Grand Prix,2023,C4,1.0,14.0,1
-HUL,haas,Austrian Grand Prix,2023,C3,12.0,2.0,1
+HUL,haas,Austrian Grand Prix,2023,C3,12.0,2.0,0
 OCO,alpine,Austrian Grand Prix,2023,C4,1.0,14.0,1
 OCO,alpine,Austrian Grand Prix,2023,C3,15.0,26.0,1
 OCO,alpine,Austrian Grand Prix,2023,C3,41.0,30.0,1
@@ -1672,7 +1672,7 @@ SAR,williams,British Grand Prix,2023,C2,1.0,29.0,1
 SAR,williams,British Grand Prix,2023,C3,30.0,23.0,1
 MAG,haas,British Grand Prix,2023,C2,1.0,32.0,1
 DEV,alphatauri,British Grand Prix,2023,C3,1.0,27.0,1
-DEV,alphatauri,British Grand Prix,2023,C2,28.0,5.0,1
+DEV,alphatauri,British Grand Prix,2023,C2,28.0,5.0,0
 DEV,alphatauri,British Grand Prix,2023,C3,33.0,20.0,1
 TSU,alphatauri,British Grand Prix,2023,C3,1.0,14.0,1
 TSU,alphatauri,British Grand Prix,2023,C1,15.0,18.0,1
@@ -1751,7 +1751,7 @@ MAG,haas,Hungarian Grand Prix,2023,C3,42.0,33.0,1
 SAR,williams,Hungarian Grand Prix,2023,C4,1.0,13.0,1
 SAR,williams,Hungarian Grand Prix,2023,C3,14.0,24.0,1
 SAR,williams,Hungarian Grand Prix,2023,C3,35.0,33.0,1
-OCO,alpine,Hungarian Grand Prix,2023,C4,1.0,5.0,1
+OCO,alpine,Hungarian Grand Prix,2023,C4,1.0,5.0,0
 VER,red_bull,Belgian Grand Prix,2023,C4,1.0,14.0,1
 VER,red_bull,Belgian Grand Prix,2023,C3,15.0,16.0,1
 VER,red_bull,Belgian Grand Prix,2023,C4,31.0,14.0,1
@@ -1764,16 +1764,16 @@ LEC,ferrari,Belgian Grand Prix,2023,C4,29.0,16.0,1
 HAM,mercedes,Belgian Grand Prix,2023,C4,1.0,12.0,1
 HAM,mercedes,Belgian Grand Prix,2023,C3,13.0,15.0,1
 HAM,mercedes,Belgian Grand Prix,2023,C4,28.0,15.0,1
-HAM,mercedes,Belgian Grand Prix,2023,C3,43.0,2.0,1
+HAM,mercedes,Belgian Grand Prix,2023,C3,43.0,2.0,0
 ALO,aston_martin,Belgian Grand Prix,2023,C3,1.0,10.0,1
 ALO,aston_martin,Belgian Grand Prix,2023,C3,11.0,19.0,1
 ALO,aston_martin,Belgian Grand Prix,2023,C4,30.0,15.0,1
 RUS,mercedes,Belgian Grand Prix,2023,C3,1.0,22.0,1
 RUS,mercedes,Belgian Grand Prix,2023,C4,23.0,22.0,1
-NOR,mclaren,Belgian Grand Prix,2023,C3,1.0,5.0,1
+NOR,mclaren,Belgian Grand Prix,2023,C3,1.0,5.0,0
 NOR,mclaren,Belgian Grand Prix,2023,C2,6.0,12.0,1
 NOR,mclaren,Belgian Grand Prix,2023,C4,18.0,27.0,1
-OCO,alpine,Belgian Grand Prix,2023,C4,1.0,6.0,1
+OCO,alpine,Belgian Grand Prix,2023,C4,1.0,6.0,0
 OCO,alpine,Belgian Grand Prix,2023,C3,7.0,19.0,1
 OCO,alpine,Belgian Grand Prix,2023,C4,26.0,19.0,1
 STR,aston_martin,Belgian Grand Prix,2023,C3,1.0,20.0,1
@@ -1783,7 +1783,7 @@ TSU,alphatauri,Belgian Grand Prix,2023,C3,10.0,15.0,1
 TSU,alphatauri,Belgian Grand Prix,2023,C4,25.0,20.0,1
 GAS,alpine,Belgian Grand Prix,2023,C4,1.0,23.0,1
 GAS,alpine,Belgian Grand Prix,2023,C3,24.0,21.0,1
-BOT,alfa,Belgian Grand Prix,2023,C4,1.0,6.0,1
+BOT,alfa,Belgian Grand Prix,2023,C4,1.0,6.0,0
 BOT,alfa,Belgian Grand Prix,2023,C3,7.0,18.0,1
 BOT,alfa,Belgian Grand Prix,2023,C3,25.0,20.0,1
 ZHO,alfa,Belgian Grand Prix,2023,C4,1.0,7.0,1
@@ -1793,10 +1793,10 @@ ALB,williams,Belgian Grand Prix,2023,C4,1.0,7.0,1
 ALB,williams,Belgian Grand Prix,2023,C3,8.0,16.0,1
 ALB,williams,Belgian Grand Prix,2023,C3,24.0,10.0,1
 ALB,williams,Belgian Grand Prix,2023,C4,34.0,11.0,1
-MAG,haas,Belgian Grand Prix,2023,C4,1.0,5.0,1
+MAG,haas,Belgian Grand Prix,2023,C4,1.0,5.0,0
 MAG,haas,Belgian Grand Prix,2023,C3,6.0,20.0,1
 MAG,haas,Belgian Grand Prix,2023,C3,26.0,19.0,1
-RIC,alphatauri,Belgian Grand Prix,2023,C4,1.0,5.0,1
+RIC,alphatauri,Belgian Grand Prix,2023,C4,1.0,5.0,0
 RIC,alphatauri,Belgian Grand Prix,2023,C3,6.0,17.0,1
 RIC,alphatauri,Belgian Grand Prix,2023,C3,23.0,22.0,1
 SAR,williams,Belgian Grand Prix,2023,C4,1.0,8.0,1
@@ -1808,33 +1808,33 @@ HUL,haas,Belgian Grand Prix,2023,C4,13.0,12.0,1
 HUL,haas,Belgian Grand Prix,2023,C4,25.0,20.0,1
 SAI,ferrari,Belgian Grand Prix,2023,C4,1.0,7.0,1
 SAI,ferrari,Belgian Grand Prix,2023,C3,8.0,16.0,1
-VER,red_bull,Dutch Grand Prix,2023,C3,1.0,2.0,1
+VER,red_bull,Dutch Grand Prix,2023,C3,1.0,2.0,0
 VER,red_bull,Dutch Grand Prix,2023,0,3.0,9.0,0
 VER,red_bull,Dutch Grand Prix,2023,C3,12.0,38.0,1
 VER,red_bull,Dutch Grand Prix,2023,C3,50.0,13.0,1
 VER,red_bull,Dutch Grand Prix,2023,0,62.0,14.0,0
 VER,red_bull,Dutch Grand Prix,2023,0,64.0,1.0,0
 VER,red_bull,Dutch Grand Prix,2023,0,65.0,12.0,0
-GAS,alpine,Dutch Grand Prix,2023,C3,1.0,1.0,1
+GAS,alpine,Dutch Grand Prix,2023,C3,1.0,1.0,0
 GAS,alpine,Dutch Grand Prix,2023,0,2.0,16.0,0
 GAS,alpine,Dutch Grand Prix,2023,C3,12.0,35.0,1
 GAS,alpine,Dutch Grand Prix,2023,C3,47.0,14.0,1
 GAS,alpine,Dutch Grand Prix,2023,0,61.0,12.0,0
-PER,red_bull,Dutch Grand Prix,2023,C3,1.0,1.0,1
+PER,red_bull,Dutch Grand Prix,2023,C3,1.0,1.0,0
 PER,red_bull,Dutch Grand Prix,2023,0,2.0,11.0,0
 PER,red_bull,Dutch Grand Prix,2023,C3,13.0,33.0,1
 PER,red_bull,Dutch Grand Prix,2023,C3,46.0,16.0,1
 PER,red_bull,Dutch Grand Prix,2023,0,61.0,9.0,0
 PER,red_bull,Dutch Grand Prix,2023,0,64.0,15.0,0
-ALO,aston_martin,Dutch Grand Prix,2023,C3,1.0,2.0,1
+ALO,aston_martin,Dutch Grand Prix,2023,C3,1.0,2.0,0
 ALO,aston_martin,Dutch Grand Prix,2023,0,3.0,8.0,0
 ALO,aston_martin,Dutch Grand Prix,2023,C3,11.0,38.0,1
 ALO,aston_martin,Dutch Grand Prix,2023,C3,49.0,15.0,1
 ALO,aston_martin,Dutch Grand Prix,2023,0,62.0,14.0,0
-LEC,ferrari,Dutch Grand Prix,2023,C3,1.0,1.0,1
+LEC,ferrari,Dutch Grand Prix,2023,C3,1.0,1.0,0
 LEC,ferrari,Dutch Grand Prix,2023,0,2.0,10.0,0
 LEC,ferrari,Dutch Grand Prix,2023,C3,12.0,30.0,1
-STR,aston_martin,Dutch Grand Prix,2023,C3,1.0,4.0,1
+STR,aston_martin,Dutch Grand Prix,2023,C3,1.0,4.0,0
 STR,aston_martin,Dutch Grand Prix,2023,0,5.0,5.0,0
 STR,aston_martin,Dutch Grand Prix,2023,C3,10.0,7.0,1
 STR,aston_martin,Dutch Grand Prix,2023,C2,17.0,18.0,1
@@ -1842,21 +1842,21 @@ STR,aston_martin,Dutch Grand Prix,2023,C3,35.0,26.0,1
 STR,aston_martin,Dutch Grand Prix,2023,0,61.0,8.0,0
 STR,aston_martin,Dutch Grand Prix,2023,0,64.0,14.0,0
 SAR,williams,Dutch Grand Prix,2023,C3,1.0,15.0,1
-MAG,haas,Dutch Grand Prix,2023,C3,1.0,1.0,1
+MAG,haas,Dutch Grand Prix,2023,C3,1.0,1.0,0
 MAG,haas,Dutch Grand Prix,2023,0,2.0,8.0,0
 MAG,haas,Dutch Grand Prix,2023,C3,10.0,26.0,1
 MAG,haas,Dutch Grand Prix,2023,C2,36.0,25.0,1
 MAG,haas,Dutch Grand Prix,2023,0,61.0,12.0,0
-TSU,alphatauri,Dutch Grand Prix,2023,C3,1.0,1.0,1
+TSU,alphatauri,Dutch Grand Prix,2023,C3,1.0,1.0,0
 TSU,alphatauri,Dutch Grand Prix,2023,0,2.0,14.0,0
-TSU,alphatauri,Dutch Grand Prix,2023,C3,11.0,50.0,1
+TSU,alphatauri,Dutch Grand Prix,2023,C3,11.0,50.0,0
 TSU,alphatauri,Dutch Grand Prix,2023,0,61.0,8.0,0
 TSU,alphatauri,Dutch Grand Prix,2023,0,64.0,14.0,0
 ALB,williams,Dutch Grand Prix,2023,C3,1.0,44.0,1
 ALB,williams,Dutch Grand Prix,2023,C2,45.0,17.0,1
 ALB,williams,Dutch Grand Prix,2023,0,62.0,7.0,0
 ALB,williams,Dutch Grand Prix,2023,0,64.0,14.0,0
-ZHO,alfa,Dutch Grand Prix,2023,C3,1.0,1.0,1
+ZHO,alfa,Dutch Grand Prix,2023,C3,1.0,1.0,0
 ZHO,alfa,Dutch Grand Prix,2023,0,2.0,9.0,0
 ZHO,alfa,Dutch Grand Prix,2023,C2,11.0,27.0,1
 ZHO,alfa,Dutch Grand Prix,2023,C3,38.0,23.0,1
@@ -1866,40 +1866,40 @@ HUL,haas,Dutch Grand Prix,2023,C2,17.0,32.0,1
 HUL,haas,Dutch Grand Prix,2023,C3,49.0,12.0,1
 HUL,haas,Dutch Grand Prix,2023,0,61.0,6.0,0
 HUL,haas,Dutch Grand Prix,2023,0,64.0,13.0,0
-OCO,alpine,Dutch Grand Prix,2023,C3,1.0,2.0,1
+OCO,alpine,Dutch Grand Prix,2023,C3,1.0,2.0,0
 OCO,alpine,Dutch Grand Prix,2023,0,3.0,8.0,0
 OCO,alpine,Dutch Grand Prix,2023,C3,11.0,33.0,1
 OCO,alpine,Dutch Grand Prix,2023,C3,44.0,18.0,1
 OCO,alpine,Dutch Grand Prix,2023,0,62.0,2.0,0
 OCO,alpine,Dutch Grand Prix,2023,0,64.0,9.0,0
-NOR,mclaren,Dutch Grand Prix,2023,C3,1.0,3.0,1
+NOR,mclaren,Dutch Grand Prix,2023,C3,1.0,3.0,0
 NOR,mclaren,Dutch Grand Prix,2023,0,4.0,7.0,0
 NOR,mclaren,Dutch Grand Prix,2023,C3,11.0,33.0,1
 NOR,mclaren,Dutch Grand Prix,2023,C3,43.0,21.0,1
 NOR,mclaren,Dutch Grand Prix,2023,0,61.0,7.0,0
 NOR,mclaren,Dutch Grand Prix,2023,0,64.0,20.0,0
-LAW,alphatauri,Dutch Grand Prix,2023,C3,1.0,1.0,1
+LAW,alphatauri,Dutch Grand Prix,2023,C3,1.0,1.0,0
 LAW,alphatauri,Dutch Grand Prix,2023,0,2.0,14.0,0
 LAW,alphatauri,Dutch Grand Prix,2023,C3,11.0,7.0,1
 LAW,alphatauri,Dutch Grand Prix,2023,C2,18.0,29.0,1
 LAW,alphatauri,Dutch Grand Prix,2023,C3,47.0,13.0,1
 LAW,alphatauri,Dutch Grand Prix,2023,0,60.0,4.0,0
 LAW,alphatauri,Dutch Grand Prix,2023,0,64.0,16.0,0
-HAM,mercedes,Dutch Grand Prix,2023,C2,1.0,3.0,1
+HAM,mercedes,Dutch Grand Prix,2023,C2,1.0,3.0,0
 HAM,mercedes,Dutch Grand Prix,2023,0,4.0,6.0,0
 HAM,mercedes,Dutch Grand Prix,2023,C3,10.0,36.0,1
 HAM,mercedes,Dutch Grand Prix,2023,C3,46.0,15.0,1
 HAM,mercedes,Dutch Grand Prix,2023,0,61.0,10.0,0
 HAM,mercedes,Dutch Grand Prix,2023,0,65.0,14.0,0
-SAI,ferrari,Dutch Grand Prix,2023,C3,1.0,2.0,1
+SAI,ferrari,Dutch Grand Prix,2023,C3,1.0,2.0,0
 SAI,ferrari,Dutch Grand Prix,2023,0,3.0,8.0,0
 SAI,ferrari,Dutch Grand Prix,2023,C3,11.0,31.0,1
 SAI,ferrari,Dutch Grand Prix,2023,C3,42.0,21.0,1
 SAI,ferrari,Dutch Grand Prix,2023,0,61.0,19.0,0
 SAI,ferrari,Dutch Grand Prix,2023,0,65.0,12.0,0
-RUS,mercedes,Dutch Grand Prix,2023,C3,1.0,4.0,1
+RUS,mercedes,Dutch Grand Prix,2023,C3,1.0,4.0,0
 RUS,mercedes,Dutch Grand Prix,2023,0,5.0,6.0,0
-RUS,mercedes,Dutch Grand Prix,2023,C3,11.0,6.0,1
+RUS,mercedes,Dutch Grand Prix,2023,C3,11.0,6.0,0
 RUS,mercedes,Dutch Grand Prix,2023,C1,17.0,44.0,1
 RUS,mercedes,Dutch Grand Prix,2023,0,61.0,15.0,0
 RUS,mercedes,Dutch Grand Prix,2023,0,64.0,9.0,0
@@ -1931,7 +1931,7 @@ SAR,williams,Italian Grand Prix,2023,C3,15.0,40.0,1
 MAG,haas,Italian Grand Prix,2023,C3,1.0,16.0,1
 MAG,haas,Italian Grand Prix,2023,C4,13.0,21.0,1
 MAG,haas,Italian Grand Prix,2023,C4,34.0,18.0,1
-TSU,alphatauri,Italian Grand Prix,2023,C4,1.0,4.0,1
+TSU,alphatauri,Italian Grand Prix,2023,C4,1.0,4.0,0
 ALB,williams,Italian Grand Prix,2023,C4,1.0,18.0,1
 ALB,williams,Italian Grand Prix,2023,C3,16.0,39.0,1
 ZHO,alfa,Italian Grand Prix,2023,C4,1.0,11.0,1
@@ -1974,11 +1974,11 @@ SAR,williams,Singapore Grand Prix,2023,C4,44.0,19.0,1
 MAG,haas,Singapore Grand Prix,2023,C4,1.0,20.0,1
 MAG,haas,Singapore Grand Prix,2023,C3,21.0,23.0,1
 MAG,haas,Singapore Grand Prix,2023,C5,44.0,22.0,1
-TSU,alphatauri,Singapore Grand Prix,2023,C5,1.0,1.0,1
+TSU,alphatauri,Singapore Grand Prix,2023,C5,1.0,1.0,0
 ALB,williams,Singapore Grand Prix,2023,C4,1.0,20.0,1
 ALB,williams,Singapore Grand Prix,2023,C3,21.0,23.0,1
 ALB,williams,Singapore Grand Prix,2023,C4,44.0,19.0,1
-ZHO,alfa,Singapore Grand Prix,2023,C5,1.0,2.0,1
+ZHO,alfa,Singapore Grand Prix,2023,C5,1.0,2.0,0
 ZHO,alfa,Singapore Grand Prix,2023,C3,3.0,18.0,1
 ZHO,alfa,Singapore Grand Prix,2023,C4,21.0,42.0,1
 HUL,haas,Singapore Grand Prix,2023,C4,1.0,20.0,1
@@ -2023,7 +2023,7 @@ RUS,mercedes,Japanese Grand Prix,2023,C1,25.0,29.0,1
 ALO,aston_martin,Japanese Grand Prix,2023,C3,1.0,14.0,1
 ALO,aston_martin,Japanese Grand Prix,2023,C1,12.0,14.0,1
 ALO,aston_martin,Japanese Grand Prix,2023,C1,26.0,28.0,1
-OCO,alpine,Japanese Grand Prix,2023,C2,1.0,1.0,1
+OCO,alpine,Japanese Grand Prix,2023,C2,1.0,1.0,0
 OCO,alpine,Japanese Grand Prix,2023,C1,2.0,27.0,1
 OCO,alpine,Japanese Grand Prix,2023,C1,29.0,25.0,1
 GAS,alpine,Japanese Grand Prix,2023,C2,1.0,18.0,1
@@ -2035,7 +2035,7 @@ LAW,alphatauri,Japanese Grand Prix,2023,C1,26.0,27.0,1
 TSU,alphatauri,Japanese Grand Prix,2023,C3,1.0,12.0,1
 TSU,alphatauri,Japanese Grand Prix,2023,C2,10.0,21.0,1
 TSU,alphatauri,Japanese Grand Prix,2023,C1,31.0,22.0,1
-ZHO,alfa,Japanese Grand Prix,2023,C3,1.0,1.0,1
+ZHO,alfa,Japanese Grand Prix,2023,C3,1.0,1.0,0
 ZHO,alfa,Japanese Grand Prix,2023,C3,2.0,9.0,1
 ZHO,alfa,Japanese Grand Prix,2023,C3,11.0,19.0,1
 ZHO,alfa,Japanese Grand Prix,2023,C1,30.0,23.0,1
@@ -2046,25 +2046,25 @@ HUL,haas,Japanese Grand Prix,2023,C2,38.0,15.0,1
 MAG,haas,Japanese Grand Prix,2023,C2,1.0,12.0,1
 MAG,haas,Japanese Grand Prix,2023,C1,13.0,19.0,1
 MAG,haas,Japanese Grand Prix,2023,C1,32.0,21.0,1
-ALB,williams,Japanese Grand Prix,2023,C2,1.0,1.0,1
+ALB,williams,Japanese Grand Prix,2023,C2,1.0,1.0,0
 ALB,williams,Japanese Grand Prix,2023,C2,2.0,12.0,1
 ALB,williams,Japanese Grand Prix,2023,C3,14.0,13.0,1
-SAR,williams,Japanese Grand Prix,2023,C2,1.0,5.0,1
+SAR,williams,Japanese Grand Prix,2023,C2,1.0,5.0,0
 SAR,williams,Japanese Grand Prix,2023,C2,6.0,16.0,1
-SAR,williams,Japanese Grand Prix,2023,C1,22.0,1.0,1
+SAR,williams,Japanese Grand Prix,2023,C1,22.0,1.0,0
 STR,aston_martin,Japanese Grand Prix,2023,C3,1.0,14.0,1
-STR,aston_martin,Japanese Grand Prix,2023,C2,15.0,6.0,1
-PER,red_bull,Japanese Grand Prix,2023,C2,1.0,2.0,1
+STR,aston_martin,Japanese Grand Prix,2023,C2,15.0,6.0,0
+PER,red_bull,Japanese Grand Prix,2023,C2,1.0,2.0,0
 PER,red_bull,Japanese Grand Prix,2023,C1,3.0,10.0,1
-PER,red_bull,Japanese Grand Prix,2023,C3,13.0,4.0,1
-PER,red_bull,Japanese Grand Prix,2023,C3,14.0,4.0,1
+PER,red_bull,Japanese Grand Prix,2023,C3,13.0,4.0,0
+PER,red_bull,Japanese Grand Prix,2023,C3,14.0,4.0,0
 PER,red_bull,Japanese Grand Prix,2023,C3,15.0,7.0,1
-BOT,alfa,Japanese Grand Prix,2023,C3,1.0,1.0,1
-BOT,alfa,Japanese Grand Prix,2023,C3,2.0,5.0,1
+BOT,alfa,Japanese Grand Prix,2023,C3,1.0,1.0,0
+BOT,alfa,Japanese Grand Prix,2023,C3,2.0,5.0,0
 VER,red_bull,Qatar Grand Prix,2023,C2,1.0,20.0,1
 VER,red_bull,Qatar Grand Prix,2023,C2,18.0,20.0,1
 VER,red_bull,Qatar Grand Prix,2023,C1,35.0,17.0,1
-VER,red_bull,Qatar Grand Prix,2023,C2,52.0,6.0,1
+VER,red_bull,Qatar Grand Prix,2023,C2,52.0,6.0,0
 PIA,mclaren,Qatar Grand Prix,2023,C2,1.0,18.0,1
 PIA,mclaren,Qatar Grand Prix,2023,C2,13.0,20.0,1
 PIA,mclaren,Qatar Grand Prix,2023,C2,26.0,18.0,1
@@ -2090,14 +2090,14 @@ OCO,alpine,Qatar Grand Prix,2023,C2,1.0,17.0,1
 OCO,alpine,Qatar Grand Prix,2023,C2,11.0,20.0,1
 OCO,alpine,Qatar Grand Prix,2023,C1,26.0,18.0,1
 OCO,alpine,Qatar Grand Prix,2023,C2,44.0,14.0,1
-BOT,alfa,Qatar Grand Prix,2023,C3,1.0,6.0,1
+BOT,alfa,Qatar Grand Prix,2023,C3,1.0,6.0,0
 BOT,alfa,Qatar Grand Prix,2023,C2,4.0,18.0,1
 BOT,alfa,Qatar Grand Prix,2023,C1,22.0,18.0,1
 BOT,alfa,Qatar Grand Prix,2023,C1,40.0,19.0,1
 ZHO,alfa,Qatar Grand Prix,2023,C2,1.0,18.0,1
 ZHO,alfa,Qatar Grand Prix,2023,C1,19.0,17.0,1
 ZHO,alfa,Qatar Grand Prix,2023,C1,36.0,17.0,1
-ZHO,alfa,Qatar Grand Prix,2023,C3,53.0,5.0,1
+ZHO,alfa,Qatar Grand Prix,2023,C3,53.0,5.0,0
 PER,red_bull,Qatar Grand Prix,2023,C1,1.0,17.0,1
 PER,red_bull,Qatar Grand Prix,2023,C2,18.0,20.0,1
 PER,red_bull,Qatar Grand Prix,2023,C2,32.0,18.0,1
@@ -2114,7 +2114,7 @@ ALB,williams,Qatar Grand Prix,2023,C2,1.0,18.0,1
 ALB,williams,Qatar Grand Prix,2023,C2,19.0,13.0,1
 ALB,williams,Qatar Grand Prix,2023,C1,32.0,13.0,1
 ALB,williams,Qatar Grand Prix,2023,C1,45.0,13.0,1
-MAG,haas,Qatar Grand Prix,2023,C3,1.0,3.0,1
+MAG,haas,Qatar Grand Prix,2023,C3,1.0,3.0,0
 MAG,haas,Qatar Grand Prix,2023,C2,4.0,18.0,1
 MAG,haas,Qatar Grand Prix,2023,C1,22.0,18.0,1
 MAG,haas,Qatar Grand Prix,2023,C1,40.0,17.0,1
@@ -2126,7 +2126,7 @@ HUL,haas,Qatar Grand Prix,2023,C2,1.0,20.0,1
 HUL,haas,Qatar Grand Prix,2023,C1,14.0,14.0,1
 HUL,haas,Qatar Grand Prix,2023,C2,28.0,18.0,1
 HUL,haas,Qatar Grand Prix,2023,C1,40.0,17.0,1
-LAW,alphatauri,Qatar Grand Prix,2023,C3,1.0,3.0,1
+LAW,alphatauri,Qatar Grand Prix,2023,C3,1.0,3.0,0
 LAW,alphatauri,Qatar Grand Prix,2023,C1,4.0,18.0,1
 LAW,alphatauri,Qatar Grand Prix,2023,C1,22.0,18.0,1
 LAW,alphatauri,Qatar Grand Prix,2023,C2,40.0,17.0,1
@@ -2157,7 +2157,7 @@ STR,aston_martin,United States Grand Prix,2023,C3,41.0,16.0,1
 TSU,alphatauri,United States Grand Prix,2023,C3,1.0,17.0,1
 TSU,alphatauri,United States Grand Prix,2023,C2,18.0,17.0,1
 TSU,alphatauri,United States Grand Prix,2023,C3,35.0,20.0,1
-TSU,alphatauri,United States Grand Prix,2023,C4,55.0,2.0,1
+TSU,alphatauri,United States Grand Prix,2023,C4,55.0,2.0,0
 ALB,williams,United States Grand Prix,2023,C3,1.0,13.0,1
 ALB,williams,United States Grand Prix,2023,C2,11.0,19.0,1
 ALB,williams,United States Grand Prix,2023,C3,30.0,33.0,1
@@ -2183,7 +2183,7 @@ ALO,aston_martin,United States Grand Prix,2023,C3,1.0,19.0,1
 ALO,aston_martin,United States Grand Prix,2023,C3,20.0,23.0,1
 ALO,aston_martin,United States Grand Prix,2023,C2,43.0,7.0,1
 PIA,mclaren,United States Grand Prix,2023,C3,1.0,10.0,1
-OCO,alpine,United States Grand Prix,2023,C3,1.0,6.0,1
+OCO,alpine,United States Grand Prix,2023,C3,1.0,6.0,0
 HAM,mercedes,United States Grand Prix,2023,C3,1.0,20.0,1
 HAM,mercedes,United States Grand Prix,2023,C2,21.0,18.0,1
 HAM,mercedes,United States Grand Prix,2023,C3,39.0,18.0,1
@@ -2193,7 +2193,7 @@ VER,red_bull,Mexico City Grand Prix,2023,C3,20.0,14.0,1
 VER,red_bull,Mexico City Grand Prix,2023,C3,34.0,38.0,1
 GAS,alpine,Mexico City Grand Prix,2023,C4,1.0,28.0,1
 GAS,alpine,Mexico City Grand Prix,2023,C3,29.0,43.0,1
-PER,red_bull,Mexico City Grand Prix,2023,C4,1.0,1.0,1
+PER,red_bull,Mexico City Grand Prix,2023,C4,1.0,1.0,0
 ALO,aston_martin,Mexico City Grand Prix,2023,C4,1.0,30.0,1
 ALO,aston_martin,Mexico City Grand Prix,2023,C3,30.0,19.0,1
 LEC,ferrari,Mexico City Grand Prix,2023,C4,1.0,31.0,1
@@ -2211,7 +2211,7 @@ TSU,alphatauri,Mexico City Grand Prix,2023,C3,35.0,37.0,1
 ALB,williams,Mexico City Grand Prix,2023,C3,1.0,33.0,1
 ALB,williams,Mexico City Grand Prix,2023,C4,34.0,38.0,1
 ZHO,alfa,Mexico City Grand Prix,2023,C4,1.0,21.0,1
-ZHO,alfa,Mexico City Grand Prix,2023,C3,22.0,50.0,1
+ZHO,alfa,Mexico City Grand Prix,2023,C3,22.0,50.0,0
 HUL,haas,Mexico City Grand Prix,2023,C4,1.0,23.0,1
 HUL,haas,Mexico City Grand Prix,2023,C3,24.0,11.0,1
 HUL,haas,Mexico City Grand Prix,2023,C4,35.0,37.0,1
@@ -2234,81 +2234,81 @@ BOT,alfa,Mexico City Grand Prix,2023,C4,1.0,31.0,1
 BOT,alfa,Mexico City Grand Prix,2023,C3,32.0,40.0,1
 PIA,mclaren,Mexico City Grand Prix,2023,C4,1.0,25.0,1
 PIA,mclaren,Mexico City Grand Prix,2023,C3,26.0,9.0,1
-VER,red_bull,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+VER,red_bull,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 VER,red_bull,Sao Paulo Grand Prix,2023,C4,3.0,28.0,1
 VER,red_bull,Sao Paulo Grand Prix,2023,C3,28.0,29.0,1
 VER,red_bull,Sao Paulo Grand Prix,2023,C4,57.0,15.0,1
-NOR,mclaren,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+NOR,mclaren,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 NOR,mclaren,Sao Paulo Grand Prix,2023,C4,3.0,25.0,1
 NOR,mclaren,Sao Paulo Grand Prix,2023,C3,28.0,32.0,1
 NOR,mclaren,Sao Paulo Grand Prix,2023,C4,60.0,15.0,1
-ALO,aston_martin,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+ALO,aston_martin,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 ALO,aston_martin,Sao Paulo Grand Prix,2023,C4,3.0,26.0,1
 ALO,aston_martin,Sao Paulo Grand Prix,2023,C3,26.0,22.0,1
 ALO,aston_martin,Sao Paulo Grand Prix,2023,C4,48.0,24.0,1
-PER,red_bull,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+PER,red_bull,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 PER,red_bull,Sao Paulo Grand Prix,2023,C4,3.0,21.0,1
 PER,red_bull,Sao Paulo Grand Prix,2023,C3,21.0,26.0,1
 PER,red_bull,Sao Paulo Grand Prix,2023,C4,47.0,28.0,1
-STR,aston_martin,Sao Paulo Grand Prix,2023,C4,1.0,2.0,1
+STR,aston_martin,Sao Paulo Grand Prix,2023,C4,1.0,2.0,0
 STR,aston_martin,Sao Paulo Grand Prix,2023,C4,3.0,23.0,1
 STR,aston_martin,Sao Paulo Grand Prix,2023,C3,23.0,30.0,1
 STR,aston_martin,Sao Paulo Grand Prix,2023,C4,53.0,21.0,1
 SAI,ferrari,Sao Paulo Grand Prix,2023,C4,1.0,28.0,1
 SAI,ferrari,Sao Paulo Grand Prix,2023,C3,27.0,25.0,1
 SAI,ferrari,Sao Paulo Grand Prix,2023,C4,52.0,23.0,1
-GAS,alpine,Sao Paulo Grand Prix,2023,C4,1.0,4.0,1
+GAS,alpine,Sao Paulo Grand Prix,2023,C4,1.0,4.0,0
 GAS,alpine,Sao Paulo Grand Prix,2023,C4,3.0,27.0,1
 GAS,alpine,Sao Paulo Grand Prix,2023,C3,27.0,20.0,1
 GAS,alpine,Sao Paulo Grand Prix,2023,C4,47.0,25.0,1
-HAM,mercedes,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+HAM,mercedes,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 HAM,mercedes,Sao Paulo Grand Prix,2023,C4,3.0,19.0,1
 HAM,mercedes,Sao Paulo Grand Prix,2023,C3,19.0,28.0,1
 HAM,mercedes,Sao Paulo Grand Prix,2023,C4,47.0,28.0,1
-TSU,alphatauri,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+TSU,alphatauri,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 TSU,alphatauri,Sao Paulo Grand Prix,2023,C4,3.0,24.0,1
 TSU,alphatauri,Sao Paulo Grand Prix,2023,C3,27.0,29.0,1
 TSU,alphatauri,Sao Paulo Grand Prix,2023,C4,56.0,19.0,1
-OCO,alpine,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+OCO,alpine,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 OCO,alpine,Sao Paulo Grand Prix,2023,C4,3.0,15.0,1
 OCO,alpine,Sao Paulo Grand Prix,2023,C3,15.0,17.0,1
 OCO,alpine,Sao Paulo Grand Prix,2023,C4,32.0,23.0,1
 OCO,alpine,Sao Paulo Grand Prix,2023,C4,52.0,19.0,1
-SAR,williams,Sao Paulo Grand Prix,2023,C3,1.0,2.0,1
+SAR,williams,Sao Paulo Grand Prix,2023,C3,1.0,2.0,0
 SAR,williams,Sao Paulo Grand Prix,2023,C4,3.0,15.0,1
 SAR,williams,Sao Paulo Grand Prix,2023,C4,18.0,27.0,1
 SAR,williams,Sao Paulo Grand Prix,2023,C4,45.0,26.0,1
-HUL,haas,Sao Paulo Grand Prix,2023,C4,1.0,1.0,1
-HUL,haas,Sao Paulo Grand Prix,2023,C3,2.0,1.0,1
+HUL,haas,Sao Paulo Grand Prix,2023,C4,1.0,1.0,0
+HUL,haas,Sao Paulo Grand Prix,2023,C3,2.0,1.0,0
 HUL,haas,Sao Paulo Grand Prix,2023,C4,3.0,22.0,1
 HUL,haas,Sao Paulo Grand Prix,2023,C4,22.0,28.0,1
 HUL,haas,Sao Paulo Grand Prix,2023,C4,47.0,27.0,1
-RIC,alphatauri,Sao Paulo Grand Prix,2023,C4,1.0,1.0,1
+RIC,alphatauri,Sao Paulo Grand Prix,2023,C4,1.0,1.0,0
 RIC,alphatauri,Sao Paulo Grand Prix,2023,C4,2.0,28.0,1
 RIC,alphatauri,Sao Paulo Grand Prix,2023,C3,27.0,29.0,1
 RIC,alphatauri,Sao Paulo Grand Prix,2023,C4,56.0,15.0,1
-PIA,mclaren,Sao Paulo Grand Prix,2023,C4,1.0,3.0,1
+PIA,mclaren,Sao Paulo Grand Prix,2023,C4,1.0,3.0,0
 PIA,mclaren,Sao Paulo Grand Prix,2023,C3,2.0,23.0,1
 PIA,mclaren,Sao Paulo Grand Prix,2023,C4,25.0,31.0,1
 PIA,mclaren,Sao Paulo Grand Prix,2023,C4,53.0,22.0,1
-RUS,mercedes,Sao Paulo Grand Prix,2023,C4,1.0,5.0,1
+RUS,mercedes,Sao Paulo Grand Prix,2023,C4,1.0,5.0,0
 RUS,mercedes,Sao Paulo Grand Prix,2023,C4,3.0,20.0,1
 RUS,mercedes,Sao Paulo Grand Prix,2023,C3,20.0,26.0,1
 RUS,mercedes,Sao Paulo Grand Prix,2023,C4,46.0,15.0,1
-BOT,alfa,Sao Paulo Grand Prix,2023,C4,1.0,2.0,1
+BOT,alfa,Sao Paulo Grand Prix,2023,C4,1.0,2.0,0
 BOT,alfa,Sao Paulo Grand Prix,2023,C4,3.0,16.0,1
 BOT,alfa,Sao Paulo Grand Prix,2023,C3,19.0,21.0,1
-ZHO,alfa,Sao Paulo Grand Prix,2023,C4,1.0,2.0,1
+ZHO,alfa,Sao Paulo Grand Prix,2023,C4,1.0,2.0,0
 ZHO,alfa,Sao Paulo Grand Prix,2023,C4,3.0,13.0,1
 ZHO,alfa,Sao Paulo Grand Prix,2023,C3,16.0,7.0,1
-MAG,haas,Sao Paulo Grand Prix,2023,C4,1.0,1.0,1
-ALB,williams,Sao Paulo Grand Prix,2023,C4,1.0,4.0,1
+MAG,haas,Sao Paulo Grand Prix,2023,C4,1.0,1.0,0
+ALB,williams,Sao Paulo Grand Prix,2023,C4,1.0,4.0,0
 VER,red_bull,Las Vegas Grand Prix,2023,C4,1.0,16.0,1
 VER,red_bull,Las Vegas Grand Prix,2023,C3,17.0,10.0,1
 VER,red_bull,Las Vegas Grand Prix,2023,C3,27.0,24.0,1
 GAS,alpine,Las Vegas Grand Prix,2023,C4,1.0,17.0,1
 GAS,alpine,Las Vegas Grand Prix,2023,C3,18.0,33.0,1
-PER,red_bull,Las Vegas Grand Prix,2023,C4,1.0,1.0,1
+PER,red_bull,Las Vegas Grand Prix,2023,C4,1.0,1.0,0
 PER,red_bull,Las Vegas Grand Prix,2023,C3,2.0,25.0,1
 PER,red_bull,Las Vegas Grand Prix,2023,C3,27.0,24.0,1
 ALO,aston_martin,Las Vegas Grand Prix,2023,C3,1.0,26.0,1
@@ -2337,17 +2337,17 @@ RIC,alphatauri,Las Vegas Grand Prix,2023,C4,1.0,17.0,1
 RIC,alphatauri,Las Vegas Grand Prix,2023,C3,18.0,33.0,1
 OCO,alpine,Las Vegas Grand Prix,2023,C4,1.0,20.0,1
 OCO,alpine,Las Vegas Grand Prix,2023,C3,21.0,30.0,1
-NOR,mclaren,Las Vegas Grand Prix,2023,C4,1.0,4.0,1
+NOR,mclaren,Las Vegas Grand Prix,2023,C4,1.0,4.0,0
 HAM,mercedes,Las Vegas Grand Prix,2023,C3,1.0,17.0,1
 HAM,mercedes,Las Vegas Grand Prix,2023,C4,18.0,9.0,1
 HAM,mercedes,Las Vegas Grand Prix,2023,C3,27.0,24.0,1
-SAI,ferrari,Las Vegas Grand Prix,2023,C4,1.0,3.0,1
+SAI,ferrari,Las Vegas Grand Prix,2023,C4,1.0,3.0,0
 SAI,ferrari,Las Vegas Grand Prix,2023,C3,4.0,23.0,1
 SAI,ferrari,Las Vegas Grand Prix,2023,C3,27.0,24.0,1
 RUS,mercedes,Las Vegas Grand Prix,2023,C4,1.0,15.0,1
 RUS,mercedes,Las Vegas Grand Prix,2023,C3,16.0,11.0,1
 RUS,mercedes,Las Vegas Grand Prix,2023,C3,27.0,24.0,1
-BOT,alfa,Las Vegas Grand Prix,2023,C4,1.0,1.0,1
+BOT,alfa,Las Vegas Grand Prix,2023,C4,1.0,1.0,0
 BOT,alfa,Las Vegas Grand Prix,2023,C3,2.0,23.0,1
 BOT,alfa,Las Vegas Grand Prix,2023,C4,25.0,26.0,1
 PIA,mclaren,Las Vegas Grand Prix,2023,C3,1.0,17.0,1
@@ -2403,10 +2403,10 @@ ZHO,alfa,Abu Dhabi Grand Prix,2023,C3,14.0,24.0,1
 ZHO,alfa,Abu Dhabi Grand Prix,2023,C4,38.0,21.0,1
 SAI,ferrari,Abu Dhabi Grand Prix,2023,C3,1.0,23.0,1
 SAI,ferrari,Abu Dhabi Grand Prix,2023,C3,24.0,33.0,1
-SAI,ferrari,Abu Dhabi Grand Prix,2023,C5,57.0,1.0,1
+SAI,ferrari,Abu Dhabi Grand Prix,2023,C5,57.0,1.0,0
 BOT,alfa,Abu Dhabi Grand Prix,2023,C3,1.0,29.0,1
 BOT,alfa,Abu Dhabi Grand Prix,2023,C4,30.0,28.0,1
-MAG,haas,Abu Dhabi Grand Prix,2023,C4,1.0,5.0,1
+MAG,haas,Abu Dhabi Grand Prix,2023,C4,1.0,5.0,0
 MAG,haas,Abu Dhabi Grand Prix,2023,C3,6.0,17.0,1
 VER,red_bull,Bahrain Grand Prix,2024,C3,1.0,20.0,1
 VER,red_bull,Bahrain Grand Prix,2024,C1,18.0,20.0,1
@@ -2453,7 +2453,7 @@ TSU,rb,Bahrain Grand Prix,2024,C1,35.0,22.0,1
 ALB,williams,Bahrain Grand Prix,2024,C3,1.0,15.0,1
 ALB,williams,Bahrain Grand Prix,2024,C1,16.0,21.0,1
 ALB,williams,Bahrain Grand Prix,2024,C1,37.0,20.0,1
-HUL,haas,Bahrain Grand Prix,2024,C3,1.0,1.0,1
+HUL,haas,Bahrain Grand Prix,2024,C3,1.0,1.0,0
 HUL,haas,Bahrain Grand Prix,2024,C1,2.0,19.0,1
 HUL,haas,Bahrain Grand Prix,2024,C1,21.0,21.0,1
 HUL,haas,Bahrain Grand Prix,2024,C3,42.0,16.0,1
@@ -2472,7 +2472,7 @@ SAR,williams,Bahrain Grand Prix,2024,C1,11.0,18.0,1
 SAR,williams,Bahrain Grand Prix,2024,C1,29.0,12.0,1
 VER,red_bull,Saudi Arabian Grand Prix,2024,C3,1.0,7.0,1
 VER,red_bull,Saudi Arabian Grand Prix,2024,C2,8.0,43.0,1
-GAS,alpine,Saudi Arabian Grand Prix,2024,C3,1.0,1.0,1
+GAS,alpine,Saudi Arabian Grand Prix,2024,C3,1.0,1.0,0
 PER,red_bull,Saudi Arabian Grand Prix,2024,C3,1.0,7.0,1
 PER,red_bull,Saudi Arabian Grand Prix,2024,C2,8.0,43.0,1
 ALO,aston_martin,Saudi Arabian Grand Prix,2024,C3,1.0,8.0,1
@@ -2508,7 +2508,7 @@ BOT,sauber,Saudi Arabian Grand Prix,2024,C4,1.0,7.0,1
 BOT,sauber,Saudi Arabian Grand Prix,2024,C2,8.0,28.0,1
 BOT,sauber,Saudi Arabian Grand Prix,2024,C4,36.0,14.0,1
 PIA,mclaren,Saudi Arabian Grand Prix,2024,C3,1.0,7.0,1
-VER,red_bull,Australian Grand Prix,2024,C4,1.0,4.0,1
+VER,red_bull,Australian Grand Prix,2024,C4,1.0,4.0,0
 GAS,alpine,Australian Grand Prix,2024,C4,1.0,17.0,1
 GAS,alpine,Australian Grand Prix,2024,C3,18.0,24.0,1
 GAS,alpine,Australian Grand Prix,2024,C3,42.0,16.0,1
@@ -2530,16 +2530,16 @@ MAG,haas,Australian Grand Prix,2024,C3,34.0,24.0,1
 TSU,rb,Australian Grand Prix,2024,C4,1.0,9.0,1
 TSU,rb,Australian Grand Prix,2024,C3,10.0,27.0,1
 TSU,rb,Australian Grand Prix,2024,C3,37.0,22.0,1
-ALB,williams,Australian Grand Prix,2024,C4,1.0,6.0,1
+ALB,williams,Australian Grand Prix,2024,C4,1.0,6.0,0
 ALB,williams,Australian Grand Prix,2024,C3,7.0,21.0,1
 ALB,williams,Australian Grand Prix,2024,C3,28.0,30.0,1
-ZHO,sauber,Australian Grand Prix,2024,C5,1.0,6.0,1
+ZHO,sauber,Australian Grand Prix,2024,C5,1.0,6.0,0
 ZHO,sauber,Australian Grand Prix,2024,C3,7.0,30.0,1
 ZHO,sauber,Australian Grand Prix,2024,C3,36.0,22.0,1
 HUL,haas,Australian Grand Prix,2024,C3,1.0,17.0,1
 HUL,haas,Australian Grand Prix,2024,C4,18.0,18.0,1
 HUL,haas,Australian Grand Prix,2024,C3,36.0,23.0,1
-RIC,rb,Australian Grand Prix,2024,C5,1.0,5.0,1
+RIC,rb,Australian Grand Prix,2024,C5,1.0,5.0,0
 RIC,rb,Australian Grand Prix,2024,C3,6.0,24.0,1
 RIC,rb,Australian Grand Prix,2024,C3,30.0,28.0,1
 OCO,alpine,Australian Grand Prix,2024,C4,1.0,9.0,1
@@ -2568,11 +2568,11 @@ VER,red_bull,Japanese Grand Prix,2024,C1,35.0,19.0,1
 PER,red_bull,Japanese Grand Prix,2024,C2,1.0,15.0,1
 PER,red_bull,Japanese Grand Prix,2024,C2,16.0,18.0,1
 PER,red_bull,Japanese Grand Prix,2024,C1,34.0,20.0,1
-SAI,ferrari,Japanese Grand Prix,2024,C2,1.0,1.0,1
+SAI,ferrari,Japanese Grand Prix,2024,C2,1.0,1.0,0
 SAI,ferrari,Japanese Grand Prix,2024,C2,2.0,14.0,1
 SAI,ferrari,Japanese Grand Prix,2024,C2,16.0,22.0,1
 SAI,ferrari,Japanese Grand Prix,2024,C1,37.0,17.0,1
-LEC,ferrari,Japanese Grand Prix,2024,C2,1.0,1.0,1
+LEC,ferrari,Japanese Grand Prix,2024,C2,1.0,1.0,0
 LEC,ferrari,Japanese Grand Prix,2024,C2,2.0,25.0,1
 LEC,ferrari,Japanese Grand Prix,2024,C1,27.0,27.0,1
 NOR,mclaren,Japanese Grand Prix,2024,C2,1.0,11.0,1
@@ -2581,52 +2581,52 @@ NOR,mclaren,Japanese Grand Prix,2024,C1,27.0,27.0,1
 ALO,aston_martin,Japanese Grand Prix,2024,C3,1.0,13.0,1
 ALO,aston_martin,Japanese Grand Prix,2024,C2,14.0,20.0,1
 ALO,aston_martin,Japanese Grand Prix,2024,C1,34.0,20.0,1
-RUS,mercedes,Japanese Grand Prix,2024,C2,1.0,1.0,1
+RUS,mercedes,Japanese Grand Prix,2024,C2,1.0,1.0,0
 RUS,mercedes,Japanese Grand Prix,2024,C1,2.0,21.0,1
 RUS,mercedes,Japanese Grand Prix,2024,C1,23.0,15.0,1
 RUS,mercedes,Japanese Grand Prix,2024,C2,38.0,17.0,1
 PIA,mclaren,Japanese Grand Prix,2024,C2,1.0,12.0,1
 PIA,mclaren,Japanese Grand Prix,2024,C1,13.0,20.0,1
 PIA,mclaren,Japanese Grand Prix,2024,C1,33.0,21.0,1
-HAM,mercedes,Japanese Grand Prix,2024,C2,1.0,1.0,1
+HAM,mercedes,Japanese Grand Prix,2024,C2,1.0,1.0,0
 HAM,mercedes,Japanese Grand Prix,2024,C1,2.0,22.0,1
 HAM,mercedes,Japanese Grand Prix,2024,C1,24.0,16.0,1
 HAM,mercedes,Japanese Grand Prix,2024,C2,40.0,15.0,1
-TSU,rb,Japanese Grand Prix,2024,C2,1.0,1.0,1
+TSU,rb,Japanese Grand Prix,2024,C2,1.0,1.0,0
 TSU,rb,Japanese Grand Prix,2024,C3,2.0,9.0,1
 TSU,rb,Japanese Grand Prix,2024,C1,8.0,15.0,1
 TSU,rb,Japanese Grand Prix,2024,C1,23.0,30.0,1
-HUL,haas,Japanese Grand Prix,2024,C3,1.0,5.0,1
+HUL,haas,Japanese Grand Prix,2024,C3,1.0,5.0,0
 HUL,haas,Japanese Grand Prix,2024,C1,6.0,28.0,1
 HUL,haas,Japanese Grand Prix,2024,C1,34.0,19.0,1
-STR,aston_martin,Japanese Grand Prix,2024,C3,1.0,1.0,1
+STR,aston_martin,Japanese Grand Prix,2024,C3,1.0,1.0,0
 STR,aston_martin,Japanese Grand Prix,2024,C3,2.0,11.0,1
 STR,aston_martin,Japanese Grand Prix,2024,C2,13.0,10.0,1
 STR,aston_martin,Japanese Grand Prix,2024,C1,23.0,12.0,1
 STR,aston_martin,Japanese Grand Prix,2024,C3,35.0,18.0,1
-MAG,haas,Japanese Grand Prix,2024,C2,1.0,1.0,1
+MAG,haas,Japanese Grand Prix,2024,C2,1.0,1.0,0
 MAG,haas,Japanese Grand Prix,2024,C2,2.0,21.0,1
 MAG,haas,Japanese Grand Prix,2024,C1,23.0,30.0,1
-BOT,sauber,Japanese Grand Prix,2024,C3,1.0,6.0,1
+BOT,sauber,Japanese Grand Prix,2024,C3,1.0,6.0,0
 BOT,sauber,Japanese Grand Prix,2024,C1,7.0,16.0,1
 BOT,sauber,Japanese Grand Prix,2024,C1,23.0,30.0,1
-OCO,alpine,Japanese Grand Prix,2024,C3,1.0,1.0,1
+OCO,alpine,Japanese Grand Prix,2024,C3,1.0,1.0,0
 OCO,alpine,Japanese Grand Prix,2024,C1,2.0,18.0,1
 OCO,alpine,Japanese Grand Prix,2024,C1,20.0,14.0,1
 OCO,alpine,Japanese Grand Prix,2024,C2,34.0,19.0,1
-GAS,alpine,Japanese Grand Prix,2024,C3,1.0,1.0,1
+GAS,alpine,Japanese Grand Prix,2024,C3,1.0,1.0,0
 GAS,alpine,Japanese Grand Prix,2024,C1,2.0,15.0,1
 GAS,alpine,Japanese Grand Prix,2024,C2,17.0,16.0,1
 GAS,alpine,Japanese Grand Prix,2024,C1,33.0,20.0,1
-SAR,williams,Japanese Grand Prix,2024,C3,1.0,1.0,1
+SAR,williams,Japanese Grand Prix,2024,C3,1.0,1.0,0
 SAR,williams,Japanese Grand Prix,2024,C1,2.0,21.0,1
 SAR,williams,Japanese Grand Prix,2024,C1,23.0,12.0,1
 SAR,williams,Japanese Grand Prix,2024,C2,35.0,7.0,1
 SAR,williams,Japanese Grand Prix,2024,C3,42.0,11.0,1
-ZHO,sauber,Japanese Grand Prix,2024,C2,1.0,1.0,1
-ZHO,sauber,Japanese Grand Prix,2024,C3,2.0,6.0,1
-ZHO,sauber,Japanese Grand Prix,2024,C1,8.0,5.0,1
-RIC,rb,Japanese Grand Prix,2024,C2,1.0,1.0,1
+ZHO,sauber,Japanese Grand Prix,2024,C2,1.0,1.0,0
+ZHO,sauber,Japanese Grand Prix,2024,C3,2.0,6.0,0
+ZHO,sauber,Japanese Grand Prix,2024,C1,8.0,5.0,0
+RIC,rb,Japanese Grand Prix,2024,C2,1.0,1.0,0
 VER,red_bull,Chinese Grand Prix,2024,C3,1.0,13.0,1
 VER,red_bull,Chinese Grand Prix,2024,C2,14.0,10.0,1
 VER,red_bull,Chinese Grand Prix,2024,C2,24.0,33.0,1
@@ -2645,7 +2645,7 @@ LEC,ferrari,Chinese Grand Prix,2024,C3,1.0,21.0,1
 LEC,ferrari,Chinese Grand Prix,2024,C2,22.0,35.0,1
 STR,aston_martin,Chinese Grand Prix,2024,C4,1.0,9.0,1
 STR,aston_martin,Chinese Grand Prix,2024,C3,10.0,12.0,1
-STR,aston_martin,Chinese Grand Prix,2024,C2,22.0,5.0,1
+STR,aston_martin,Chinese Grand Prix,2024,C2,22.0,5.0,0
 STR,aston_martin,Chinese Grand Prix,2024,C3,27.0,9.0,1
 STR,aston_martin,Chinese Grand Prix,2024,C2,36.0,26.0,1
 SAR,williams,Chinese Grand Prix,2024,C4,1.0,12.0,1
@@ -2656,7 +2656,7 @@ MAG,haas,Chinese Grand Prix,2024,C2,18.0,10.0,1
 MAG,haas,Chinese Grand Prix,2024,C3,28.0,29.0,1
 TSU,rb,Chinese Grand Prix,2024,C4,1.0,8.0,1
 TSU,rb,Chinese Grand Prix,2024,C3,9.0,15.0,1
-TSU,rb,Chinese Grand Prix,2024,C2,24.0,4.0,1
+TSU,rb,Chinese Grand Prix,2024,C2,24.0,4.0,0
 ALB,williams,Chinese Grand Prix,2024,C3,1.0,9.0,1
 ALB,williams,Chinese Grand Prix,2024,C3,10.0,14.0,1
 ALB,williams,Chinese Grand Prix,2024,C2,24.0,33.0,1
@@ -2703,13 +2703,13 @@ STR,aston_martin,Miami Grand Prix,2024,C3,29.0,29.0,1
 SAR,williams,Miami Grand Prix,2024,C3,1.0,11.0,1
 SAR,williams,Miami Grand Prix,2024,C2,12.0,17.0,1
 MAG,haas,Miami Grand Prix,2024,C2,1.0,22.0,1
-MAG,haas,Miami Grand Prix,2024,C3,23.0,6.0,1
+MAG,haas,Miami Grand Prix,2024,C3,23.0,6.0,0
 MAG,haas,Miami Grand Prix,2024,C3,29.0,29.0,1
 TSU,rb,Miami Grand Prix,2024,C3,1.0,28.0,1
 TSU,rb,Miami Grand Prix,2024,C2,29.0,29.0,1
 ALB,williams,Miami Grand Prix,2024,C3,1.0,10.0,1
 ALB,williams,Miami Grand Prix,2024,C2,11.0,43.0,1
-ALB,williams,Miami Grand Prix,2024,C4,54.0,4.0,1
+ALB,williams,Miami Grand Prix,2024,C4,54.0,4.0,0
 ZHO,sauber,Miami Grand Prix,2024,C3,1.0,28.0,1
 ZHO,sauber,Miami Grand Prix,2024,C4,29.0,29.0,1
 HUL,haas,Miami Grand Prix,2024,C3,1.0,12.0,1
@@ -2752,13 +2752,13 @@ PER,red_bull,Emilia Romagna Grand Prix,2024,C4,38.0,26.0,1
 STR,aston_martin,Emilia Romagna Grand Prix,2024,C4,1.0,38.0,1
 STR,aston_martin,Emilia Romagna Grand Prix,2024,C3,38.0,27.0,1
 TSU,rb,Emilia Romagna Grand Prix,2024,C4,1.0,12.0,1
-TSU,rb,Emilia Romagna Grand Prix,2024,C3,13.0,50.0,1
+TSU,rb,Emilia Romagna Grand Prix,2024,C3,13.0,50.0,0
 HUL,haas,Emilia Romagna Grand Prix,2024,C4,1.0,13.0,1
-HUL,haas,Emilia Romagna Grand Prix,2024,C3,14.0,49.0,1
+HUL,haas,Emilia Romagna Grand Prix,2024,C3,14.0,49.0,0
 MAG,haas,Emilia Romagna Grand Prix,2024,C4,1.0,37.0,1
 MAG,haas,Emilia Romagna Grand Prix,2024,C3,38.0,25.0,1
 RIC,rb,Emilia Romagna Grand Prix,2024,C4,1.0,11.0,1
-RIC,rb,Emilia Romagna Grand Prix,2024,C3,12.0,51.0,1
+RIC,rb,Emilia Romagna Grand Prix,2024,C3,12.0,51.0,0
 OCO,alpine,Emilia Romagna Grand Prix,2024,C4,1.0,25.0,1
 OCO,alpine,Emilia Romagna Grand Prix,2024,C3,26.0,37.0,1
 ZHO,sauber,Emilia Romagna Grand Prix,2024,C3,1.0,33.0,1
@@ -2769,53 +2769,53 @@ GAS,alpine,Emilia Romagna Grand Prix,2024,C4,31.0,32.0,1
 SAR,williams,Emilia Romagna Grand Prix,2024,C3,1.0,31.0,1
 SAR,williams,Emilia Romagna Grand Prix,2024,C4,32.0,31.0,1
 BOT,sauber,Emilia Romagna Grand Prix,2024,C4,1.0,8.0,1
-BOT,sauber,Emilia Romagna Grand Prix,2024,C3,9.0,54.0,1
+BOT,sauber,Emilia Romagna Grand Prix,2024,C3,9.0,54.0,0
 ALO,aston_martin,Emilia Romagna Grand Prix,2024,C5,1.0,7.0,1
 ALO,aston_martin,Emilia Romagna Grand Prix,2024,C3,8.0,34.0,1
 ALO,aston_martin,Emilia Romagna Grand Prix,2024,C4,41.0,20.0,1
-ALO,aston_martin,Emilia Romagna Grand Prix,2024,C5,60.0,3.0,1
+ALO,aston_martin,Emilia Romagna Grand Prix,2024,C5,60.0,3.0,0
 ALB,williams,Emilia Romagna Grand Prix,2024,C4,1.0,8.0,1
-ALB,williams,Emilia Romagna Grand Prix,2024,C3,9.0,1.0,1
+ALB,williams,Emilia Romagna Grand Prix,2024,C3,9.0,1.0,0
 ALB,williams,Emilia Romagna Grand Prix,2024,C4,10.0,19.0,1
-LEC,ferrari,Monaco Grand Prix,2024,C4,1.0,1.0,1
-LEC,ferrari,Monaco Grand Prix,2024,C3,2.0,77.0,1
-PIA,mclaren,Monaco Grand Prix,2024,C4,1.0,2.0,1
-PIA,mclaren,Monaco Grand Prix,2024,C3,2.0,78.0,1
-SAI,ferrari,Monaco Grand Prix,2024,C4,1.0,1.0,1
-SAI,ferrari,Monaco Grand Prix,2024,C3,2.0,77.0,1
-NOR,mclaren,Monaco Grand Prix,2024,C4,1.0,2.0,1
-NOR,mclaren,Monaco Grand Prix,2024,C3,2.0,78.0,1
-RUS,mercedes,Monaco Grand Prix,2024,C3,1.0,1.0,1
-RUS,mercedes,Monaco Grand Prix,2024,C4,2.0,77.0,1
-VER,red_bull,Monaco Grand Prix,2024,C3,1.0,1.0,1
-VER,red_bull,Monaco Grand Prix,2024,C4,2.0,51.0,1
+LEC,ferrari,Monaco Grand Prix,2024,C4,1.0,1.0,0
+LEC,ferrari,Monaco Grand Prix,2024,C3,2.0,77.0,0
+PIA,mclaren,Monaco Grand Prix,2024,C4,1.0,2.0,0
+PIA,mclaren,Monaco Grand Prix,2024,C3,2.0,78.0,0
+SAI,ferrari,Monaco Grand Prix,2024,C4,1.0,1.0,0
+SAI,ferrari,Monaco Grand Prix,2024,C3,2.0,77.0,0
+NOR,mclaren,Monaco Grand Prix,2024,C4,1.0,2.0,0
+NOR,mclaren,Monaco Grand Prix,2024,C3,2.0,78.0,0
+RUS,mercedes,Monaco Grand Prix,2024,C3,1.0,1.0,0
+RUS,mercedes,Monaco Grand Prix,2024,C4,2.0,77.0,0
+VER,red_bull,Monaco Grand Prix,2024,C3,1.0,1.0,0
+VER,red_bull,Monaco Grand Prix,2024,C4,2.0,51.0,0
 VER,red_bull,Monaco Grand Prix,2024,C3,53.0,27.0,1
-HAM,mercedes,Monaco Grand Prix,2024,C3,1.0,1.0,1
-HAM,mercedes,Monaco Grand Prix,2024,C4,2.0,50.0,1
+HAM,mercedes,Monaco Grand Prix,2024,C3,1.0,1.0,0
+HAM,mercedes,Monaco Grand Prix,2024,C4,2.0,50.0,0
 HAM,mercedes,Monaco Grand Prix,2024,C3,52.0,28.0,1
-TSU,rb,Monaco Grand Prix,2024,C3,1.0,77.0,1
-ALB,williams,Monaco Grand Prix,2024,C4,1.0,1.0,1
-ALB,williams,Monaco Grand Prix,2024,C3,2.0,76.0,1
-GAS,alpine,Monaco Grand Prix,2024,C3,1.0,1.0,1
-GAS,alpine,Monaco Grand Prix,2024,C4,2.0,76.0,1
-ALO,aston_martin,Monaco Grand Prix,2024,C3,1.0,2.0,1
-ALO,aston_martin,Monaco Grand Prix,2024,C4,2.0,76.0,1
-RIC,rb,Monaco Grand Prix,2024,C3,1.0,76.0,1
-BOT,sauber,Monaco Grand Prix,2024,C3,1.0,1.0,1
+TSU,rb,Monaco Grand Prix,2024,C3,1.0,77.0,0
+ALB,williams,Monaco Grand Prix,2024,C4,1.0,1.0,0
+ALB,williams,Monaco Grand Prix,2024,C3,2.0,76.0,0
+GAS,alpine,Monaco Grand Prix,2024,C3,1.0,1.0,0
+GAS,alpine,Monaco Grand Prix,2024,C4,2.0,76.0,0
+ALO,aston_martin,Monaco Grand Prix,2024,C3,1.0,2.0,0
+ALO,aston_martin,Monaco Grand Prix,2024,C4,2.0,76.0,0
+RIC,rb,Monaco Grand Prix,2024,C3,1.0,76.0,0
+BOT,sauber,Monaco Grand Prix,2024,C3,1.0,1.0,0
 BOT,sauber,Monaco Grand Prix,2024,C4,2.0,14.0,1
-BOT,sauber,Monaco Grand Prix,2024,C3,16.0,62.0,1
-STR,aston_martin,Monaco Grand Prix,2024,C3,1.0,2.0,1
+BOT,sauber,Monaco Grand Prix,2024,C3,16.0,62.0,0
+STR,aston_martin,Monaco Grand Prix,2024,C3,1.0,2.0,0
 STR,aston_martin,Monaco Grand Prix,2024,C4,2.0,42.0,1
 STR,aston_martin,Monaco Grand Prix,2024,C3,43.0,8.0,1
 STR,aston_martin,Monaco Grand Prix,2024,C5,49.0,28.0,1
-SAR,williams,Monaco Grand Prix,2024,C3,1.0,57.0,1
+SAR,williams,Monaco Grand Prix,2024,C3,1.0,57.0,0
 SAR,williams,Monaco Grand Prix,2024,C4,58.0,19.0,1
-ZHO,sauber,Monaco Grand Prix,2024,C4,1.0,1.0,1
-ZHO,sauber,Monaco Grand Prix,2024,C3,2.0,69.0,1
-ZHO,sauber,Monaco Grand Prix,2024,C5,71.0,6.0,1
-OCO,alpine,Monaco Grand Prix,2024,C3,1.0,1.0,1
-PER,red_bull,Monaco Grand Prix,2024,C3,1.0,1.0,1
-HUL,haas,Monaco Grand Prix,2024,C4,1.0,1.0,1
+ZHO,sauber,Monaco Grand Prix,2024,C4,1.0,1.0,0
+ZHO,sauber,Monaco Grand Prix,2024,C3,2.0,69.0,0
+ZHO,sauber,Monaco Grand Prix,2024,C5,71.0,6.0,0
+OCO,alpine,Monaco Grand Prix,2024,C3,1.0,1.0,0
+PER,red_bull,Monaco Grand Prix,2024,C3,1.0,1.0,0
+HUL,haas,Monaco Grand Prix,2024,C4,1.0,1.0,0
 VER,red_bull,Canadian Grand Prix,2024,0,1.0,25.0,0
 VER,red_bull,Canadian Grand Prix,2024,0,26.0,20.0,0
 VER,red_bull,Canadian Grand Prix,2024,C4,46.0,25.0,1
@@ -2830,7 +2830,7 @@ ALO,aston_martin,Canadian Grand Prix,2024,0,26.0,19.0,0
 ALO,aston_martin,Canadian Grand Prix,2024,C3,45.0,26.0,1
 LEC,ferrari,Canadian Grand Prix,2024,0,1.0,25.0,0
 LEC,ferrari,Canadian Grand Prix,2024,0,26.0,3.0,0
-LEC,ferrari,Canadian Grand Prix,2024,C3,29.0,3.0,1
+LEC,ferrari,Canadian Grand Prix,2024,C3,29.0,3.0,0
 LEC,ferrari,Canadian Grand Prix,2024,0,32.0,10.0,0
 STR,aston_martin,Canadian Grand Prix,2024,0,1.0,25.0,0
 STR,aston_martin,Canadian Grand Prix,2024,0,26.0,19.0,0
@@ -2969,7 +2969,7 @@ RIC,rb,Austrian Grand Prix,2024,C3,38.0,34.0,1
 GAS,alpine,Austrian Grand Prix,2024,C4,1.0,20.0,1
 GAS,alpine,Austrian Grand Prix,2024,C3,21.0,22.0,1
 GAS,alpine,Austrian Grand Prix,2024,C4,43.0,29.0,1
-LEC,ferrari,Austrian Grand Prix,2024,C4,1.0,1.0,1
+LEC,ferrari,Austrian Grand Prix,2024,C4,1.0,1.0,0
 LEC,ferrari,Austrian Grand Prix,2024,C3,2.0,15.0,1
 LEC,ferrari,Austrian Grand Prix,2024,C4,17.0,17.0,1
 LEC,ferrari,Austrian Grand Prix,2024,C4,34.0,19.0,1
@@ -2995,8 +2995,8 @@ ZHO,sauber,Austrian Grand Prix,2024,C3,52.0,19.0,1
 ALO,aston_martin,Austrian Grand Prix,2024,C4,1.0,14.0,1
 ALO,aston_martin,Austrian Grand Prix,2024,C4,12.0,25.0,1
 ALO,aston_martin,Austrian Grand Prix,2024,C3,36.0,34.0,1
-ALO,aston_martin,Austrian Grand Prix,2024,C5,69.0,2.0,1
-SAR,williams,Austrian Grand Prix,2024,C4,1.0,1.0,1
+ALO,aston_martin,Austrian Grand Prix,2024,C5,69.0,2.0,0
+SAR,williams,Austrian Grand Prix,2024,C4,1.0,1.0,0
 SAR,williams,Austrian Grand Prix,2024,C4,2.0,25.0,1
 SAR,williams,Austrian Grand Prix,2024,C3,21.0,29.0,1
 SAR,williams,Austrian Grand Prix,2024,C4,50.0,21.0,1
@@ -3017,7 +3017,7 @@ PIA,mclaren,British Grand Prix,2024,C2,39.0,14.0,1
 SAI,ferrari,British Grand Prix,2024,C2,1.0,26.0,1
 SAI,ferrari,British Grand Prix,2024,0,27.0,13.0,0
 SAI,ferrari,British Grand Prix,2024,C1,40.0,11.0,1
-SAI,ferrari,British Grand Prix,2024,C3,51.0,5.0,1
+SAI,ferrari,British Grand Prix,2024,C3,51.0,5.0,0
 HUL,haas,British Grand Prix,2024,C2,1.0,26.0,1
 HUL,haas,British Grand Prix,2024,0,27.0,13.0,0
 HUL,haas,British Grand Prix,2024,C3,40.0,16.0,1
@@ -3051,14 +3051,14 @@ BOT,sauber,British Grand Prix,2024,0,27.0,11.0,0
 BOT,sauber,British Grand Prix,2024,C3,38.0,14.0,1
 OCO,alpine,British Grand Prix,2024,C3,1.0,19.0,1
 OCO,alpine,British Grand Prix,2024,0,20.0,2.0,0
-OCO,alpine,British Grand Prix,2024,C2,22.0,5.0,1
+OCO,alpine,British Grand Prix,2024,C2,22.0,5.0,0
 OCO,alpine,British Grand Prix,2024,0,27.0,12.0,0
 OCO,alpine,British Grand Prix,2024,C2,39.0,12.0,1
 PER,red_bull,British Grand Prix,2024,C1,1.0,19.0,1
 PER,red_bull,British Grand Prix,2024,0,20.0,9.0,0
 PER,red_bull,British Grand Prix,2024,0,29.0,9.0,0
 PER,red_bull,British Grand Prix,2024,C2,38.0,10.0,1
-PER,red_bull,British Grand Prix,2024,C3,48.0,3.0,1
+PER,red_bull,British Grand Prix,2024,C3,48.0,3.0,0
 ZHO,sauber,British Grand Prix,2024,C3,1.0,12.0,1
 ZHO,sauber,British Grand Prix,2024,C2,13.0,7.0,1
 ZHO,sauber,British Grand Prix,2024,0,20.0,7.0,0
@@ -3101,13 +3101,13 @@ ALO,aston_martin,Hungarian Grand Prix,2024,C3,38.0,34.0,1
 RIC,rb,Hungarian Grand Prix,2024,C4,1.0,7.0,1
 RIC,rb,Hungarian Grand Prix,2024,C3,8.0,21.0,1
 RIC,rb,Hungarian Grand Prix,2024,C3,29.0,41.0,1
-HUL,haas,Hungarian Grand Prix,2024,C4,1.0,2.0,1
+HUL,haas,Hungarian Grand Prix,2024,C4,1.0,2.0,0
 HUL,haas,Hungarian Grand Prix,2024,C3,3.0,27.0,1
 HUL,haas,Hungarian Grand Prix,2024,C3,30.0,40.0,1
-ALB,williams,Hungarian Grand Prix,2024,C5,1.0,6.0,1
+ALB,williams,Hungarian Grand Prix,2024,C5,1.0,6.0,0
 ALB,williams,Hungarian Grand Prix,2024,C3,7.0,23.0,1
 ALB,williams,Hungarian Grand Prix,2024,C3,30.0,40.0,1
-MAG,haas,Hungarian Grand Prix,2024,C5,1.0,6.0,1
+MAG,haas,Hungarian Grand Prix,2024,C5,1.0,6.0,0
 MAG,haas,Hungarian Grand Prix,2024,C3,7.0,28.0,1
 MAG,haas,Hungarian Grand Prix,2024,C3,35.0,35.0,1
 BOT,sauber,Hungarian Grand Prix,2024,C4,1.0,17.0,1
@@ -3116,11 +3116,11 @@ BOT,sauber,Hungarian Grand Prix,2024,C3,46.0,24.0,1
 SAR,williams,Hungarian Grand Prix,2024,C4,1.0,8.0,1
 SAR,williams,Hungarian Grand Prix,2024,C3,9.0,25.0,1
 SAR,williams,Hungarian Grand Prix,2024,C3,34.0,30.0,1
-SAR,williams,Hungarian Grand Prix,2024,C5,64.0,6.0,1
-OCO,alpine,Hungarian Grand Prix,2024,C4,1.0,6.0,1
+SAR,williams,Hungarian Grand Prix,2024,C5,64.0,6.0,0
+OCO,alpine,Hungarian Grand Prix,2024,C4,1.0,6.0,0
 OCO,alpine,Hungarian Grand Prix,2024,C3,7.0,24.0,1
 OCO,alpine,Hungarian Grand Prix,2024,C3,31.0,34.0,1
-OCO,alpine,Hungarian Grand Prix,2024,C5,65.0,5.0,1
+OCO,alpine,Hungarian Grand Prix,2024,C5,65.0,5.0,0
 ZHO,sauber,Hungarian Grand Prix,2024,C4,1.0,8.0,1
 ZHO,sauber,Hungarian Grand Prix,2024,C3,8.0,29.0,1
 ZHO,sauber,Hungarian Grand Prix,2024,C3,37.0,33.0,1
@@ -3146,7 +3146,7 @@ SAI,ferrari,Belgian Grand Prix,2024,C2,29.0,16.0,1
 PER,red_bull,Belgian Grand Prix,2024,C3,1.0,11.0,1
 PER,red_bull,Belgian Grand Prix,2024,C3,12.0,10.0,1
 PER,red_bull,Belgian Grand Prix,2024,C2,22.0,21.0,1
-PER,red_bull,Belgian Grand Prix,2024,C4,43.0,2.0,1
+PER,red_bull,Belgian Grand Prix,2024,C4,43.0,2.0,0
 ALO,aston_martin,Belgian Grand Prix,2024,C3,1.0,13.0,1
 ALO,aston_martin,Belgian Grand Prix,2024,C2,14.0,31.0,1
 OCO,alpine,Belgian Grand Prix,2024,C3,1.0,12.0,1
@@ -3176,7 +3176,7 @@ SAR,williams,Belgian Grand Prix,2024,C2,25.0,20.0,1
 HUL,haas,Belgian Grand Prix,2024,C3,1.0,7.0,1
 HUL,haas,Belgian Grand Prix,2024,C2,8.0,13.0,1
 HUL,haas,Belgian Grand Prix,2024,C3,21.0,24.0,1
-ZHO,sauber,Belgian Grand Prix,2024,C2,1.0,5.0,1
+ZHO,sauber,Belgian Grand Prix,2024,C2,1.0,5.0,0
 RUS,mercedes,Belgian Grand Prix,2024,C3,1.0,10.0,1
 NOR,mclaren,Dutch Grand Prix,2024,C2,1.0,28.0,1
 NOR,mclaren,Dutch Grand Prix,2024,C1,29.0,44.0,1
@@ -3201,7 +3201,7 @@ GAS,alpine,Dutch Grand Prix,2024,C1,33.0,39.0,1
 ALO,aston_martin,Dutch Grand Prix,2024,C2,1.0,31.0,1
 ALO,aston_martin,Dutch Grand Prix,2024,C1,32.0,40.0,1
 HUL,haas,Dutch Grand Prix,2024,C2,1.0,14.0,1
-HUL,haas,Dutch Grand Prix,2024,C1,15.0,57.0,1
+HUL,haas,Dutch Grand Prix,2024,C1,15.0,57.0,0
 RIC,rb,Dutch Grand Prix,2024,C2,1.0,29.0,1
 RIC,rb,Dutch Grand Prix,2024,C1,30.0,42.0,1
 STR,aston_martin,Dutch Grand Prix,2024,C2,1.0,30.0,1
@@ -3212,7 +3212,7 @@ ALB,williams,Dutch Grand Prix,2024,C2,55.0,17.0,1
 OCO,alpine,Dutch Grand Prix,2024,C2,1.0,30.0,1
 OCO,alpine,Dutch Grand Prix,2024,C1,31.0,41.0,1
 SAR,williams,Dutch Grand Prix,2024,C2,1.0,22.0,1
-SAR,williams,Dutch Grand Prix,2024,C1,23.0,49.0,1
+SAR,williams,Dutch Grand Prix,2024,C1,23.0,49.0,0
 TSU,rb,Dutch Grand Prix,2024,C3,1.0,14.0,1
 TSU,rb,Dutch Grand Prix,2024,C2,15.0,18.0,1
 TSU,rb,Dutch Grand Prix,2024,C1,33.0,39.0,1
@@ -3263,7 +3263,7 @@ GAS,alpine,Italian Grand Prix,2024,C3,11.0,20.0,1
 GAS,alpine,Italian Grand Prix,2024,C3,31.0,22.0,1
 BOT,sauber,Italian Grand Prix,2024,C3,1.0,34.0,1
 BOT,sauber,Italian Grand Prix,2024,C4,34.0,20.0,1
-HUL,haas,Italian Grand Prix,2024,C4,1.0,5.0,1
+HUL,haas,Italian Grand Prix,2024,C4,1.0,5.0,0
 HUL,haas,Italian Grand Prix,2024,C3,6.0,27.0,1
 HUL,haas,Italian Grand Prix,2024,C3,33.0,20.0,1
 ZHO,sauber,Italian Grand Prix,2024,C4,1.0,16.0,1
@@ -3271,33 +3271,33 @@ ZHO,sauber,Italian Grand Prix,2024,C3,16.0,38.0,1
 STR,aston_martin,Italian Grand Prix,2024,C3,1.0,20.0,1
 STR,aston_martin,Italian Grand Prix,2024,C3,20.0,19.0,1
 STR,aston_martin,Italian Grand Prix,2024,C4,37.0,15.0,1
-STR,aston_martin,Italian Grand Prix,2024,C5,51.0,2.0,1
+STR,aston_martin,Italian Grand Prix,2024,C5,51.0,2.0,0
 VER,red_bull,Azerbaijan Grand Prix,2024,C4,1.0,12.0,1
 VER,red_bull,Azerbaijan Grand Prix,2024,C3,13.0,37.0,1
-VER,red_bull,Azerbaijan Grand Prix,2024,C5,50.0,5.0,1
-GAS,alpine,Azerbaijan Grand Prix,2024,C3,1.0,50.0,1
-GAS,alpine,Azerbaijan Grand Prix,2024,C5,51.0,1.0,1
+VER,red_bull,Azerbaijan Grand Prix,2024,C5,50.0,5.0,0
+GAS,alpine,Azerbaijan Grand Prix,2024,C3,1.0,50.0,0
+GAS,alpine,Azerbaijan Grand Prix,2024,C5,51.0,1.0,0
 PER,red_bull,Azerbaijan Grand Prix,2024,C4,1.0,13.0,1
 PER,red_bull,Azerbaijan Grand Prix,2024,C3,14.0,37.0,1
 ALO,aston_martin,Azerbaijan Grand Prix,2024,C4,1.0,12.0,1
 ALO,aston_martin,Azerbaijan Grand Prix,2024,C3,12.0,41.0,1
 LEC,ferrari,Azerbaijan Grand Prix,2024,C4,1.0,16.0,1
 LEC,ferrari,Azerbaijan Grand Prix,2024,C3,17.0,35.0,1
-STR,aston_martin,Azerbaijan Grand Prix,2024,C4,1.0,2.0,1
+STR,aston_martin,Azerbaijan Grand Prix,2024,C4,1.0,2.0,0
 STR,aston_martin,Azerbaijan Grand Prix,2024,C3,2.0,22.0,1
 STR,aston_martin,Azerbaijan Grand Prix,2024,C3,23.0,24.0,1
 TSU,rb,Azerbaijan Grand Prix,2024,C4,1.0,13.0,1
-TSU,rb,Azerbaijan Grand Prix,2024,C3,13.0,3.0,1
+TSU,rb,Azerbaijan Grand Prix,2024,C3,13.0,3.0,0
 ALB,williams,Azerbaijan Grand Prix,2024,C3,1.0,31.0,1
 ALB,williams,Azerbaijan Grand Prix,2024,C4,32.0,20.0,1
 ZHO,sauber,Azerbaijan Grand Prix,2024,C3,1.0,35.0,1
 ZHO,sauber,Azerbaijan Grand Prix,2024,C4,35.0,18.0,1
 HUL,haas,Azerbaijan Grand Prix,2024,C4,1.0,15.0,1
 HUL,haas,Azerbaijan Grand Prix,2024,C3,16.0,36.0,1
-RIC,rb,Azerbaijan Grand Prix,2024,C3,1.0,50.0,1
-RIC,rb,Azerbaijan Grand Prix,2024,C5,50.0,2.0,1
-OCO,alpine,Azerbaijan Grand Prix,2024,C3,1.0,52.0,1
-OCO,alpine,Azerbaijan Grand Prix,2024,C5,50.0,1.0,1
+RIC,rb,Azerbaijan Grand Prix,2024,C3,1.0,50.0,0
+RIC,rb,Azerbaijan Grand Prix,2024,C5,50.0,2.0,0
+OCO,alpine,Azerbaijan Grand Prix,2024,C3,1.0,52.0,0
+OCO,alpine,Azerbaijan Grand Prix,2024,C5,50.0,1.0,0
 NOR,mclaren,Azerbaijan Grand Prix,2024,C3,1.0,37.0,1
 NOR,mclaren,Azerbaijan Grand Prix,2024,C4,38.0,14.0,1
 COL,williams,Azerbaijan Grand Prix,2024,C4,1.0,10.0,1
@@ -3326,7 +3326,7 @@ LEC,ferrari,Singapore Grand Prix,2024,C3,37.0,26.0,1
 HAM,mercedes,Singapore Grand Prix,2024,C5,1.0,19.0,1
 HAM,mercedes,Singapore Grand Prix,2024,C3,18.0,45.0,1
 SAI,ferrari,Singapore Grand Prix,2024,C4,1.0,13.0,1
-SAI,ferrari,Singapore Grand Prix,2024,C3,14.0,49.0,1
+SAI,ferrari,Singapore Grand Prix,2024,C3,14.0,49.0,0
 ALO,aston_martin,Singapore Grand Prix,2024,C4,1.0,26.0,1
 ALO,aston_martin,Singapore Grand Prix,2024,C3,26.0,37.0,1
 HUL,haas,Singapore Grand Prix,2024,C4,1.0,29.0,1
@@ -3350,7 +3350,7 @@ GAS,alpine,Singapore Grand Prix,2024,C5,38.0,24.0,1
 RIC,rb,Singapore Grand Prix,2024,C5,1.0,10.0,1
 RIC,rb,Singapore Grand Prix,2024,C4,11.0,36.0,1
 RIC,rb,Singapore Grand Prix,2024,C5,47.0,12.0,1
-RIC,rb,Singapore Grand Prix,2024,C5,59.0,6.0,1
+RIC,rb,Singapore Grand Prix,2024,C5,59.0,6.0,0
 MAG,haas,Singapore Grand Prix,2024,C3,1.0,28.0,1
 MAG,haas,Singapore Grand Prix,2024,C4,29.0,21.0,1
 MAG,haas,Singapore Grand Prix,2024,C5,50.0,8.0,1
@@ -3372,7 +3372,7 @@ MAG,haas,United States Grand Prix,2024,C2,18.0,21.0,1
 MAG,haas,United States Grand Prix,2024,C3,39.0,18.0,1
 TSU,rb,United States Grand Prix,2024,C3,1.0,18.0,1
 TSU,rb,United States Grand Prix,2024,C2,19.0,37.0,1
-ALB,williams,United States Grand Prix,2024,C3,1.0,3.0,1
+ALB,williams,United States Grand Prix,2024,C3,1.0,3.0,0
 ALB,williams,United States Grand Prix,2024,C3,4.0,30.0,1
 ALB,williams,United States Grand Prix,2024,C2,34.0,22.0,1
 ZHO,sauber,United States Grand Prix,2024,C3,1.0,13.0,1
@@ -3389,7 +3389,7 @@ NOR,mclaren,United States Grand Prix,2024,C3,1.0,31.0,1
 NOR,mclaren,United States Grand Prix,2024,C2,32.0,25.0,1
 COL,williams,United States Grand Prix,2024,C2,1.0,39.0,1
 COL,williams,United States Grand Prix,2024,C3,40.0,17.0,1
-HAM,mercedes,United States Grand Prix,2024,C2,1.0,2.0,1
+HAM,mercedes,United States Grand Prix,2024,C2,1.0,2.0,0
 SAI,ferrari,United States Grand Prix,2024,C3,1.0,21.0,1
 SAI,ferrari,United States Grand Prix,2024,C2,22.0,35.0,1
 RUS,mercedes,United States Grand Prix,2024,C2,1.0,40.0,1
@@ -3403,7 +3403,7 @@ NOR,mclaren,Mexico City Grand Prix,2024,C4,1.0,30.0,1
 NOR,mclaren,Mexico City Grand Prix,2024,C3,31.0,41.0,1
 LEC,ferrari,Mexico City Grand Prix,2024,C4,1.0,31.0,1
 LEC,ferrari,Mexico City Grand Prix,2024,C3,32.0,38.0,1
-LEC,ferrari,Mexico City Grand Prix,2024,C5,70.0,5.0,1
+LEC,ferrari,Mexico City Grand Prix,2024,C5,70.0,5.0,0
 HAM,mercedes,Mexico City Grand Prix,2024,C4,1.0,28.0,1
 HAM,mercedes,Mexico City Grand Prix,2024,C3,29.0,43.0,1
 RUS,mercedes,Mexico City Grand Prix,2024,C4,1.0,31.0,1
@@ -3424,19 +3424,19 @@ COL,williams,Mexico City Grand Prix,2024,C3,1.0,47.0,1
 COL,williams,Mexico City Grand Prix,2024,C4,48.0,23.0,1
 OCO,alpine,Mexico City Grand Prix,2024,C3,1.0,48.0,1
 OCO,alpine,Mexico City Grand Prix,2024,C4,49.0,22.0,1
-BOT,sauber,Mexico City Grand Prix,2024,C3,1.0,50.0,1
+BOT,sauber,Mexico City Grand Prix,2024,C3,1.0,50.0,0
 BOT,sauber,Mexico City Grand Prix,2024,C4,50.0,22.0,1
 ZHO,sauber,Mexico City Grand Prix,2024,C3,1.0,44.0,1
 ZHO,sauber,Mexico City Grand Prix,2024,C4,44.0,28.0,1
 LAW,rb,Mexico City Grand Prix,2024,C3,1.0,39.0,1
 LAW,rb,Mexico City Grand Prix,2024,C4,40.0,26.0,1
-LAW,rb,Mexico City Grand Prix,2024,C5,66.0,5.0,1
+LAW,rb,Mexico City Grand Prix,2024,C5,66.0,5.0,0
 PER,red_bull,Mexico City Grand Prix,2024,C3,1.0,20.0,1
 PER,red_bull,Mexico City Grand Prix,2024,C4,21.0,23.0,1
 PER,red_bull,Mexico City Grand Prix,2024,C4,44.0,25.0,1
-PER,red_bull,Mexico City Grand Prix,2024,C5,69.0,2.0,1
+PER,red_bull,Mexico City Grand Prix,2024,C5,69.0,2.0,0
 ALO,aston_martin,Mexico City Grand Prix,2024,C4,1.0,16.0,1
-ALB,williams,Mexico City Grand Prix,2024,C4,1.0,1.0,1
+ALB,williams,Mexico City Grand Prix,2024,C4,1.0,1.0,0
 VER,red_bull,Sao Paulo Grand Prix,2024,0,1.0,32.0,0
 VER,red_bull,Sao Paulo Grand Prix,2024,0,33.0,37.0,0
 GAS,alpine,Sao Paulo Grand Prix,2024,0,1.0,32.0,0
@@ -3506,7 +3506,7 @@ VER,red_bull,Las Vegas Grand Prix,2024,C3,28.0,23.0,1
 NOR,mclaren,Las Vegas Grand Prix,2024,C4,1.0,9.0,1
 NOR,mclaren,Las Vegas Grand Prix,2024,C3,10.0,21.0,1
 NOR,mclaren,Las Vegas Grand Prix,2024,C3,31.0,18.0,1
-NOR,mclaren,Las Vegas Grand Prix,2024,C5,49.0,6.0,1
+NOR,mclaren,Las Vegas Grand Prix,2024,C5,49.0,6.0,0
 PIA,mclaren,Las Vegas Grand Prix,2024,C4,1.0,10.0,1
 PIA,mclaren,Las Vegas Grand Prix,2024,C3,11.0,15.0,1
 PIA,mclaren,Las Vegas Grand Prix,2024,C3,26.0,25.0,1
@@ -3519,7 +3519,7 @@ TSU,rb,Las Vegas Grand Prix,2024,C3,30.0,22.0,1
 PER,red_bull,Las Vegas Grand Prix,2024,C3,1.0,17.0,1
 PER,red_bull,Las Vegas Grand Prix,2024,C4,18.0,15.0,1
 PER,red_bull,Las Vegas Grand Prix,2024,C3,33.0,18.0,1
-ALO,aston_martin,Las Vegas Grand Prix,2024,C5,1.0,4.0,1
+ALO,aston_martin,Las Vegas Grand Prix,2024,C5,1.0,4.0,0
 ALO,aston_martin,Las Vegas Grand Prix,2024,C3,5.0,21.0,1
 ALO,aston_martin,Las Vegas Grand Prix,2024,C3,25.0,27.0,1
 MAG,haas,Las Vegas Grand Prix,2024,C4,1.0,17.0,1
@@ -3538,7 +3538,7 @@ LAW,rb,Las Vegas Grand Prix,2024,C3,12.0,28.0,1
 LAW,rb,Las Vegas Grand Prix,2024,C3,39.0,13.0,1
 OCO,alpine,Las Vegas Grand Prix,2024,C4,1.0,12.0,1
 OCO,alpine,Las Vegas Grand Prix,2024,C3,13.0,33.0,1
-OCO,alpine,Las Vegas Grand Prix,2024,C5,46.0,4.0,1
+OCO,alpine,Las Vegas Grand Prix,2024,C5,46.0,4.0,0
 BOT,sauber,Las Vegas Grand Prix,2024,C3,1.0,17.0,1
 BOT,sauber,Las Vegas Grand Prix,2024,C4,18.0,18.0,1
 BOT,sauber,Las Vegas Grand Prix,2024,C3,36.0,14.0,1
@@ -3550,30 +3550,30 @@ VER,red_bull,Qatar Grand Prix,2024,C1,36.0,22.0,1
 GAS,alpine,Qatar Grand Prix,2024,C2,1.0,35.0,1
 GAS,alpine,Qatar Grand Prix,2024,C1,36.0,22.0,1
 PER,red_bull,Qatar Grand Prix,2024,C2,1.0,35.0,1
-PER,red_bull,Qatar Grand Prix,2024,C1,36.0,4.0,1
+PER,red_bull,Qatar Grand Prix,2024,C1,36.0,4.0,0
 ALO,aston_martin,Qatar Grand Prix,2024,C2,1.0,35.0,1
-ALO,aston_martin,Qatar Grand Prix,2024,C1,36.0,1.0,1
+ALO,aston_martin,Qatar Grand Prix,2024,C1,36.0,1.0,0
 ALO,aston_martin,Qatar Grand Prix,2024,C2,37.0,27.0,1
 LEC,ferrari,Qatar Grand Prix,2024,C2,1.0,36.0,1
 LEC,ferrari,Qatar Grand Prix,2024,C1,36.0,22.0,1
-STR,aston_martin,Qatar Grand Prix,2024,C2,1.0,1.0,1
-STR,aston_martin,Qatar Grand Prix,2024,C1,2.0,6.0,1
-STR,aston_martin,Qatar Grand Prix,2024,C1,8.0,1.0,1
+STR,aston_martin,Qatar Grand Prix,2024,C2,1.0,1.0,0
+STR,aston_martin,Qatar Grand Prix,2024,C1,2.0,6.0,0
+STR,aston_martin,Qatar Grand Prix,2024,C1,8.0,1.0,0
 MAG,haas,Qatar Grand Prix,2024,C2,1.0,27.0,1
 MAG,haas,Qatar Grand Prix,2024,C1,28.0,30.0,1
 TSU,rb,Qatar Grand Prix,2024,C2,1.0,35.0,1
-TSU,rb,Qatar Grand Prix,2024,C1,36.0,5.0,1
+TSU,rb,Qatar Grand Prix,2024,C1,36.0,5.0,0
 TSU,rb,Qatar Grand Prix,2024,C3,41.0,17.0,1
 ALB,williams,Qatar Grand Prix,2024,C2,1.0,35.0,1
 ALB,williams,Qatar Grand Prix,2024,C3,36.0,20.0,1
-ALB,williams,Qatar Grand Prix,2024,C3,56.0,1.0,1
+ALB,williams,Qatar Grand Prix,2024,C3,56.0,1.0,0
 ZHO,sauber,Qatar Grand Prix,2024,C2,1.0,35.0,1
 ZHO,sauber,Qatar Grand Prix,2024,C1,36.0,22.0,1
-HUL,haas,Qatar Grand Prix,2024,C1,1.0,1.0,1
+HUL,haas,Qatar Grand Prix,2024,C1,1.0,1.0,0
 HUL,haas,Qatar Grand Prix,2024,C1,2.0,30.0,1
 HUL,haas,Qatar Grand Prix,2024,C2,32.0,9.0,1
 LAW,rb,Qatar Grand Prix,2024,C2,1.0,35.0,1
-LAW,rb,Qatar Grand Prix,2024,C1,36.0,5.0,1
+LAW,rb,Qatar Grand Prix,2024,C1,36.0,5.0,0
 LAW,rb,Qatar Grand Prix,2024,C3,41.0,17.0,1
 OCO,alpine,Qatar Grand Prix,2024,0,1.0,1.0,0
 NOR,mclaren,Qatar Grand Prix,2024,C2,1.0,35.0,1
@@ -3594,7 +3594,7 @@ VER,red_bull,Abu Dhabi Grand Prix,2024,C4,1.0,29.0,1
 VER,red_bull,Abu Dhabi Grand Prix,2024,C3,30.0,29.0,1
 GAS,alpine,Abu Dhabi Grand Prix,2024,C4,1.0,14.0,1
 GAS,alpine,Abu Dhabi Grand Prix,2024,C3,15.0,44.0,1
-PER,red_bull,Abu Dhabi Grand Prix,2024,C4,1.0,1.0,1
+PER,red_bull,Abu Dhabi Grand Prix,2024,C4,1.0,1.0,0
 ALO,aston_martin,Abu Dhabi Grand Prix,2024,C4,1.0,14.0,1
 ALO,aston_martin,Abu Dhabi Grand Prix,2024,C3,14.0,25.0,1
 ALO,aston_martin,Abu Dhabi Grand Prix,2024,C3,38.0,22.0,1
@@ -3605,9 +3605,9 @@ STR,aston_martin,Abu Dhabi Grand Prix,2024,C3,12.0,22.0,1
 STR,aston_martin,Abu Dhabi Grand Prix,2024,C3,33.0,25.0,1
 MAG,haas,Abu Dhabi Grand Prix,2024,C4,1.0,12.0,1
 MAG,haas,Abu Dhabi Grand Prix,2024,C3,13.0,17.0,1
-MAG,haas,Abu Dhabi Grand Prix,2024,C3,30.0,1.0,1
+MAG,haas,Abu Dhabi Grand Prix,2024,C3,30.0,1.0,0
 MAG,haas,Abu Dhabi Grand Prix,2024,C5,31.0,25.0,1
-MAG,haas,Abu Dhabi Grand Prix,2024,C5,56.0,5.0,1
+MAG,haas,Abu Dhabi Grand Prix,2024,C5,56.0,5.0,0
 TSU,rb,Abu Dhabi Grand Prix,2024,C4,1.0,22.0,1
 TSU,rb,Abu Dhabi Grand Prix,2024,C3,23.0,35.0,1
 ALB,williams,Abu Dhabi Grand Prix,2024,C4,1.0,12.0,1
@@ -3621,7 +3621,7 @@ LAW,rb,Abu Dhabi Grand Prix,2024,C4,1.0,23.0,1
 LAW,rb,Abu Dhabi Grand Prix,2024,C3,24.0,33.0,1
 NOR,mclaren,Abu Dhabi Grand Prix,2024,C4,1.0,26.0,1
 NOR,mclaren,Abu Dhabi Grand Prix,2024,C3,27.0,32.0,1
-COL,williams,Abu Dhabi Grand Prix,2024,C4,1.0,3.0,1
+COL,williams,Abu Dhabi Grand Prix,2024,C4,1.0,3.0,0
 COL,williams,Abu Dhabi Grand Prix,2024,C3,4.0,23.0,1
 HAM,mercedes,Abu Dhabi Grand Prix,2024,C3,1.0,34.0,1
 HAM,mercedes,Abu Dhabi Grand Prix,2024,C4,35.0,25.0,1
@@ -3631,9 +3631,9 @@ DOO,alpine,Abu Dhabi Grand Prix,2024,C4,1.0,22.0,1
 DOO,alpine,Abu Dhabi Grand Prix,2024,C3,23.0,35.0,1
 RUS,mercedes,Abu Dhabi Grand Prix,2024,C4,1.0,27.0,1
 RUS,mercedes,Abu Dhabi Grand Prix,2024,C3,27.0,32.0,1
-BOT,sauber,Abu Dhabi Grand Prix,2024,C4,1.0,6.0,1
+BOT,sauber,Abu Dhabi Grand Prix,2024,C4,1.0,6.0,0
 BOT,sauber,Abu Dhabi Grand Prix,2024,C3,7.0,24.0,1
-PIA,mclaren,Abu Dhabi Grand Prix,2024,C4,1.0,4.0,1
+PIA,mclaren,Abu Dhabi Grand Prix,2024,C4,1.0,4.0,0
 PIA,mclaren,Abu Dhabi Grand Prix,2024,C3,5.0,28.0,1
 VER,red_bull,Australian Grand Prix,2025,0,1.0,34.0,0
 VER,red_bull,Australian Grand Prix,2025,C2,35.0,12.0,1
@@ -3719,7 +3719,7 @@ LAW,red_bull,Chinese Grand Prix,2025,C4,19.0,12.0,1
 LAW,red_bull,Chinese Grand Prix,2025,C3,31.0,26.0,1
 DOO,alpine,Chinese Grand Prix,2025,C4,1.0,11.0,1
 DOO,alpine,Chinese Grand Prix,2025,C3,12.0,45.0,1
-BOR,sauber,Chinese Grand Prix,2025,C4,1.0,1.0,1
+BOR,sauber,Chinese Grand Prix,2025,C4,1.0,1.0,0
 BOR,sauber,Chinese Grand Prix,2025,C3,2.0,25.0,1
 BOR,sauber,Chinese Grand Prix,2025,C3,27.0,29.0,1
 HUL,sauber,Chinese Grand Prix,2025,C4,1.0,20.0,1
