@@ -26,7 +26,7 @@ svr = SVR()
 svr.fit(x_train, y_train.values.ravel())
 svr_predictions = svr.predict(x_test)
 
-'''plt.scatter(y_test, gbr_predictions)
+'''plt.scatter(y_test, svr_predictions)
 plt.xlabel("Actual Tyre Life")
 plt.ylabel("Predicted Tyre Life")
 plt.title("Support Vector: Actual vs Predicted Tyre Life")
