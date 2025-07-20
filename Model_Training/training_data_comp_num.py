@@ -18,7 +18,7 @@ def get_training_data_comp_num(weight_coef_compound: int):
     training_data_encoded = pd.get_dummies(training_data, columns=categorical_cols)
 
     # Give more weight to tyre compound columns
-    compound_cols = [(col for col in training_data_encoded.columns if col=='compound')]
+    compound_cols = [col for col in training_data_encoded.columns if col=='compound']
     for col in compound_cols:
         training_data_encoded[col] *= weight_coef_compound
 
