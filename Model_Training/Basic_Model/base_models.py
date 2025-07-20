@@ -42,7 +42,6 @@ plt.show()
 print("Mean Squared Error:", metrics.mean_squared_error(y_test, predictions))
 print("Mean Absolute Error:", metrics.mean_absolute_error(y_test, predictions))
 print("R-squared:", metrics.r2_score(y_test, predictions))
-print('ggtvf6rfrfd5rde5de5desw4s4se4s4es')
 
 plt.scatter(y_test, predictions)
 plt.xlabel("Actual Tyre Life")
