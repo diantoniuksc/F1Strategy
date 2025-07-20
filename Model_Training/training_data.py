@@ -38,4 +38,4 @@ def get_training_data(is_compound_OHE: bool = True, weight_coef_compound: int = 
 # Call the function
 #x_train, x_test, y_train, y_test = get_training_data(1)
 
-#fix calls of funtions in the randomforet doc
+#fix calls of functions in the randomforest doc
