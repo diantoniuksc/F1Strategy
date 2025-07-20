@@ -1,6 +1,4 @@
-
 # F1 Tyre Life Prediction Project
-
 This project analyzes Formula 1 race data to predict tyre life using machine learning models such as LightGBM, Random Forest, and Linear Regression. It includes data pipelines for session extraction, feature engineering, and model training. The codebase supports data cleaning, feature selection, and model evaluation, with a focus on tyre compound analysis and stint strategies.
 
 ## Main Features
