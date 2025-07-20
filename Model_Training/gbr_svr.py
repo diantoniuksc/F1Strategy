@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import training_data as td
 
 
-x_train, x_test, y_train, y_test = td.get_training_data(3)
+x_train, x_test, y_train, y_test = td.get_training_data(is_compound_OHE=3, weight_coef_compound=1.0)
 
 gbr = GradientBoostingRegressor(n_estimators = 200)
 
