@@ -77,13 +77,17 @@ plt.show()
 feature_list = x_train2.columns.tolist()
 importances = list(rf2.feature_importances_)
 
-#TODO: remove stint_start_lap    year
+# Evaluate and remove stint_start_lap and year if their importance is negligible
 print('FEATURE NUM')
 feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]
 feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)
 [print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]
 
-
+# Remove stint_start_lap and year if their importance is below a threshold (e.g., 0.01)
+for feature in ['stint_start_lap', 'year']:
+    if feature in feature_list and next((imp for feat, imp in feature_importances if feat == feature), 0) < 0.01:
+        x_train2 = x_train2.drop(columns=[feature], errors='ignore')
+        x_test2 = x_test2.drop(columns=[feature], errors='ignore')
 # Example: create a new sample (fill with actual values as needed)
 sample = pd.DataFrame([{
     'driver_id': 'VER',
