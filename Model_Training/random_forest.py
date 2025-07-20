@@ -38,7 +38,16 @@ feature_list = x_train1.columns.tolist()
 importances = list(rf1.feature_importances_)
 
 print('FEATURE OHE')
-#TODO: remove stint_start_lap    
+# Evaluate the stint_start_lap feature
+if 'stint_start_lap' in feature_list:
+    stint_index = feature_list.index('stint_start_lap')
+    stint_importance = importances[stint_index]
+    if stint_importance < 0.01:  # Threshold for negligible importance
+        print("Removing stint_start_lap due to low importance:", stint_importance)
+        x_train1 = x_train1.drop(columns=['stint_start_lap'])
+        x_test1 = x_test1.drop(columns=['stint_start_lap'])
+        feature_list.pop(stint_index)
+        importances.pop(stint_index)
 feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]
 feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)
 [print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]
