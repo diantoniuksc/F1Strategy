@@ -23,8 +23,6 @@ def write_all_sessions_csv(year: int, write_full: bool = True):
              session_pipeline.write_session_info(year, race_number, session_type, document_name)
         time.sleep(0.01)  # Sleep for 10 milliseconds
         race_number += 1  
-        '''if race_number >= 2:
-            return'''
         
 #write_all_sessions_csv(2023, True)
 
