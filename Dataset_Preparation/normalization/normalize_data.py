@@ -1,12 +1,12 @@
 import csv
 import numpy as np
 
-input_file = 'Dataset_Preparation/all_years_sessions.csv'
-output_file = 'Dataset_Preparation/all_years_sessions.csv'
+input_file = 'Dataset_Preparation/DataSetTest/session_test_v10.csv'
+output_file = 'Dataset_Preparation/DataSetTest/session_test_v10.csv'
 
 
 def normalize_team_name():
-    with open(input_file, 'r', encoding='utf-8') as file:
+    with open(input_file, 'r', encoding='utf-8', errors='replace') as file:
         data = file.read()
 
     data = data.replace('alfa', 'sauber')
@@ -15,6 +15,8 @@ def normalize_team_name():
 
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(data)
+
+#normalize_team_name()
 
 def find_invalid_rows():
     rows = []
@@ -58,9 +60,27 @@ def find_invalid_rows():
         writer.writerows(rows)
 
 
-find_invalid_rows()
+#find_invalid_rows()
 
+def remove_wet_tyres():
+    with open(input_file, 'r', encoding='utf-8') as file:
+        reader = list(csv.reader(file))
+        header = reader[0]
+        data_rows = reader[1:]
 
+    filtered_rows = []
+    for row in data_rows:
+        if row[3] != 'WET' and row[3] != 'UNKNOWN' and row[3] != 'INTERMEDIATE':
+            filtered_rows.append(row)
+        else:
+            print('Removed row:' + str(row))
+
+    with open(output_file, 'w', encoding='utf-8', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(header)
+        writer.writerows(filtered_rows)
+
+remove_wet_tyres()
 
 def normalize_gp_name():
     with open(input_file, 'r', encoding='utf-8') as file:
@@ -71,5 +91,4 @@ def normalize_gp_name():
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(data)
 
-
-# normalize_gp_name()
+#normalize_gp_name()

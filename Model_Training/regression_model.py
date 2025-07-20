@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 import training_data as td
 
-x_train, x_test, y_train, y_test = td.get_training_data(3)
+x_train, x_test, y_train, y_test = td.get_training_data(weight_coef_compound=3)
 
 linear_model = LinearRegression()
 linear_model.fit(x_train, y_train)

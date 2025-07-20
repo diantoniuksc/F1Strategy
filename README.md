@@ -1,4 +1,23 @@
 
+# F1 Tyre Life Prediction Project
+
+This project analyzes Formula 1 race data to predict tyre life using machine learning models such as LightGBM, Random Forest, and Linear Regression. It includes data pipelines for session extraction, feature engineering, and model training. The codebase supports data cleaning, feature selection, and model evaluation, with a focus on tyre compound analysis and stint strategies.
+
+## Main Features
+- Automated extraction of F1 session data using FastF1
+- Data cleaning, normalization, and feature engineering scripts
+- Model training with LightGBM, Random Forest, and Linear Regression
+- Tools for encoding categorical features and handling outliers
+- Visualization of feature importances and tyre compound statistics
+- Utilities for filtering and transforming CSV datasets
+- Modular pipeline for experimenting with different features and models
+
+## Directory Structure
+- `Dataset_Preparation/`: Scripts and CSVs for data cleaning and preparation
+- `Model_Training/`: Model training scripts and baseline models
+- `README.md`: Project instructions and overview
+
+## Getting Started
 # Allow running local scripts for this session (required for activation script)
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 

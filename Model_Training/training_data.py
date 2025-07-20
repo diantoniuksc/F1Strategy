@@ -6,20 +6,28 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-def get_training_data(weight_coef_compound: int):
-    training_data = pd.read_csv("Dataset_Preparation/all_years_sessions.csv")
+def get_training_data(is_compound_OHE: bool = True, weight_coef_compound: int = 1):
+    training_data = pd.read_csv("Dataset_Preparation/all_years_comp_v3.csv")
 
     # Filter for valid rows only
     training_data = training_data[training_data['is_valid'] == 1]
 
     # One-hot encode categorical columns
-    categorical_cols = ['driver_id', 'team_id', 'race_name', 'compound']
+    if is_compound_OHE:
+        #categorical_cols = ['driver_id', 'team_id', 'race_name', 'compound']
+        categorical_cols = ['driver_id', 'race_name', 'compound']
+    else:
+        categorical_cols = ['driver_id', 'team_id', 'race_name']
     training_data_encoded = pd.get_dummies(training_data, columns=categorical_cols)
 
     # Give more weight to tyre compound columns
-    compound_cols = [col for col in training_data_encoded.columns if col.startswith('compound_')]
-    for col in compound_cols:
-        training_data_encoded[col] *= weight_coef_compound
+    if  weight_coef_compound < 1:
+        raise ValueError("weight_coef_compound must be >= 1")
+    
+    if weight_coef_compound != 1:
+        compound_cols = [col for col in training_data_encoded.columns if col.startswith('compound_')]
+        for col in compound_cols:
+            training_data_encoded[col] *= weight_coef_compound
 
     x = training_data_encoded.drop(columns=['tyre_life', 'is_valid'])
     y = training_data_encoded[['tyre_life']]
@@ -28,4 +36,6 @@ def get_training_data(weight_coef_compound: int):
     return x_train, x_test, y_train, y_test
 
 # Call the function
-#x_train, x_test, y_train, y_test = get_training_data(3)
+#x_train, x_test, y_train, y_test = get_training_data(1)
+
+#fix calls of funtions in the randomforet doc
