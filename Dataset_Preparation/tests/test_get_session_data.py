@@ -1,6 +1,6 @@
 import fastf1
 from fastf1.events import get_event_schedule
-import name_to_compond
+import Dataset_Preparation.normalization.name_to_compound as name_to_compound
 
 # Set the year and event name for which you want to get the race number
 """year = 2024
@@ -38,7 +38,7 @@ def get_driver_session_info(year: int, event_name: str, session: str, driver_id:
         print(f"Fastest lap compound: {fastest_lap['Compound']}")
 
         # Print the compound mapping using your custom function
-        compound_code = name_to_compond.get_compound(year, race_number, fastest_lap['Compound'])
+        compound_code = name_to_compound.get_compound(year, race_number, fastest_lap['Compound'])
         print(f"Compound code from mapping: {compound_code}")
 
         # Show the arguments used for mapping

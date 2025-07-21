@@ -1,0 +1,2611 @@
+driver_id,race_name,year,compound,stint_start_lap,tyre_life,is_valid
+VER,Bahrain Grand Prix,2022,SOFT,1.0,17.0,1
+VER,Bahrain Grand Prix,2022,SOFT,15.0,16.0,1
+VER,Bahrain Grand Prix,2022,MEDIUM,31.0,13.0,1
+GAS,Bahrain Grand Prix,2022,SOFT,44.0,14.0,1
+GAS,Bahrain Grand Prix,2022,SOFT,1.0,17.0,1
+GAS,Bahrain Grand Prix,2022,MEDIUM,15.0,18.0,1
+PER,Bahrain Grand Prix,2022,SOFT,1.0,18.0,1
+PER,Bahrain Grand Prix,2022,MEDIUM,16.0,18.0,1
+PER,Bahrain Grand Prix,2022,SOFT,34.0,13.0,1
+ALO,Bahrain Grand Prix,2022,SOFT,44.0,17.0,1
+ALO,Bahrain Grand Prix,2022,SOFT,1.0,14.0,1
+ALO,Bahrain Grand Prix,2022,MEDIUM,12.0,14.0,1
+LEC,Bahrain Grand Prix,2022,SOFT,43.0,15.0,1
+LEC,Bahrain Grand Prix,2022,SOFT,1.0,15.0,1
+LEC,Bahrain Grand Prix,2022,SOFT,16.0,19.0,1
+LEC,Bahrain Grand Prix,2022,MEDIUM,32.0,15.0,1
+STR,Bahrain Grand Prix,2022,SOFT,47.0,14.0,1
+STR,Bahrain Grand Prix,2022,SOFT,1.0,18.0,1
+STR,Bahrain Grand Prix,2022,SOFT,19.0,20.0,1
+MAG,Bahrain Grand Prix,2022,SOFT,46.0,12.0,1
+MAG,Bahrain Grand Prix,2022,SOFT,1.0,14.0,1
+MAG,Bahrain Grand Prix,2022,SOFT,15.0,23.0,1
+MAG,Bahrain Grand Prix,2022,MEDIUM,35.0,12.0,1
+TSU,Bahrain Grand Prix,2022,SOFT,47.0,14.0,1
+TSU,Bahrain Grand Prix,2022,SOFT,1.0,15.0,1
+TSU,Bahrain Grand Prix,2022,MEDIUM,16.0,14.0,1
+TSU,Bahrain Grand Prix,2022,SOFT,30.0,15.0,1
+ALB,Bahrain Grand Prix,2022,SOFT,45.0,16.0,1
+ALB,Bahrain Grand Prix,2022,SOFT,1.0,13.0,1
+ALB,Bahrain Grand Prix,2022,MEDIUM,14.0,22.0,1
+ALB,Bahrain Grand Prix,2022,MEDIUM,36.0,13.0,1
+ZHO,Bahrain Grand Prix,2022,SOFT,47.0,14.0,1
+ZHO,Bahrain Grand Prix,2022,SOFT,1.0,15.0,1
+ZHO,Bahrain Grand Prix,2022,MEDIUM,16.0,22.0,1
+HUL,Bahrain Grand Prix,2022,SOFT,46.0,15.0,1
+HUL,Bahrain Grand Prix,2022,SOFT,1.0,19.0,1
+HUL,Bahrain Grand Prix,2022,SOFT,20.0,18.0,1
+RIC,Bahrain Grand Prix,2022,SOFT,45.0,13.0,1
+RIC,Bahrain Grand Prix,2022,MEDIUM,1.0,17.0,1
+RIC,Bahrain Grand Prix,2022,SOFT,18.0,16.0,1
+OCO,Bahrain Grand Prix,2022,SOFT,45.0,13.0,1
+OCO,Bahrain Grand Prix,2022,SOFT,1.0,14.0,1
+OCO,Bahrain Grand Prix,2022,MEDIUM,15.0,16.0,1
+NOR,Bahrain Grand Prix,2022,SOFT,44.0,17.0,1
+NOR,Bahrain Grand Prix,2022,MEDIUM,1.0,24.0,1
+HAM,Bahrain Grand Prix,2022,SOFT,46.0,15.0,1
+HAM,Bahrain Grand Prix,2022,SOFT,1.0,13.0,1
+HAM,Bahrain Grand Prix,2022,MEDIUM,28.0,17.0,1
+MSC,Bahrain Grand Prix,2022,SOFT,45.0,16.0,1
+MSC,Bahrain Grand Prix,2022,SOFT,1.0,12.0,1
+MSC,Bahrain Grand Prix,2022,MEDIUM,13.0,23.0,1
+SAI,Bahrain Grand Prix,2022,SOFT,36.0,24.0,1
+SAI,Bahrain Grand Prix,2022,SOFT,1.0,17.0,1
+SAI,Bahrain Grand Prix,2022,SOFT,15.0,19.0,1
+LAT,Bahrain Grand Prix,2022,SOFT,45.0,16.0,1
+LAT,Bahrain Grand Prix,2022,SOFT,1.0,14.0,1
+LAT,Bahrain Grand Prix,2022,SOFT,15.0,18.0,1
+LAT,Bahrain Grand Prix,2022,MEDIUM,33.0,13.0,1
+RUS,Bahrain Grand Prix,2022,SOFT,46.0,15.0,1
+RUS,Bahrain Grand Prix,2022,SOFT,1.0,18.0,1
+RUS,Bahrain Grand Prix,2022,HARD,16.0,19.0,1
+RUS,Bahrain Grand Prix,2022,MEDIUM,34.0,12.0,1
+BOT,Bahrain Grand Prix,2022,SOFT,46.0,14.0,1
+BOT,Bahrain Grand Prix,2022,SOFT,1.0,17.0,1
+BOT,Bahrain Grand Prix,2022,MEDIUM,15.0,22.0,1
+VER,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+GAS,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+GAS,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,15.0,1
+PER,Saudi Arabian Grand Prix,2022,HARD,16.0,35.0,1
+PER,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,15.0,1
+ALO,Saudi Arabian Grand Prix,2022,HARD,16.0,35.0,1
+ALO,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+LEC,Saudi Arabian Grand Prix,2022,HARD,17.0,20.0,1
+LEC,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+STR,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+STR,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,14.0,1
+MAG,Saudi Arabian Grand Prix,2022,HARD,14.0,37.0,1
+MAG,Saudi Arabian Grand Prix,2022,HARD,1.0,39.0,1
+ALB,Saudi Arabian Grand Prix,2022,MEDIUM,38.0,15.0,1
+ALB,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,13.0,1
+ZHO,Saudi Arabian Grand Prix,2022,HARD,14.0,35.0,1
+ZHO,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+HUL,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+HUL,Saudi Arabian Grand Prix,2022,HARD,1.0,38.0,1
+RIC,Saudi Arabian Grand Prix,2022,MEDIUM,38.0,14.0,1
+OCO,Saudi Arabian Grand Prix,2022,HARD,9.0,28.0,1
+OCO,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+NOR,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+NOR,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+HAM,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+HAM,Saudi Arabian Grand Prix,2022,HARD,1.0,41.0,1
+SAI,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+LAT,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+RUS,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,15.0,1
+RUS,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+BOT,Saudi Arabian Grand Prix,2022,HARD,17.0,34.0,1
+BOT,Saudi Arabian Grand Prix,2022,MEDIUM,1.0,16.0,1
+BOT,Saudi Arabian Grand Prix,2022,HARD,17.0,19.0,1
+VER,Australian Grand Prix,2022,MEDIUM,1.0,18.0,1
+GAS,Australian Grand Prix,2022,HARD,19.0,21.0,1
+GAS,Australian Grand Prix,2022,MEDIUM,1.0,21.0,1
+PER,Australian Grand Prix,2022,HARD,22.0,37.0,1
+PER,Australian Grand Prix,2022,MEDIUM,1.0,20.0,1
+ALO,Australian Grand Prix,2022,HARD,21.0,38.0,1
+ALO,Australian Grand Prix,2022,HARD,1.0,39.0,1
+ALO,Australian Grand Prix,2022,MEDIUM,40.0,14.0,1
+LEC,Australian Grand Prix,2022,MEDIUM,1.0,22.0,1
+STR,Australian Grand Prix,2022,HARD,23.0,36.0,1
+STR,Australian Grand Prix,2022,HARD,5.0,19.0,1
+MAG,Australian Grand Prix,2022,HARD,24.0,39.0,1
+MAG,Australian Grand Prix,2022,HARD,1.0,39.0,1
+TSU,Australian Grand Prix,2022,MEDIUM,40.0,20.0,1
+TSU,Australian Grand Prix,2022,MEDIUM,1.0,18.0,1
+ALB,Australian Grand Prix,2022,HARD,19.0,39.0,1
+ZHO,Australian Grand Prix,2022,MEDIUM,1.0,21.0,1
+RIC,Australian Grand Prix,2022,HARD,22.0,37.0,1
+RIC,Australian Grand Prix,2022,MEDIUM,1.0,21.0,1
+OCO,Australian Grand Prix,2022,HARD,22.0,37.0,1
+OCO,Australian Grand Prix,2022,MEDIUM,1.0,17.0,1
+NOR,Australian Grand Prix,2022,HARD,18.0,41.0,1
+NOR,Australian Grand Prix,2022,MEDIUM,1.0,20.0,1
+HAM,Australian Grand Prix,2022,HARD,21.0,38.0,1
+HAM,Australian Grand Prix,2022,MEDIUM,1.0,22.0,1
+MSC,Australian Grand Prix,2022,HARD,23.0,36.0,1
+MSC,Australian Grand Prix,2022,MEDIUM,1.0,16.0,1
+VET,Australian Grand Prix,2022,HARD,15.0,43.0,1
+SAI,Australian Grand Prix,2022,HARD,1.0,24.0,1
+LAT,Australian Grand Prix,2022,MEDIUM,1.0,13.0,1
+RUS,Australian Grand Prix,2022,HARD,24.0,34.0,1
+RUS,Australian Grand Prix,2022,MEDIUM,1.0,23.0,1
+BOT,Australian Grand Prix,2022,HARD,24.0,35.0,1
+BOT,Australian Grand Prix,2022,MEDIUM,1.0,22.0,1
+VER,Emilia Romagna Grand Prix,2022,MEDIUM,20.0,32.0,1
+PER,Emilia Romagna Grand Prix,2022,SOFT,52.0,12.0,1
+PER,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,32.0,1
+NOR,Emilia Romagna Grand Prix,2022,SOFT,51.0,13.0,1
+RUS,Emilia Romagna Grand Prix,2022,MEDIUM,20.0,44.0,1
+LEC,Emilia Romagna Grand Prix,2022,MEDIUM,20.0,30.0,1
+TSU,Emilia Romagna Grand Prix,2022,SOFT,54.0,10.0,1
+OCO,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,44.0,1
+ZHO,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,44.0,1
+LAT,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,44.0,1
+MSC,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,44.0,1
+MSC,Emilia Romagna Grand Prix,2022,MEDIUM,19.0,36.0,1
+RIC,Emilia Romagna Grand Prix,2022,SOFT,53.0,10.0,1
+RIC,Emilia Romagna Grand Prix,2022,MEDIUM,17.0,14.0,1
+ALO,Emilia Romagna Grand Prix,2022,HARD,31.0,32.0,1
+VER,Miami Grand Prix,2022,MEDIUM,1.0,26.0,1
+GAS,Miami Grand Prix,2022,HARD,27.0,31.0,1
+GAS,Miami Grand Prix,2022,MEDIUM,1.0,16.0,1
+GAS,Miami Grand Prix,2022,HARD,17.0,24.0,1
+PER,Miami Grand Prix,2022,SOFT,41.0,8.0,1
+PER,Miami Grand Prix,2022,MEDIUM,1.0,27.0,1
+ALO,Miami Grand Prix,2022,MEDIUM,42.0,16.0,1
+ALO,Miami Grand Prix,2022,MEDIUM,1.0,15.0,1
+LEC,Miami Grand Prix,2022,HARD,16.0,43.0,1
+LEC,Miami Grand Prix,2022,MEDIUM,1.0,24.0,1
+STR,Miami Grand Prix,2022,HARD,25.0,33.0,1
+STR,Miami Grand Prix,2022,HARD,1.0,42.0,1
+MAG,Miami Grand Prix,2022,MEDIUM,41.0,19.0,1
+MAG,Miami Grand Prix,2022,MEDIUM,1.0,12.0,1
+MAG,Miami Grand Prix,2022,HARD,13.0,30.0,1
+TSU,Miami Grand Prix,2022,MEDIUM,43.0,15.0,1
+TSU,Miami Grand Prix,2022,HARD,12.0,30.0,1
+ALB,Miami Grand Prix,2022,SOFT,42.0,19.0,1
+ALB,Miami Grand Prix,2022,MEDIUM,1.0,16.0,1
+ZHO,Miami Grand Prix,2022,HARD,17.0,41.0,1
+RIC,Miami Grand Prix,2022,MEDIUM,1.0,30.0,1
+OCO,Miami Grand Prix,2022,SOFT,42.0,16.0,1
+OCO,Miami Grand Prix,2022,HARD,1.0,41.0,1
+NOR,Miami Grand Prix,2022,SOFT,42.0,16.0,1
+NOR,Miami Grand Prix,2022,MEDIUM,1.0,18.0,1
+HAM,Miami Grand Prix,2022,HARD,19.0,22.0,1
+HAM,Miami Grand Prix,2022,MEDIUM,1.0,22.0,1
+MSC,Miami Grand Prix,2022,HARD,23.0,35.0,1
+MSC,Miami Grand Prix,2022,MEDIUM,1.0,14.0,1
+MSC,Miami Grand Prix,2022,HARD,15.0,40.0,1
+VET,Miami Grand Prix,2022,HARD,1.0,43.0,1
+SAI,Miami Grand Prix,2022,MEDIUM,42.0,15.0,1
+SAI,Miami Grand Prix,2022,MEDIUM,1.0,27.0,1
+LAT,Miami Grand Prix,2022,HARD,28.0,30.0,1
+LAT,Miami Grand Prix,2022,HARD,1.0,34.0,1
+RUS,Miami Grand Prix,2022,MEDIUM,35.0,23.0,1
+RUS,Miami Grand Prix,2022,HARD,1.0,40.0,1
+BOT,Miami Grand Prix,2022,MEDIUM,41.0,17.0,1
+BOT,Miami Grand Prix,2022,MEDIUM,1.0,26.0,1
+VER,Spanish Grand Prix,2022,SOFT,1.0,16.0,1
+VER,Spanish Grand Prix,2022,MEDIUM,14.0,15.0,1
+VER,Spanish Grand Prix,2022,SOFT,29.0,19.0,1
+PER,Spanish Grand Prix,2022,MEDIUM,45.0,22.0,1
+PER,Spanish Grand Prix,2022,SOFT,1.0,20.0,1
+PER,Spanish Grand Prix,2022,MEDIUM,18.0,20.0,1
+PER,Spanish Grand Prix,2022,MEDIUM,38.0,16.0,1
+RUS,Spanish Grand Prix,2022,SOFT,54.0,16.0,1
+RUS,Spanish Grand Prix,2022,SOFT,1.0,16.0,1
+RUS,Spanish Grand Prix,2022,MEDIUM,14.0,23.0,1
+RUS,Spanish Grand Prix,2022,MEDIUM,37.0,15.0,1
+SAI,Spanish Grand Prix,2022,SOFT,52.0,17.0,1
+SAI,Spanish Grand Prix,2022,SOFT,1.0,13.0,1
+SAI,Spanish Grand Prix,2022,MEDIUM,11.0,21.0,1
+SAI,Spanish Grand Prix,2022,MEDIUM,32.0,14.0,1
+HAM,Spanish Grand Prix,2022,SOFT,46.0,24.0,1
+HAM,Spanish Grand Prix,2022,SOFT,2.0,23.0,1
+HAM,Spanish Grand Prix,2022,MEDIUM,23.0,26.0,1
+BOT,Spanish Grand Prix,2022,SOFT,49.0,21.0,1
+BOT,Spanish Grand Prix,2022,SOFT,1.0,17.0,1
+BOT,Spanish Grand Prix,2022,MEDIUM,15.0,20.0,1
+OCO,Spanish Grand Prix,2022,MEDIUM,35.0,32.0,1
+OCO,Spanish Grand Prix,2022,SOFT,1.0,13.0,1
+OCO,Spanish Grand Prix,2022,MEDIUM,14.0,22.0,1
+OCO,Spanish Grand Prix,2022,SOFT,36.0,20.0,1
+NOR,Spanish Grand Prix,2022,SOFT,53.0,17.0,1
+NOR,Spanish Grand Prix,2022,SOFT,1.0,12.0,1
+NOR,Spanish Grand Prix,2022,MEDIUM,13.0,21.0,1
+NOR,Spanish Grand Prix,2022,SOFT,34.0,21.0,1
+ALO,Spanish Grand Prix,2022,SOFT,52.0,18.0,1
+ALO,Spanish Grand Prix,2022,SOFT,1.0,10.0,1
+ALO,Spanish Grand Prix,2022,MEDIUM,11.0,21.0,1
+ALO,Spanish Grand Prix,2022,SOFT,32.0,22.0,1
+TSU,Spanish Grand Prix,2022,SOFT,54.0,14.0,1
+TSU,Spanish Grand Prix,2022,SOFT,1.0,11.0,1
+TSU,Spanish Grand Prix,2022,MEDIUM,12.0,21.0,1
+TSU,Spanish Grand Prix,2022,SOFT,33.0,23.0,1
+VET,Spanish Grand Prix,2022,SOFT,53.0,16.0,1
+VET,Spanish Grand Prix,2022,SOFT,1.0,24.0,1
+VET,Spanish Grand Prix,2022,SOFT,22.0,24.0,1
+RIC,Spanish Grand Prix,2022,MEDIUM,43.0,24.0,1
+RIC,Spanish Grand Prix,2022,SOFT,1.0,14.0,1
+RIC,Spanish Grand Prix,2022,SOFT,12.0,23.0,1
+RIC,Spanish Grand Prix,2022,MEDIUM,32.0,17.0,1
+GAS,Spanish Grand Prix,2022,SOFT,49.0,20.0,1
+GAS,Spanish Grand Prix,2022,SOFT,1.0,10.0,1
+GAS,Spanish Grand Prix,2022,MEDIUM,11.0,19.0,1
+GAS,Spanish Grand Prix,2022,SOFT,30.0,20.0,1
+MSC,Spanish Grand Prix,2022,SOFT,47.0,22.0,1
+MSC,Spanish Grand Prix,2022,SOFT,1.0,14.0,1
+MSC,Spanish Grand Prix,2022,SOFT,13.0,21.0,1
+STR,Spanish Grand Prix,2022,MEDIUM,31.0,35.0,1
+STR,Spanish Grand Prix,2022,SOFT,1.0,17.0,1
+STR,Spanish Grand Prix,2022,SOFT,15.0,16.0,1
+STR,Spanish Grand Prix,2022,MEDIUM,28.0,20.0,1
+LAT,Spanish Grand Prix,2022,SOFT,47.0,19.0,1
+LAT,Spanish Grand Prix,2022,SOFT,1.0,12.0,1
+LAT,Spanish Grand Prix,2022,MEDIUM,13.0,14.0,1
+LAT,Spanish Grand Prix,2022,SOFT,27.0,24.0,1
+MAG,Spanish Grand Prix,2022,SOFT,51.0,17.0,1
+MAG,Spanish Grand Prix,2022,MEDIUM,2.0,28.0,1
+ALB,Spanish Grand Prix,2022,HARD,30.0,35.0,1
+ALB,Spanish Grand Prix,2022,SOFT,1.0,11.0,1
+ALB,Spanish Grand Prix,2022,MEDIUM,12.0,14.0,1
+ALB,Spanish Grand Prix,2022,SOFT,26.0,20.0,1
+ZHO,Spanish Grand Prix,2022,SOFT,55.0,13.0,1
+ZHO,Spanish Grand Prix,2022,SOFT,1.0,10.0,1
+LEC,Spanish Grand Prix,2022,MEDIUM,11.0,18.0,1
+LEC,Spanish Grand Prix,2022,SOFT,1.0,21.0,1
+GAS,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+GAS,Monaco Grand Prix,2022,HARD,3.0,28.0,1
+PER,Monaco Grand Prix,2022,HARD,31.0,42.0,1
+ALO,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+ALO,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+LEC,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+STR,Monaco Grand Prix,2022,HARD,22.0,43.0,1
+TSU,Monaco Grand Prix,2022,HARD,7.0,23.0,1
+TSU,Monaco Grand Prix,2022,MEDIUM,30.0,27.0,1
+ALB,Monaco Grand Prix,2022,HARD,1.0,22.0,1
+ZHO,Monaco Grand Prix,2022,MEDIUM,23.0,27.0,1
+ZHO,Monaco Grand Prix,2022,HARD,1.0,29.0,1
+RIC,Monaco Grand Prix,2022,MEDIUM,30.0,34.0,1
+RIC,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+OCO,Monaco Grand Prix,2022,HARD,31.0,45.0,1
+OCO,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+NOR,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+NOR,Monaco Grand Prix,2022,HARD,23.0,29.0,1
+HAM,Monaco Grand Prix,2022,MEDIUM,52.0,13.0,1
+MSC,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+VET,Monaco Grand Prix,2022,HARD,5.0,21.0,1
+VET,Monaco Grand Prix,2022,HARD,7.0,25.0,1
+SAI,Monaco Grand Prix,2022,HARD,31.0,42.0,1
+SAI,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+LAT,Monaco Grand Prix,2022,HARD,31.0,43.0,1
+RUS,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+BOT,Monaco Grand Prix,2022,MEDIUM,31.0,34.0,1
+BOT,Monaco Grand Prix,2022,HARD,1.0,30.0,1
+VER,Azerbaijan Grand Prix,2022,MEDIUM,1.0,18.0,1
+PER,Azerbaijan Grand Prix,2022,HARD,10.0,42.0,1
+PER,Azerbaijan Grand Prix,2022,MEDIUM,1.0,16.0,1
+ALO,Azerbaijan Grand Prix,2022,MEDIUM,1.0,18.0,1
+LEC,Azerbaijan Grand Prix,2022,HARD,19.0,33.0,1
+STR,Azerbaijan Grand Prix,2022,HARD,1.0,31.0,1
+MAG,Azerbaijan Grand Prix,2022,MEDIUM,31.0,17.0,1
+TSU,Azerbaijan Grand Prix,2022,HARD,10.0,23.0,1
+TSU,Azerbaijan Grand Prix,2022,HARD,10.0,29.0,1
+ALB,Azerbaijan Grand Prix,2022,SOFT,39.0,15.0,1
+ALB,Azerbaijan Grand Prix,2022,HARD,10.0,20.0,1
+ZHO,Azerbaijan Grand Prix,2022,HARD,30.0,21.0,1
+RIC,Azerbaijan Grand Prix,2022,HARD,1.0,33.0,1
+OCO,Azerbaijan Grand Prix,2022,MEDIUM,34.0,18.0,1
+OCO,Azerbaijan Grand Prix,2022,HARD,1.0,33.0,1
+NOR,Azerbaijan Grand Prix,2022,MEDIUM,34.0,18.0,1
+NOR,Azerbaijan Grand Prix,2022,MEDIUM,1.0,20.0,1
+HAM,Azerbaijan Grand Prix,2022,HARD,21.0,31.0,1
+HAM,Azerbaijan Grand Prix,2022,HARD,10.0,24.0,1
+MSC,Azerbaijan Grand Prix,2022,HARD,34.0,19.0,1
+MSC,Azerbaijan Grand Prix,2022,MEDIUM,10.0,16.0,1
+VET,Azerbaijan Grand Prix,2022,HARD,24.0,27.0,1
+SAI,Azerbaijan Grand Prix,2022,HARD,10.0,43.0,1
+LAT,Azerbaijan Grand Prix,2022,MEDIUM,1.0,17.0,1
+RUS,Azerbaijan Grand Prix,2022,HARD,18.0,33.0,1
+RUS,Azerbaijan Grand Prix,2022,HARD,10.0,24.0,1
+BOT,Azerbaijan Grand Prix,2022,HARD,34.0,19.0,1
+BOT,Azerbaijan Grand Prix,2022,HARD,1.0,33.0,1
+VER,Canadian Grand Prix,2022,HARD,10.0,34.0,1
+GAS,Canadian Grand Prix,2022,HARD,44.0,27.0,1
+GAS,Canadian Grand Prix,2022,HARD,6.0,31.0,1
+PER,Canadian Grand Prix,2022,HARD,37.0,34.0,1
+ALO,Canadian Grand Prix,2022,MEDIUM,1.0,28.0,1
+ALO,Canadian Grand Prix,2022,HARD,29.0,21.0,1
+LEC,Canadian Grand Prix,2022,MEDIUM,50.0,21.0,1
+LEC,Canadian Grand Prix,2022,HARD,1.0,41.0,1
+STR,Canadian Grand Prix,2022,MEDIUM,42.0,29.0,1
+STR,Canadian Grand Prix,2022,HARD,1.0,47.0,1
+MAG,Canadian Grand Prix,2022,MEDIUM,48.0,24.0,1
+ALB,Canadian Grand Prix,2022,HARD,10.0,38.0,1
+ALB,Canadian Grand Prix,2022,MEDIUM,1.0,18.0,1
+ALB,Canadian Grand Prix,2022,HARD,19.0,30.0,1
+ZHO,Canadian Grand Prix,2022,HARD,49.0,22.0,1
+ZHO,Canadian Grand Prix,2022,MEDIUM,1.0,19.0,1
+ZHO,Canadian Grand Prix,2022,HARD,20.0,30.0,1
+RIC,Canadian Grand Prix,2022,HARD,50.0,21.0,1
+RIC,Canadian Grand Prix,2022,MEDIUM,1.0,19.0,1
+RIC,Canadian Grand Prix,2022,HARD,20.0,30.0,1
+OCO,Canadian Grand Prix,2022,HARD,50.0,21.0,1
+OCO,Canadian Grand Prix,2022,MEDIUM,1.0,19.0,1
+OCO,Canadian Grand Prix,2022,HARD,20.0,30.0,1
+NOR,Canadian Grand Prix,2022,MEDIUM,50.0,21.0,1
+NOR,Canadian Grand Prix,2022,HARD,1.0,19.0,1
+NOR,Canadian Grand Prix,2022,HARD,20.0,23.0,1
+HAM,Canadian Grand Prix,2022,MEDIUM,43.0,28.0,1
+HAM,Canadian Grand Prix,2022,HARD,10.0,35.0,1
+MSC,Canadian Grand Prix,2022,HARD,45.0,26.0,1
+VET,Canadian Grand Prix,2022,MEDIUM,1.0,19.0,1
+SAI,Canadian Grand Prix,2022,HARD,20.0,51.0,1
+SAI,Canadian Grand Prix,2022,MEDIUM,1.0,20.0,1
+SAI,Canadian Grand Prix,2022,HARD,21.0,29.0,1
+LAT,Canadian Grand Prix,2022,HARD,50.0,21.0,1
+LAT,Canadian Grand Prix,2022,HARD,10.0,28.0,1
+RUS,Canadian Grand Prix,2022,HARD,38.0,33.0,1
+RUS,Canadian Grand Prix,2022,MEDIUM,1.0,19.0,1
+RUS,Canadian Grand Prix,2022,HARD,20.0,26.0,1
+BOT,Canadian Grand Prix,2022,HARD,46.0,25.0,1
+BOT,Canadian Grand Prix,2022,HARD,1.0,49.0,1
+GAS,British Grand Prix,2022,SOFT,40.0,13.0,1
+GAS,British Grand Prix,2022,SOFT,2.0,15.0,1
+PER,British Grand Prix,2022,MEDIUM,6.0,35.0,1
+ALO,British Grand Prix,2022,SOFT,40.0,13.0,1
+ALO,British Grand Prix,2022,MEDIUM,2.0,32.0,1
+LEC,British Grand Prix,2022,SOFT,40.0,13.0,1
+LEC,British Grand Prix,2022,MEDIUM,2.0,24.0,1
+STR,British Grand Prix,2022,HARD,26.0,27.0,1
+STR,British Grand Prix,2022,MEDIUM,2.0,16.0,1
+STR,British Grand Prix,2022,HARD,16.0,26.0,1
+MAG,British Grand Prix,2022,MEDIUM,41.0,15.0,1
+MAG,British Grand Prix,2022,MEDIUM,2.0,23.0,1
+TSU,British Grand Prix,2022,MEDIUM,23.0,30.0,1
+TSU,British Grand Prix,2022,SOFT,2.0,17.0,1
+TSU,British Grand Prix,2022,HARD,19.0,21.0,1
+ALB,British Grand Prix,2022,SOFT,39.0,14.0,1
+RIC,British Grand Prix,2022,MEDIUM,1.0,20.0,1
+OCO,British Grand Prix,2022,SOFT,39.0,14.0,1
+OCO,British Grand Prix,2022,SOFT,2.0,21.0,1
+NOR,British Grand Prix,2022,MEDIUM,1.0,34.0,1
+HAM,British Grand Prix,2022,SOFT,41.0,12.0,1
+HAM,British Grand Prix,2022,MEDIUM,2.0,32.0,1
+MSC,British Grand Prix,2022,SOFT,40.0,13.0,1
+MSC,British Grand Prix,2022,MEDIUM,2.0,18.0,1
+MSC,British Grand Prix,2022,HARD,20.0,20.0,1
+VET,British Grand Prix,2022,SOFT,40.0,13.0,1
+VET,British Grand Prix,2022,MEDIUM,7.0,35.0,1
+SAI,British Grand Prix,2022,MEDIUM,40.0,15.0,1
+SAI,British Grand Prix,2022,MEDIUM,2.0,19.0,1
+SAI,British Grand Prix,2022,HARD,21.0,19.0,1
+LAT,British Grand Prix,2022,SOFT,40.0,13.0,1
+LAT,British Grand Prix,2022,SOFT,2.0,18.0,1
+LAT,British Grand Prix,2022,MEDIUM,20.0,20.0,1
+RUS,British Grand Prix,2022,SOFT,40.0,14.0,1
+VER,Austrian Grand Prix,2022,MEDIUM,1.0,13.0,1
+VER,Austrian Grand Prix,2022,HARD,14.0,23.0,1
+GAS,Austrian Grand Prix,2022,MEDIUM,37.0,35.0,1
+GAS,Austrian Grand Prix,2022,MEDIUM,1.0,12.0,1
+ALO,Austrian Grand Prix,2022,HARD,4.0,21.0,1
+ALO,Austrian Grand Prix,2022,HARD,1.0,27.0,1
+ALO,Austrian Grand Prix,2022,MEDIUM,28.0,31.0,1
+LEC,Austrian Grand Prix,2022,MEDIUM,59.0,12.0,1
+LEC,Austrian Grand Prix,2022,MEDIUM,1.0,26.0,1
+LEC,Austrian Grand Prix,2022,HARD,27.0,32.0,1
+STR,Austrian Grand Prix,2022,MEDIUM,59.0,13.0,1
+STR,Austrian Grand Prix,2022,MEDIUM,1.0,31.0,1
+MAG,Austrian Grand Prix,2022,MEDIUM,30.0,43.0,1
+MAG,Austrian Grand Prix,2022,MEDIUM,1.0,15.0,1
+TSU,Austrian Grand Prix,2022,HARD,16.0,55.0,1
+TSU,Austrian Grand Prix,2022,HARD,1.0,26.0,1
+ALB,Austrian Grand Prix,2022,HARD,27.0,44.0,1
+ZHO,Austrian Grand Prix,2022,HARD,1.0,24.0,1
+RIC,Austrian Grand Prix,2022,MEDIUM,1.0,12.0,1
+OCO,Austrian Grand Prix,2022,MEDIUM,1.0,16.0,1
+NOR,Austrian Grand Prix,2022,HARD,17.0,55.0,1
+NOR,Austrian Grand Prix,2022,MEDIUM,1.0,14.0,1
+HAM,Austrian Grand Prix,2022,HARD,15.0,56.0,1
+HAM,Austrian Grand Prix,2022,MEDIUM,1.0,28.0,1
+MSC,Austrian Grand Prix,2022,MEDIUM,29.0,43.0,1
+MSC,Austrian Grand Prix,2022,MEDIUM,1.0,16.0,1
+VET,Austrian Grand Prix,2022,HARD,17.0,54.0,1
+VET,Austrian Grand Prix,2022,HARD,1.0,21.0,1
+SAI,Austrian Grand Prix,2022,MEDIUM,1.0,27.0,1
+LAT,Austrian Grand Prix,2022,HARD,28.0,30.0,1
+LAT,Austrian Grand Prix,2022,MEDIUM,1.0,12.0,1
+RUS,Austrian Grand Prix,2022,HARD,14.0,35.0,1
+VER,French Grand Prix,2022,MEDIUM,1.0,16.0,1
+GAS,French Grand Prix,2022,HARD,17.0,37.0,1
+PER,French Grand Prix,2022,MEDIUM,19.0,35.0,1
+PER,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+ALO,French Grand Prix,2022,HARD,19.0,35.0,1
+ALO,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+LEC,French Grand Prix,2022,HARD,19.0,35.0,1
+STR,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+STR,French Grand Prix,2022,MEDIUM,1.0,20.0,1
+MAG,French Grand Prix,2022,HARD,19.0,36.0,1
+TSU,French Grand Prix,2022,HARD,19.0,20.0,1
+ALB,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+ZHO,French Grand Prix,2022,HARD,19.0,35.0,1
+RIC,French Grand Prix,2022,HARD,23.0,26.0,1
+RIC,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+OCO,French Grand Prix,2022,HARD,19.0,35.0,1
+OCO,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+NOR,French Grand Prix,2022,HARD,19.0,35.0,1
+NOR,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+HAM,French Grand Prix,2022,HARD,19.0,35.0,1
+HAM,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+MSC,French Grand Prix,2022,HARD,19.0,35.0,1
+VET,French Grand Prix,2022,HARD,19.0,35.0,1
+VET,French Grand Prix,2022,MEDIUM,1.0,21.0,1
+SAI,French Grand Prix,2022,HARD,20.0,35.0,1
+SAI,French Grand Prix,2022,MEDIUM,19.0,24.0,1
+LAT,French Grand Prix,2022,MEDIUM,1.0,19.0,1
+LAT,French Grand Prix,2022,HARD,20.0,19.0,1
+RUS,French Grand Prix,2022,MEDIUM,1.0,18.0,1
+BOT,French Grand Prix,2022,HARD,19.0,36.0,1
+VER,Hungarian Grand Prix,2022,SOFT,1.0,17.0,1
+VER,Hungarian Grand Prix,2022,MEDIUM,17.0,22.0,1
+GAS,Hungarian Grand Prix,2022,MEDIUM,39.0,32.0,1
+GAS,Hungarian Grand Prix,2022,SOFT,1.0,16.0,1
+GAS,Hungarian Grand Prix,2022,MEDIUM,17.0,30.0,1
+PER,Hungarian Grand Prix,2022,SOFT,47.0,23.0,1
+PER,Hungarian Grand Prix,2022,SOFT,1.0,18.0,1
+PER,Hungarian Grand Prix,2022,MEDIUM,19.0,24.0,1
+ALO,Hungarian Grand Prix,2022,MEDIUM,43.0,28.0,1
+ALO,Hungarian Grand Prix,2022,MEDIUM,1.0,21.0,1
+LEC,Hungarian Grand Prix,2022,HARD,22.0,48.0,1
+LEC,Hungarian Grand Prix,2022,MEDIUM,1.0,21.0,1
+LEC,Hungarian Grand Prix,2022,MEDIUM,22.0,18.0,1
+STR,Hungarian Grand Prix,2022,SOFT,55.0,19.0,1
+STR,Hungarian Grand Prix,2022,SOFT,1.0,17.0,1
+STR,Hungarian Grand Prix,2022,MEDIUM,15.0,33.0,1
+MAG,Hungarian Grand Prix,2022,SOFT,47.0,23.0,1
+MAG,Hungarian Grand Prix,2022,HARD,7.0,29.0,1
+MAG,Hungarian Grand Prix,2022,MEDIUM,36.0,32.0,1
+TSU,Hungarian Grand Prix,2022,SOFT,1.0,13.0,1
+TSU,Hungarian Grand Prix,2022,MEDIUM,14.0,20.0,1
+TSU,Hungarian Grand Prix,2022,SOFT,34.0,18.0,1
+ALB,Hungarian Grand Prix,2022,SOFT,52.0,20.0,1
+ALB,Hungarian Grand Prix,2022,MEDIUM,3.0,19.0,1
+ALB,Hungarian Grand Prix,2022,MEDIUM,22.0,19.0,1
+ZHO,Hungarian Grand Prix,2022,SOFT,41.0,29.0,1
+ZHO,Hungarian Grand Prix,2022,MEDIUM,1.0,27.0,1
+ZHO,Hungarian Grand Prix,2022,HARD,28.0,24.0,1
+RIC,Hungarian Grand Prix,2022,SOFT,52.0,18.0,1
+RIC,Hungarian Grand Prix,2022,SOFT,1.0,17.0,1
+RIC,Hungarian Grand Prix,2022,MEDIUM,16.0,31.0,1
+OCO,Hungarian Grand Prix,2022,HARD,47.0,23.0,1
+OCO,Hungarian Grand Prix,2022,MEDIUM,1.0,23.0,1
+NOR,Hungarian Grand Prix,2022,HARD,24.0,46.0,1
+NOR,Hungarian Grand Prix,2022,SOFT,1.0,17.0,1
+NOR,Hungarian Grand Prix,2022,MEDIUM,15.0,28.0,1
+HAM,Hungarian Grand Prix,2022,HARD,43.0,28.0,1
+HAM,Hungarian Grand Prix,2022,MEDIUM,1.0,19.0,1
+HAM,Hungarian Grand Prix,2022,MEDIUM,20.0,32.0,1
+MSC,Hungarian Grand Prix,2022,SOFT,52.0,21.0,1
+MSC,Hungarian Grand Prix,2022,MEDIUM,1.0,21.0,1
+MSC,Hungarian Grand Prix,2022,HARD,22.0,20.0,1
+VET,Hungarian Grand Prix,2022,MEDIUM,42.0,28.0,1
+VET,Hungarian Grand Prix,2022,SOFT,1.0,15.0,1
+VET,Hungarian Grand Prix,2022,MEDIUM,16.0,32.0,1
+SAI,Hungarian Grand Prix,2022,MEDIUM,47.0,23.0,1
+SAI,Hungarian Grand Prix,2022,MEDIUM,1.0,17.0,1
+SAI,Hungarian Grand Prix,2022,MEDIUM,18.0,30.0,1
+LAT,Hungarian Grand Prix,2022,SOFT,48.0,26.0,1
+LAT,Hungarian Grand Prix,2022,MEDIUM,1.0,18.0,1
+LAT,Hungarian Grand Prix,2022,MEDIUM,19.0,21.0,1
+LAT,Hungarian Grand Prix,2022,SOFT,40.0,17.0,1
+RUS,Hungarian Grand Prix,2022,SOFT,57.0,13.0,1
+RUS,Hungarian Grand Prix,2022,SOFT,1.0,19.0,1
+RUS,Hungarian Grand Prix,2022,MEDIUM,17.0,23.0,1
+BOT,Hungarian Grand Prix,2022,MEDIUM,40.0,31.0,1
+BOT,Hungarian Grand Prix,2022,MEDIUM,1.0,26.0,1
+VER,Belgian Grand Prix,2022,SOFT,1.0,15.0,1
+VER,Belgian Grand Prix,2022,MEDIUM,16.0,15.0,1
+GAS,Belgian Grand Prix,2022,MEDIUM,31.0,14.0,1
+PER,Belgian Grand Prix,2022,MEDIUM,23.0,22.0,1
+PER,Belgian Grand Prix,2022,MEDIUM,1.0,14.0,1
+PER,Belgian Grand Prix,2022,MEDIUM,15.0,13.0,1
+ALO,Belgian Grand Prix,2022,MEDIUM,12.0,14.0,1
+LEC,Belgian Grand Prix,2022,HARD,26.0,19.0,1
+LEC,Belgian Grand Prix,2022,MEDIUM,4.0,22.0,1
+LEC,Belgian Grand Prix,2022,MEDIUM,26.0,17.0,1
+STR,Belgian Grand Prix,2022,MEDIUM,1.0,16.0,1
+STR,Belgian Grand Prix,2022,MEDIUM,16.0,12.0,1
+TSU,Belgian Grand Prix,2022,MEDIUM,28.0,16.0,1
+TSU,Belgian Grand Prix,2022,MEDIUM,19.0,12.0,1
+ALB,Belgian Grand Prix,2022,MEDIUM,31.0,14.0,1
+ZHO,Belgian Grand Prix,2022,MEDIUM,27.0,18.0,1
+ZHO,Belgian Grand Prix,2022,MEDIUM,1.0,14.0,1
+ZHO,Belgian Grand Prix,2022,MEDIUM,15.0,14.0,1
+RIC,Belgian Grand Prix,2022,SOFT,29.0,16.0,1
+RIC,Belgian Grand Prix,2022,MEDIUM,1.0,12.0,1
+RIC,Belgian Grand Prix,2022,HARD,13.0,20.0,1
+OCO,Belgian Grand Prix,2022,MEDIUM,33.0,12.0,1
+OCO,Belgian Grand Prix,2022,MEDIUM,1.0,12.0,1
+OCO,Belgian Grand Prix,2022,HARD,13.0,20.0,1
+NOR,Belgian Grand Prix,2022,MEDIUM,33.0,12.0,1
+NOR,Belgian Grand Prix,2022,MEDIUM,1.0,13.0,1
+HAM,Belgian Grand Prix,2022,MEDIUM,30.0,15.0,1
+MSC,Belgian Grand Prix,2022,MEDIUM,1.0,14.0,1
+VET,Belgian Grand Prix,2022,MEDIUM,31.0,13.0,1
+VET,Belgian Grand Prix,2022,MEDIUM,1.0,15.0,1
+VET,Belgian Grand Prix,2022,HARD,15.0,19.0,1
+SAI,Belgian Grand Prix,2022,MEDIUM,34.0,12.0,1
+SAI,Belgian Grand Prix,2022,SOFT,1.0,13.0,1
+SAI,Belgian Grand Prix,2022,MEDIUM,12.0,14.0,1
+LAT,Belgian Grand Prix,2022,HARD,26.0,19.0,1
+LAT,Belgian Grand Prix,2022,MEDIUM,4.0,13.0,1
+LAT,Belgian Grand Prix,2022,HARD,16.0,19.0,1
+RUS,Belgian Grand Prix,2022,SOFT,35.0,9.0,1
+RUS,Belgian Grand Prix,2022,MEDIUM,1.0,13.0,1
+RUS,Belgian Grand Prix,2022,MEDIUM,14.0,16.0,1
+VER,Dutch Grand Prix,2022,SOFT,1.0,18.0,1
+VER,Dutch Grand Prix,2022,MEDIUM,19.0,30.0,1
+GAS,Dutch Grand Prix,2022,SOFT,57.0,19.0,1
+GAS,Dutch Grand Prix,2022,SOFT,1.0,14.0,1
+GAS,Dutch Grand Prix,2022,MEDIUM,12.0,22.0,1
+GAS,Dutch Grand Prix,2022,HARD,33.0,25.0,1
+PER,Dutch Grand Prix,2022,SOFT,57.0,16.0,1
+PER,Dutch Grand Prix,2022,SOFT,1.0,19.0,1
+PER,Dutch Grand Prix,2022,MEDIUM,15.0,26.0,1
+ALO,Dutch Grand Prix,2022,MEDIUM,57.0,16.0,1
+ALO,Dutch Grand Prix,2022,SOFT,1.0,12.0,1
+ALO,Dutch Grand Prix,2022,HARD,13.0,35.0,1
+LEC,Dutch Grand Prix,2022,SOFT,48.0,25.0,1
+LEC,Dutch Grand Prix,2022,SOFT,1.0,20.0,1
+LEC,Dutch Grand Prix,2022,MEDIUM,18.0,28.0,1
+STR,Dutch Grand Prix,2022,SOFT,57.0,19.0,1
+STR,Dutch Grand Prix,2022,SOFT,1.0,16.0,1
+STR,Dutch Grand Prix,2022,MEDIUM,17.0,23.0,1
+STR,Dutch Grand Prix,2022,HARD,39.0,19.0,1
+MAG,Dutch Grand Prix,2022,SOFT,57.0,19.0,1
+MAG,Dutch Grand Prix,2022,MEDIUM,1.0,14.0,1
+MAG,Dutch Grand Prix,2022,MEDIUM,15.0,20.0,1
+TSU,Dutch Grand Prix,2022,SOFT,48.0,28.0,1
+TSU,Dutch Grand Prix,2022,SOFT,1.0,16.0,1
+TSU,Dutch Grand Prix,2022,MEDIUM,14.0,30.0,1
+ALB,Dutch Grand Prix,2022,MEDIUM,1.0,21.0,1
+ALB,Dutch Grand Prix,2022,MEDIUM,22.0,21.0,1
+ZHO,Dutch Grand Prix,2022,SOFT,56.0,17.0,1
+ZHO,Dutch Grand Prix,2022,SOFT,1.0,12.0,1v
+ZHO,Dutch Grand Prix,2022,SOFT,13.0,28.0,1
+ZHO,Dutch Grand Prix,2022,MEDIUM,38.0,18.0,1
+RIC,Dutch Grand Prix,2022,SOFT,56.0,20.0,1
+RIC,Dutch Grand Prix,2022,SOFT,1.0,11.0,1
+RIC,Dutch Grand Prix,2022,MEDIUM,12.0,16.0,1
+RIC,Dutch Grand Prix,2022,HARD,28.0,20.0,1
+RIC,Dutch Grand Prix,2022,SOFT,48.0,8.0,1
+OCO,Dutch Grand Prix,2022,SOFT,56.0,17.0,1
+OCO,Dutch Grand Prix,2022,SOFT,1.0,18.0,1
+OCO,Dutch Grand Prix,2022,HARD,19.0,38.0,1
+NOR,Dutch Grand Prix,2022,SOFT,57.0,19.0,1
+NOR,Dutch Grand Prix,2022,MEDIUM,1.0,17.0,1
+NOR,Dutch Grand Prix,2022,HARD,18.0,30.0,1
+NOR,Dutch Grand Prix,2022,SOFT,48.0,13.0,1
+HAM,Dutch Grand Prix,2022,SOFT,58.0,18.0,1
+HAM,Dutch Grand Prix,2022,MEDIUM,1.0,29.0,1
+HAM,Dutch Grand Prix,2022,HARD,30.0,19.0,1
+MSC,Dutch Grand Prix,2022,MEDIUM,49.0,24.0,1
+MSC,Dutch Grand Prix,2022,MEDIUM,1.0,13.0,1
+MSC,Dutch Grand Prix,2022,MEDIUM,14.0,20.0,1
+VET,Dutch Grand Prix,2022,SOFT,48.0,27.0,1
+VET,Dutch Grand Prix,2022,SOFT,1.0,9.0,1
+VET,Dutch Grand Prix,2022,MEDIUM,10.0,27.0,1
+SAI,Dutch Grand Prix,2022,SOFT,49.0,24.0,1
+SAI,Dutch Grand Prix,2022,SOFT,1.0,17.0,1
+SAI,Dutch Grand Prix,2022,MEDIUM,15.0,29.0,1
+LAT,Dutch Grand Prix,2022,SOFT,58.0,18.0,1
+LAT,Dutch Grand Prix,2022,SOFT,1.0,13.0,1
+LAT,Dutch Grand Prix,2022,MEDIUM,14.0,13.0,1
+LAT,Dutch Grand Prix,2022,HARD,27.0,28.0,1
+RUS,Dutch Grand Prix,2022,SOFT,55.0,17.0,1
+RUS,Dutch Grand Prix,2022,MEDIUM,1.0,31.0,1
+BOT,Dutch Grand Prix,2022,SOFT,58.0,17.0,1
+BOT,Dutch Grand Prix,2022,SOFT,1.0,16.0,1
+BOT,Dutch Grand Prix,2022,SOFT,17.0,18.0,1
+VER,Italian Grand Prix,2022,SOFT,1.0,25.0,1
+VER,Italian Grand Prix,2022,MEDIUM,26.0,23.0,1
+GAS,Italian Grand Prix,2022,MEDIUM,1.0,18.0,1
+PER,Italian Grand Prix,2022,HARD,19.0,36.0,1
+PER,Italian Grand Prix,2022,HARD,8.0,35.0,1
+ALO,Italian Grand Prix,2022,SOFT,43.0,11.0,1
+LEC,Italian Grand Prix,2022,MEDIUM,1.0,31.0,1
+LEC,Italian Grand Prix,2022,SOFT,1.0,12.0,1
+LEC,Italian Grand Prix,2022,MEDIUM,13.0,21.0,1
+LEC,Italian Grand Prix,2022,SOFT,34.0,15.0,1
+STR,Italian Grand Prix,2022,SOFT,49.0,8.0,1
+STR,Italian Grand Prix,2022,MEDIUM,1.0,19.0,1
+MAG,Italian Grand Prix,2022,HARD,19.0,22.0,1
+MAG,Italian Grand Prix,2022,MEDIUM,1.0,24.0,1
+MAG,Italian Grand Prix,2022,HARD,25.0,22.0,1
+TSU,Italian Grand Prix,2022,MEDIUM,1.0,19.0,1
+TSU,Italian Grand Prix,2022,HARD,20.0,29.0,1
+ZHO,Italian Grand Prix,2022,MEDIUM,1.0,18.0,1
+RIC,Italian Grand Prix,2022,HARD,19.0,35.0,1
+RIC,Italian Grand Prix,2022,MEDIUM,1.0,19.0,1
+OCO,Italian Grand Prix,2022,HARD,20.0,27.0,1
+OCO,Italian Grand Prix,2022,SOFT,1.0,19.0,1
+NOR,Italian Grand Prix,2022,HARD,20.0,34.0,1
+NOR,Italian Grand Prix,2022,MEDIUM,1.0,35.0,1
+NOR,Italian Grand Prix,2022,SOFT,36.0,14.0,1
+HAM,Italian Grand Prix,2022,SOFT,48.0,9.0,1
+HAM,Italian Grand Prix,2022,MEDIUM,1.0,33.0,1
+DEV,Italian Grand Prix,2022,SOFT,34.0,20.0,1
+DEV,Italian Grand Prix,2022,SOFT,1.0,19.0,1
+MSC,Italian Grand Prix,2022,MEDIUM,20.0,34.0,1
+MSC,Italian Grand Prix,2022,MEDIUM,1.0,33.0,1
+VET,Italian Grand Prix,2022,SOFT,34.0,20.0,1
+SAI,Italian Grand Prix,2022,MEDIUM,1.0,12.0,1
+SAI,Italian Grand Prix,2022,MEDIUM,1.0,30.0,1
+SAI,Italian Grand Prix,2022,SOFT,31.0,17.0,1
+LAT,Italian Grand Prix,2022,MEDIUM,1.0,15.0,1
+LAT,Italian Grand Prix,2022,HARD,16.0,32.0,1
+RUS,Italian Grand Prix,2022,SOFT,1.0,23.0,1
+RUS,Italian Grand Prix,2022,HARD,24.0,24.0,1
+BOT,Italian Grand Prix,2022,SOFT,48.0,9.0,1
+BOT,Italian Grand Prix,2022,MEDIUM,1.0,35.0,1
+GAS,Singapore Grand Prix,2022,SOFT,41.0,19.0,1
+PER,Singapore Grand Prix,2022,MEDIUM,34.0,26.0,1
+ALO,Singapore Grand Prix,2022,MEDIUM,36.0,24.0,1
+STR,Singapore Grand Prix,2022,MEDIUM,35.0,25.0,1
+MAG,Singapore Grand Prix,2022,MEDIUM,36.0,24.0,1
+TSU,Singapore Grand Prix,2022,MEDIUM,34.0,26.0,1
+OCO,Singapore Grand Prix,2022,SOFT,37.0,23.0,1
+HAM,Singapore Grand Prix,2022,MEDIUM,37.0,23.0,1
+MSC,Singapore Grand Prix,2022,MEDIUM,35.0,25.0,1
+VET,Singapore Grand Prix,2022,SOFT,42.0,17.0,1
+SAI,Singapore Grand Prix,2022,MEDIUM,35.0,25.0,1
+LAT,Singapore Grand Prix,2022,MEDIUM,36.0,24.0,1
+RUS,Singapore Grand Prix,2022,MEDIUM,22.0,14.0,1
+RUS,Singapore Grand Prix,2022,SOFT,42.0,10.0,1
+VER,United States Grand Prix,2022,MEDIUM,1.0,13.0,1
+VER,United States Grand Prix,2022,HARD,14.0,22.0,1
+GAS,United States Grand Prix,2022,MEDIUM,36.0,21.0,1
+GAS,United States Grand Prix,2022,HARD,12.0,22.0,1
+PER,United States Grand Prix,2022,HARD,33.0,25.0,1
+PER,United States Grand Prix,2022,MEDIUM,1.0,14.0,1
+PER,United States Grand Prix,2022,HARD,15.0,24.0,1
+ALO,United States Grand Prix,2022,MEDIUM,39.0,18.0,1
+LEC,United States Grand Prix,2022,HARD,23.0,34.0,1
+LEC,United States Grand Prix,2022,MEDIUM,1.0,18.0,1
+STR,United States Grand Prix,2022,MEDIUM,36.0,21.0,1
+STR,United States Grand Prix,2022,MEDIUM,1.0,16.0,1
+TSU,United States Grand Prix,2022,MEDIUM,19.0,38.0,1
+TSU,United States Grand Prix,2022,MEDIUM,11.0,23.0,1
+ALB,United States Grand Prix,2022,HARD,34.0,23.0,1
+ZHO,United States Grand Prix,2022,HARD,19.0,38.0,1
+RIC,United States Grand Prix,2022,HARD,24.0,33.0,1
+RIC,United States Grand Prix,2022,HARD,11.0,25.0,1
+OCO,United States Grand Prix,2022,HARD,36.0,21.0,1
+OCO,United States Grand Prix,2022,HARD,19.0,27.0,1
+NOR,United States Grand Prix,2022,MEDIUM,1.0,14.0,1
+NOR,United States Grand Prix,2022,HARD,15.0,20.0,1
+HAM,United States Grand Prix,2022,HARD,35.0,22.0,1
+HAM,United States Grand Prix,2022,MEDIUM,1.0,12.0,1
+HAM,United States Grand Prix,2022,HARD,13.0,22.0,1
+MSC,United States Grand Prix,2022,HARD,35.0,22.0,1
+MSC,United States Grand Prix,2022,MEDIUM,19.0,15.0,1
+VET,United States Grand Prix,2022,HARD,34.0,23.0,1
+VET,United States Grand Prix,2022,MEDIUM,1.0,19.0,1
+VET,United States Grand Prix,2022,MEDIUM,19.0,24.0,1
+LAT,United States Grand Prix,2022,MEDIUM,6.0,13.0,1
+RUS,United States Grand Prix,2022,HARD,19.0,38.0,1
+RUS,United States Grand Prix,2022,MEDIUM,1.0,13.0,1
+RUS,United States Grand Prix,2022,HARD,14.0,23.0,1
+VER,Mexico City Grand Prix,2022,SOFT,1.0,28.0,1
+GAS,Mexico City Grand Prix,2022,MEDIUM,1.0,40.0,1
+PER,Mexico City Grand Prix,2022,SOFT,41.0,30.0,1
+PER,Mexico City Grand Prix,2022,SOFT,1.0,26.0,1
+ALO,Mexico City Grand Prix,2022,MEDIUM,1.0,40.0,1
+LEC,Mexico City Grand Prix,2022,HARD,41.0,24.0,1
+LEC,Mexico City Grand Prix,2022,SOFT,1.0,30.0,1
+STR,Mexico City Grand Prix,2022,MEDIUM,29.0,43.0,1
+STR,Mexico City Grand Prix,2022,MEDIUM,1.0,18.0,1
+STR,Mexico City Grand Prix,2022,SOFT,18.0,23.0,1
+MAG,Mexico City Grand Prix,2022,SOFT,41.0,30.0,1
+MAG,Mexico City Grand Prix,2022,MEDIUM,1.0,38.0,1
+TSU,Mexico City Grand Prix,2022,SOFT,39.0,35.0,1
+TSU,Mexico City Grand Prix,2022,SOFT,1.0,29.0,1
+ALB,Mexico City Grand Prix,2022,MEDIUM,30.0,21.0,1
+ALB,Mexico City Grand Prix,2022,MEDIUM,1.0,38.0,1
+ZHO,Mexico City Grand Prix,2022,SOFT,39.0,32.0,1
+RIC,Mexico City Grand Prix,2022,SOFT,46.0,25.0,1
+RIC,Mexico City Grand Prix,2022,MEDIUM,1.0,44.0,1
+OCO,Mexico City Grand Prix,2022,SOFT,45.0,26.0,1
+OCO,Mexico City Grand Prix,2022,MEDIUM,1.0,33.0,1
+NOR,Mexico City Grand Prix,2022,HARD,34.0,37.0,1
+NOR,Mexico City Grand Prix,2022,MEDIUM,1.0,31.0,1
+HAM,Mexico City Grand Prix,2022,HARD,32.0,39.0,1
+HAM,Mexico City Grand Prix,2022,MEDIUM,1.0,29.0,1
+MSC,Mexico City Grand Prix,2022,HARD,30.0,42.0,1
+MSC,Mexico City Grand Prix,2022,SOFT,1.0,29.0,1
+VET,Mexico City Grand Prix,2022,SOFT,1.0,38.0,1
+SAI,Mexico City Grand Prix,2022,MEDIUM,39.0,33.0,1
+SAI,Mexico City Grand Prix,2022,SOFT,1.0,32.0,1
+LAT,Mexico City Grand Prix,2022,MEDIUM,30.0,42.0,1
+LAT,Mexico City Grand Prix,2022,SOFT,1.0,23.0,1
+LAT,Mexico City Grand Prix,2022,HARD,24.0,29.0,1
+RUS,Mexico City Grand Prix,2022,SOFT,53.0,17.0,1
+RUS,Mexico City Grand Prix,2022,MEDIUM,1.0,34.0,1
+RUS,Mexico City Grand Prix,2022,HARD,35.0,35.0,1
+BOT,Mexico City Grand Prix,2022,MEDIUM,1.0,39.0,1
+VER,São Paulo Grand Prix,2022,MEDIUM,8.0,16.0,1
+VER,São Paulo Grand Prix,2022,SOFT,24.0,32.0,1
+GAS,São Paulo Grand Prix,2022,SOFT,49.0,23.0,1
+GAS,São Paulo Grand Prix,2022,SOFT,1.0,19.0,1
+GAS,São Paulo Grand Prix,2022,MEDIUM,20.0,16.0,1
+GAS,São Paulo Grand Prix,2022,SOFT,36.0,22.0,1
+PER,São Paulo Grand Prix,2022,MEDIUM,53.0,19.0,1
+PER,São Paulo Grand Prix,2022,SOFT,1.0,23.0,1
+PER,São Paulo Grand Prix,2022,MEDIUM,24.0,24.0,1
+ALO,São Paulo Grand Prix,2022,MEDIUM,48.0,24.0,1
+ALO,São Paulo Grand Prix,2022,MEDIUM,1.0,14.0,1
+ALO,São Paulo Grand Prix,2022,MEDIUM,15.0,21.0,1
+ALO,São Paulo Grand Prix,2022,MEDIUM,36.0,17.0,1
+LEC,São Paulo Grand Prix,2022,SOFT,53.0,19.0,1
+LEC,São Paulo Grand Prix,2022,MEDIUM,8.0,14.0,1
+LEC,São Paulo Grand Prix,2022,SOFT,22.0,23.0,1
+STR,São Paulo Grand Prix,2022,SOFT,45.0,28.0,1
+STR,São Paulo Grand Prix,2022,MEDIUM,1.0,30.0,1
+STR,São Paulo Grand Prix,2022,MEDIUM,30.0,20.0,1
+MAG,São Paulo Grand Prix,2022,SOFT,49.0,23.0,1
+TSU,São Paulo Grand Prix,2022,MEDIUM,1.0,20.0,1
+TSU,São Paulo Grand Prix,2022,SOFT,21.0,20.0,1
+TSU,São Paulo Grand Prix,2022,SOFT,41.0,14.0,1
+ALB,São Paulo Grand Prix,2022,MEDIUM,55.0,16.0,1
+ALB,São Paulo Grand Prix,2022,MEDIUM,5.0,21.0,1
+ALB,São Paulo Grand Prix,2022,MEDIUM,26.0,22.0,1
+ZHO,São Paulo Grand Prix,2022,MEDIUM,48.0,24.0,1
+ZHO,São Paulo Grand Prix,2022,SOFT,1.0,16.0,1
+ZHO,São Paulo Grand Prix,2022,MEDIUM,17.0,21.0,1
+RIC,São Paulo Grand Prix,2022,SOFT,38.0,34.0,1
+OCO,São Paulo Grand Prix,2022,SOFT,1.0,24.0,1
+OCO,São Paulo Grand Prix,2022,MEDIUM,25.0,23.0,1
+NOR,São Paulo Grand Prix,2022,SOFT,48.0,27.0,1
+NOR,São Paulo Grand Prix,2022,SOFT,1.0,24.0,1
+NOR,São Paulo Grand Prix,2022,MEDIUM,25.0,21.0,1
+HAM,São Paulo Grand Prix,2022,SOFT,46.0,12.0,1
+HAM,São Paulo Grand Prix,2022,SOFT,1.0,29.0,1
+HAM,São Paulo Grand Prix,2022,MEDIUM,30.0,19.0,1
+MSC,São Paulo Grand Prix,2022,SOFT,49.0,29.0,1
+MSC,São Paulo Grand Prix,2022,MEDIUM,1.0,24.0,1
+MSC,São Paulo Grand Prix,2022,SOFT,25.0,22.0,1
+VET,São Paulo Grand Prix,2022,SOFT,47.0,29.0,1
+VET,São Paulo Grand Prix,2022,SOFT,1.0,26.0,1
+VET,São Paulo Grand Prix,2022,MEDIUM,27.0,20.0,1
+SAI,São Paulo Grand Prix,2022,MEDIUM,46.0,27.0,1
+SAI,São Paulo Grand Prix,2022,MEDIUM,1.0,17.0,1
+SAI,São Paulo Grand Prix,2022,SOFT,18.0,19.0,1
+SAI,São Paulo Grand Prix,2022,MEDIUM,37.0,17.0,1
+LAT,São Paulo Grand Prix,2022,SOFT,54.0,24.0,1
+LAT,São Paulo Grand Prix,2022,MEDIUM,1.0,20.0,1
+LAT,São Paulo Grand Prix,2022,MEDIUM,33.0,20.0,1
+RUS,São Paulo Grand Prix,2022,SOFT,53.0,19.0,1
+RUS,São Paulo Grand Prix,2022,SOFT,1.0,24.0,1
+RUS,São Paulo Grand Prix,2022,MEDIUM,25.0,25.0,1
+BOT,São Paulo Grand Prix,2022,SOFT,50.0,31.0,1
+BOT,São Paulo Grand Prix,2022,SOFT,1.0,24.0,1
+BOT,São Paulo Grand Prix,2022,MEDIUM,25.0,21.0,1
+VER,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,20.0,1
+LEC,Abu Dhabi Grand Prix,2022,HARD,21.0,38.0,1
+LEC,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,21.0,1
+PER,Abu Dhabi Grand Prix,2022,HARD,22.0,37.0,1
+PER,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,15.0,1
+SAI,Abu Dhabi Grand Prix,2022,HARD,34.0,25.0,1
+SAI,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,17.0,1
+SAI,Abu Dhabi Grand Prix,2022,HARD,18.0,22.0,1
+RUS,Abu Dhabi Grand Prix,2022,HARD,40.0,19.0,1
+RUS,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,15.0,1
+RUS,Abu Dhabi Grand Prix,2022,HARD,16.0,24.0,1
+NOR,Abu Dhabi Grand Prix,2022,MEDIUM,40.0,19.0,1
+NOR,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,15.0,1
+NOR,Abu Dhabi Grand Prix,2022,HARD,16.0,27.0,1
+OCO,Abu Dhabi Grand Prix,2022,MEDIUM,43.0,16.0,1
+OCO,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,14.0,1
+OCO,Abu Dhabi Grand Prix,2022,HARD,15.0,27.0,1
+STR,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,13.0,1
+STR,Abu Dhabi Grand Prix,2022,HARD,14.0,28.0,1
+RIC,Abu Dhabi Grand Prix,2022,MEDIUM,41.0,19.0,1
+RIC,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,19.0,1
+VET,Abu Dhabi Grand Prix,2022,HARD,20.0,39.0,1
+VET,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,25.0,1
+TSU,Abu Dhabi Grand Prix,2022,HARD,26.0,34.0,1
+TSU,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,14.0,1
+TSU,Abu Dhabi Grand Prix,2022,HARD,15.0,24.0,1
+ZHO,Abu Dhabi Grand Prix,2022,SOFT,39.0,20.0,1
+ZHO,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,15.0,1
+ZHO,Abu Dhabi Grand Prix,2022,HARD,16.0,29.0,1
+ALB,Abu Dhabi Grand Prix,2022,SOFT,45.0,13.0,1
+ALB,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,12.0,1
+ALB,Abu Dhabi Grand Prix,2022,HARD,13.0,23.0,1
+GAS,Abu Dhabi Grand Prix,2022,MEDIUM,36.0,22.0,1
+GAS,Abu Dhabi Grand Prix,2022,SOFT,1.0,14.0,1
+BOT,Abu Dhabi Grand Prix,2022,HARD,15.0,43.0,1
+BOT,Abu Dhabi Grand Prix,2022,HARD,1.0,30.0,1
+MSC,Abu Dhabi Grand Prix,2022,MEDIUM,31.0,27.0,1
+MSC,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,14.0,1
+MSC,Abu Dhabi Grand Prix,2022,HARD,15.0,20.0,1
+MAG,Abu Dhabi Grand Prix,2022,MEDIUM,35.0,23.0,1
+MAG,Abu Dhabi Grand Prix,2022,HARD,1.0,28.0,1
+HAM,Abu Dhabi Grand Prix,2022,MEDIUM,29.0,29.0,1
+HAM,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,18.0,1
+LAT,Abu Dhabi Grand Prix,2022,HARD,19.0,37.0,1
+LAT,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,15.0,1
+LAT,Abu Dhabi Grand Prix,2022,HARD,16.0,23.0,1
+ALO,Abu Dhabi Grand Prix,2022,MEDIUM,39.0,17.0,1
+ALO,Abu Dhabi Grand Prix,2022,MEDIUM,1.0,19.0,1
+VER,Bahrain Grand Prix,2023,SOFT,1.0,17.0,1
+VER,Bahrain Grand Prix,2023,SOFT,15.0,22.0,1
+GAS,Bahrain Grand Prix,2023,HARD,37.0,21.0,1
+GAS,Bahrain Grand Prix,2023,SOFT,1.0,9.0,1
+PER,Bahrain Grand Prix,2023,SOFT,41.0,17.0,1
+PER,Bahrain Grand Prix,2023,SOFT,1.0,20.0,1
+PER,Bahrain Grand Prix,2023,SOFT,18.0,19.0,1
+ALO,Bahrain Grand Prix,2023,HARD,35.0,23.0,1
+ALO,Bahrain Grand Prix,2023,SOFT,1.0,17.0,1
+ALO,Bahrain Grand Prix,2023,HARD,15.0,20.0,1
+LEC,Bahrain Grand Prix,2023,HARD,35.0,23.0,1
+LEC,Bahrain Grand Prix,2023,SOFT,1.0,13.0,1
+LEC,Bahrain Grand Prix,2023,HARD,14.0,20.0,1
+STR,Bahrain Grand Prix,2023,SOFT,1.0,18.0,1
+SAR,Bahrain Grand Prix,2023,HARD,31.0,27.0,1
+SAR,Bahrain Grand Prix,2023,SOFT,1.0,12.0,1
+SAR,Bahrain Grand Prix,2023,SOFT,13.0,18.0,1
+MAG,Bahrain Grand Prix,2023,SOFT,41.0,16.0,1
+MAG,Bahrain Grand Prix,2023,SOFT,30.0,11.0,1
+DEV,Bahrain Grand Prix,2023,SOFT,41.0,16.0,1
+DEV,Bahrain Grand Prix,2023,SOFT,1.0,11.0,1
+TSU,Bahrain Grand Prix,2023,HARD,28.0,29.0,1
+TSU,Bahrain Grand Prix,2023,SOFT,1.0,10.0,1
+ALB,Bahrain Grand Prix,2023,SOFT,41.0,20.0,1
+ALB,Bahrain Grand Prix,2023,SOFT,1.0,11.0,1
+ALB,Bahrain Grand Prix,2023,SOFT,12.0,15.0,1
+ZHO,Bahrain Grand Prix,2023,SOFT,41.0,17.0,1
+ZHO,Bahrain Grand Prix,2023,SOFT,1.0,12.0,1
+ZHO,Bahrain Grand Prix,2023,HARD,13.0,20.0,1
+ZHO,Bahrain Grand Prix,2023,SOFT,33.0,25.0,1
+HUL,Bahrain Grand Prix,2023,SOFT,1.0,14.0,1
+OCO,Bahrain Grand Prix,2023,SOFT,41.0,19.0,1
+OCO,Bahrain Grand Prix,2023,SOFT,1.0,15.0,1
+OCO,Bahrain Grand Prix,2023,HARD,13.0,20.0,1
+NOR,Bahrain Grand Prix,2023,SOFT,1.0,10.0,1
+NOR,Bahrain Grand Prix,2023,SOFT,18.0,13.0,1
+NOR,Bahrain Grand Prix,2023,SOFT,48.0,11.0,1
+HAM,Bahrain Grand Prix,2023,SOFT,1.0,15.0,1
+SAI,Bahrain Grand Prix,2023,HARD,31.0,27.0,1
+SAI,Bahrain Grand Prix,2023,SOFT,1.0,16.0,1
+RUS,Bahrain Grand Prix,2023,HARD,32.0,26.0,1
+RUS,Bahrain Grand Prix,2023,SOFT,1.0,16.0,1
+BOT,Bahrain Grand Prix,2023,HARD,32.0,26.0,1
+BOT,Bahrain Grand Prix,2023,SOFT,1.0,11.0,1
+PIA,Bahrain Grand Prix,2023,HARD,30.0,28.0,1
+VER,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,18.0,1
+GAS,Saudi Arabian Grand Prix,2023,HARD,19.0,32.0,1
+GAS,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,14.0,1
+PER,Saudi Arabian Grand Prix,2023,HARD,15.0,36.0,1
+PER,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,18.0,1
+ALO,Saudi Arabian Grand Prix,2023,HARD,19.0,32.0,1
+ALO,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,18.0,1
+LEC,Saudi Arabian Grand Prix,2023,HARD,19.0,33.0,1
+LEC,Saudi Arabian Grand Prix,2023,SOFT,1.0,16.0,1
+STR,Saudi Arabian Grand Prix,2023,HARD,17.0,34.0,1
+STR,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,13.0,1
+MAG,Saudi Arabian Grand Prix,2023,MEDIUM,19.0,32.0,1
+DEV,Saudi Arabian Grand Prix,2023,HARD,9.0,42.0,1
+DEV,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,17.0,1
+TSU,Saudi Arabian Grand Prix,2023,HARD,18.0,33.0,1
+TSU,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,17.0,1
+ALB,Saudi Arabian Grand Prix,2023,HARD,18.0,33.0,1
+ALB,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,17.0,1
+HUL,Saudi Arabian Grand Prix,2023,MEDIUM,19.0,32.0,1
+OCO,Saudi Arabian Grand Prix,2023,HARD,12.0,39.0,1
+OCO,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,16.0,1
+NOR,Saudi Arabian Grand Prix,2023,HARD,17.0,34.0,1
+HAM,Saudi Arabian Grand Prix,2023,MEDIUM,20.0,31.0,1
+SAI,Saudi Arabian Grand Prix,2023,MEDIUM,19.0,32.0,1
+SAI,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,15.0,1
+RUS,Saudi Arabian Grand Prix,2023,HARD,16.0,35.0,1
+RUS,Saudi Arabian Grand Prix,2023,MEDIUM,1.0,18.0,1
+BOT,Saudi Arabian Grand Prix,2023,HARD,19.0,32.0,1
+BOT,Saudi Arabian Grand Prix,2023,MEDIUM,18.0,18.0,1
+PIA,Saudi Arabian Grand Prix,2023,SOFT,36.0,14.0,1
+VER,Australian Grand Prix,2023,HARD,9.0,47.0,1
+GAS,Australian Grand Prix,2023,SOFT,1.0,8.0,1
+GAS,Australian Grand Prix,2023,HARD,9.0,47.0,1
+PER,Australian Grand Prix,2023,HARD,9.0,48.0,1
+ALO,Australian Grand Prix,2023,HARD,9.0,47.0,1
+STR,Australian Grand Prix,2023,HARD,9.0,47.0,1
+SAR,Australian Grand Prix,2023,MEDIUM,9.0,28.0,1
+SAR,Australian Grand Prix,2023,HARD,37.0,25.0,1
+DEV,Australian Grand Prix,2023,HARD,8.0,46.0,1
+DEV,Australian Grand Prix,2023,MEDIUM,9.0,37.0,1
+DEV,Australian Grand Prix,2023,SOFT,46.0,9.0,1
+TSU,Australian Grand Prix,2023,HARD,9.0,46.0,1
+ALB,Australian Grand Prix,2023,SOFT,58.0,9.0,1
+ZHO,Australian Grand Prix,2023,HARD,2.0,53.0,1
+HUL,Australian Grand Prix,2023,HARD,9.0,47.0,1
+OCO,Australian Grand Prix,2023,HARD,2.0,54.0,1
+NOR,Australian Grand Prix,2023,HARD,9.0,47.0,1
+HAM,Australian Grand Prix,2023,HARD,9.0,47.0,1
+SAI,Australian Grand Prix,2023,HARD,8.0,48.0,1
+BOT,Australian Grand Prix,2023,HARD,2.0,52.0,1
+PIA,Australian Grand Prix,2023,HARD,9.0,46.0,1
+GAS,Azerbaijan Grand Prix,2023,HARD,11.0,41.0,1
+PER,Azerbaijan Grand Prix,2023,HARD,24.0,28.0,1
+ALO,Azerbaijan Grand Prix,2023,HARD,12.0,40.0,1
+LEC,Azerbaijan Grand Prix,2023,HARD,12.0,40.0,1
+STR,Azerbaijan Grand Prix,2023,HARD,12.0,40.0,1
+SAR,Azerbaijan Grand Prix,2023,HARD,12.0,43.0,1
+MAG,Azerbaijan Grand Prix,2023,HARD,9.0,43.0,1
+DEV,Azerbaijan Grand Prix,2023,HARD,11.0,41.0,1
+ALB,Azerbaijan Grand Prix,2023,HARD,9.0,43.0,1
+ZHO,Azerbaijan Grand Prix,2023,HARD,8.0,44.0,1
+HUL,Azerbaijan Grand Prix,2023,HARD,12.0,25.0,1
+HUL,Azerbaijan Grand Prix,2023,HARD,1.0,49.0,1
+OCO,Azerbaijan Grand Prix,2023,HARD,1.0,50.0,1
+HAM,Azerbaijan Grand Prix,2023,HARD,10.0,42.0,1
+SAI,Azerbaijan Grand Prix,2023,HARD,10.0,42.0,1
+RUS,Azerbaijan Grand Prix,2023,HARD,12.0,40.0,1
+RUS,Azerbaijan Grand Prix,2023,HARD,12.0,38.0,1
+BOT,Azerbaijan Grand Prix,2023,HARD,13.0,22.0,1
+PIA,Azerbaijan Grand Prix,2023,MEDIUM,35.0,16.0,1
+VER,Miami Grand Prix,2023,HARD,1.0,45.0,1
+PER,Miami Grand Prix,2023,MEDIUM,46.0,12.0,1
+PER,Miami Grand Prix,2023,MEDIUM,1.0,20.0,1
+ALO,Miami Grand Prix,2023,HARD,21.0,37.0,1
+ALO,Miami Grand Prix,2023,MEDIUM,1.0,25.0,1
+RUS,Miami Grand Prix,2023,HARD,25.0,34.0,1
+RUS,Miami Grand Prix,2023,MEDIUM,1.0,17.0,1
+SAI,Miami Grand Prix,2023,HARD,18.0,40.0,1
+SAI,Miami Grand Prix,2023,MEDIUM,1.0,18.0,1
+HAM,Miami Grand Prix,2023,HARD,19.0,39.0,1
+HAM,Miami Grand Prix,2023,HARD,1.0,37.0,1
+LEC,Miami Grand Prix,2023,MEDIUM,38.0,20.0,1
+LEC,Miami Grand Prix,2023,MEDIUM,1.0,17.0,1
+GAS,Miami Grand Prix,2023,HARD,18.0,40.0,1
+GAS,Miami Grand Prix,2023,MEDIUM,1.0,15.0,1
+OCO,Miami Grand Prix,2023,HARD,16.0,42.0,1
+OCO,Miami Grand Prix,2023,HARD,1.0,39.0,1
+MAG,Miami Grand Prix,2023,MEDIUM,40.0,18.0,1
+MAG,Miami Grand Prix,2023,MEDIUM,1.0,14.0,1
+TSU,Miami Grand Prix,2023,HARD,15.0,43.0,1
+TSU,Miami Grand Prix,2023,HARD,1.0,36.0,1
+STR,Miami Grand Prix,2023,MEDIUM,37.0,21.0,1
+STR,Miami Grand Prix,2023,HARD,1.0,43.0,1
+BOT,Miami Grand Prix,2023,MEDIUM,43.0,16.0,1
+BOT,Miami Grand Prix,2023,MEDIUM,1.0,15.0,1
+ALB,Miami Grand Prix,2023,HARD,16.0,42.0,1
+ALB,Miami Grand Prix,2023,MEDIUM,1.0,22.0,1
+HUL,Miami Grand Prix,2023,HARD,23.0,35.0,1
+HUL,Miami Grand Prix,2023,HARD,1.0,33.0,1
+ZHO,Miami Grand Prix,2023,MEDIUM,34.0,24.0,1
+ZHO,Miami Grand Prix,2023,HARD,1.0,31.0,1
+NOR,Miami Grand Prix,2023,MEDIUM,32.0,26.0,1
+DEV,Miami Grand Prix,2023,HARD,5.0,53.0,1
+DEV,Miami Grand Prix,2023,MEDIUM,1.0,15.0,1
+PIA,Miami Grand Prix,2023,HARD,16.0,42.0,1
+SAR,Miami Grand Prix,2023,HARD,6.0,51.0,1
+GAS,Monaco Grand Prix,2023,HARD,1.0,47.0,1
+PER,Monaco Grand Prix,2023,HARD,2.0,33.0,1
+PER,Monaco Grand Prix,2023,MEDIUM,35.0,20.0,1
+ALO,Monaco Grand Prix,2023,HARD,1.0,55.0,1
+LEC,Monaco Grand Prix,2023,HARD,1.0,44.0,1
+STR,Monaco Grand Prix,2023,HARD,1.0,52.0,1
+SAR,Monaco Grand Prix,2023,MEDIUM,1.0,20.0,1
+SAR,Monaco Grand Prix,2023,SOFT,24.0,29.0,1
+MAG,Monaco Grand Prix,2023,HARD,1.0,56.0,1
+ALB,Monaco Grand Prix,2023,MEDIUM,1.0,18.0,1
+ALB,Monaco Grand Prix,2023,HARD,19.0,34.0,1
+ZHO,Monaco Grand Prix,2023,HARD,2.0,51.0,1
+HUL,Monaco Grand Prix,2023,HARD,2.0,53.0,1
+OCO,Monaco Grand Prix,2023,MEDIUM,1.0,32.0,1
+OCO,Monaco Grand Prix,2023,HARD,33.0,22.0,1
+HAM,Monaco Grand Prix,2023,MEDIUM,1.0,31.0,1
+HAM,Monaco Grand Prix,2023,HARD,32.0,23.0,1
+SAI,Monaco Grand Prix,2023,HARD,1.0,33.0,1
+SAI,Monaco Grand Prix,2023,MEDIUM,34.0,22.0,1
+RUS,Monaco Grand Prix,2023,HARD,1.0,54.0,1
+BOT,Monaco Grand Prix,2023,HARD,1.0,51.0,1
+PIA,Monaco Grand Prix,2023,HARD,1.0,54.0,1
+VER,Spanish Grand Prix,2023,MEDIUM,1.0,26.0,1
+VER,Spanish Grand Prix,2023,HARD,27.0,26.0,1
+HAM,Spanish Grand Prix,2023,SOFT,53.0,16.0,1
+HAM,Spanish Grand Prix,2023,SOFT,1.0,27.0,1
+HAM,Spanish Grand Prix,2023,MEDIUM,25.0,26.0,1
+RUS,Spanish Grand Prix,2023,SOFT,51.0,19.0,1
+RUS,Spanish Grand Prix,2023,SOFT,1.0,25.0,1
+RUS,Spanish Grand Prix,2023,MEDIUM,26.0,20.0,1
+PER,Spanish Grand Prix,2023,SOFT,46.0,24.0,1
+PER,Spanish Grand Prix,2023,MEDIUM,1.0,27.0,1
+PER,Spanish Grand Prix,2023,HARD,28.0,23.0,1
+SAI,Spanish Grand Prix,2023,SOFT,51.0,16.0,1
+SAI,Spanish Grand Prix,2023,SOFT,1.0,18.0,1
+SAI,Spanish Grand Prix,2023,MEDIUM,16.0,26.0,1
+STR,Spanish Grand Prix,2023,HARD,42.0,25.0,1
+STR,Spanish Grand Prix,2023,SOFT,1.0,17.0,1
+STR,Spanish Grand Prix,2023,SOFT,15.0,23.0,1
+ALO,Spanish Grand Prix,2023,HARD,35.0,32.0,1
+ALO,Spanish Grand Prix,2023,SOFT,1.0,22.0,1
+ALO,Spanish Grand Prix,2023,SOFT,20.0,28.0,1
+OCO,Spanish Grand Prix,2023,HARD,45.0,22.0,1
+OCO,Spanish Grand Prix,2023,SOFT,1.0,16.0,1
+OCO,Spanish Grand Prix,2023,MEDIUM,14.0,22.0,1
+ZHO,Spanish Grand Prix,2023,HARD,36.0,31.0,1
+ZHO,Spanish Grand Prix,2023,SOFT,1.0,9.0,1
+ZHO,Spanish Grand Prix,2023,HARD,10.0,27.0,1
+GAS,Spanish Grand Prix,2023,HARD,37.0,30.0,1
+GAS,Spanish Grand Prix,2023,SOFT,1.0,22.0,1
+GAS,Spanish Grand Prix,2023,MEDIUM,20.0,20.0,1
+LEC,Spanish Grand Prix,2023,HARD,40.0,27.0,1
+TSU,Spanish Grand Prix,2023,HARD,17.0,50.0,1
+TSU,Spanish Grand Prix,2023,SOFT,1.0,10.0,1
+TSU,Spanish Grand Prix,2023,HARD,11.0,24.0,1
+PIA,Spanish Grand Prix,2023,MEDIUM,35.0,32.0,1
+PIA,Spanish Grand Prix,2023,SOFT,1.0,19.0,1
+PIA,Spanish Grand Prix,2023,HARD,18.0,22.0,1
+DEV,Spanish Grand Prix,2023,MEDIUM,40.0,26.0,1
+DEV,Spanish Grand Prix,2023,SOFT,1.0,9.0,1
+DEV,Spanish Grand Prix,2023,HARD,10.0,29.0,1
+HUL,Spanish Grand Prix,2023,MEDIUM,39.0,27.0,1
+HUL,Spanish Grand Prix,2023,SOFT,1.0,11.0,1
+HUL,Spanish Grand Prix,2023,MEDIUM,9.0,18.0,1
+ALB,Spanish Grand Prix,2023,MEDIUM,44.0,22.0,1
+ALB,Spanish Grand Prix,2023,SOFT,1.0,16.0,1
+ALB,Spanish Grand Prix,2023,HARD,17.0,21.0,1
+NOR,Spanish Grand Prix,2023,MEDIUM,38.0,28.0,1
+NOR,Spanish Grand Prix,2023,HARD,2.0,21.0,1
+NOR,Spanish Grand Prix,2023,MEDIUM,23.0,28.0,1
+MAG,Spanish Grand Prix,2023,SOFT,51.0,18.0,1
+MAG,Spanish Grand Prix,2023,SOFT,1.0,10.0,1
+MAG,Spanish Grand Prix,2023,MEDIUM,11.0,14.0,1
+BOT,Spanish Grand Prix,2023,MEDIUM,43.0,23.0,1
+BOT,Spanish Grand Prix,2023,HARD,6.0,34.0,1
+SAR,Spanish Grand Prix,2023,HARD,40.0,26.0,1
+SAR,Spanish Grand Prix,2023,MEDIUM,1.0,17.0,1
+SAR,Spanish Grand Prix,2023,HARD,18.0,19.0,1
+VER,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+VER,Canadian Grand Prix,2023,HARD,13.0,30.0,1
+GAS,Canadian Grand Prix,2023,MEDIUM,43.0,28.0,1
+GAS,Canadian Grand Prix,2023,SOFT,1.0,10.0,1
+GAS,Canadian Grand Prix,2023,HARD,11.0,23.0,1
+PER,Canadian Grand Prix,2023,HARD,34.0,37.0,1
+PER,Canadian Grand Prix,2023,HARD,1.0,37.0,1
+PER,Canadian Grand Prix,2023,MEDIUM,38.0,31.0,1
+ALO,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+ALO,Canadian Grand Prix,2023,HARD,13.0,29.0,1
+LEC,Canadian Grand Prix,2023,HARD,42.0,29.0,1
+LEC,Canadian Grand Prix,2023,MEDIUM,1.0,39.0,1
+STR,Canadian Grand Prix,2023,HARD,40.0,31.0,1
+SAR,Canadian Grand Prix,2023,HARD,28.0,43.0,1
+MAG,Canadian Grand Prix,2023,HARD,1.0,35.0,1
+MAG,Canadian Grand Prix,2023,MEDIUM,36.0,18.0,1
+DEV,Canadian Grand Prix,2023,MEDIUM,54.0,16.0,1
+DEV,Canadian Grand Prix,2023,HARD,12.0,39.0,1
+TSU,Canadian Grand Prix,2023,HARD,51.0,19.0,1
+ALB,Canadian Grand Prix,2023,MEDIUM,1.0,13.0,1
+ZHO,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+ZHO,Canadian Grand Prix,2023,HARD,13.0,20.0,1
+HUL,Canadian Grand Prix,2023,HARD,33.0,37.0,1
+HUL,Canadian Grand Prix,2023,HARD,12.0,20.0,1
+OCO,Canadian Grand Prix,2023,HARD,32.0,38.0,1
+OCO,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+OCO,Canadian Grand Prix,2023,HARD,13.0,24.0,1
+NOR,Canadian Grand Prix,2023,HARD,37.0,34.0,1
+NOR,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+NOR,Canadian Grand Prix,2023,HARD,13.0,23.0,1
+HAM,Canadian Grand Prix,2023,HARD,36.0,36.0,1
+HAM,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+HAM,Canadian Grand Prix,2023,HARD,13.0,28.0,1
+SAI,Canadian Grand Prix,2023,MEDIUM,41.0,30.0,1
+SAI,Canadian Grand Prix,2023,MEDIUM,1.0,38.0,1
+RUS,Canadian Grand Prix,2023,HARD,39.0,32.0,1
+RUS,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+BOT,Canadian Grand Prix,2023,HARD,13.0,42.0,1
+BOT,Canadian Grand Prix,2023,HARD,1.0,36.0,1
+PIA,Canadian Grand Prix,2023,MEDIUM,37.0,34.0,1
+PIA,Canadian Grand Prix,2023,MEDIUM,1.0,12.0,1
+PIA,Canadian Grand Prix,2023,HARD,13.0,25.0,1
+VER,Austrian Grand Prix,2023,MEDIUM,1.0,24.0,1
+VER,Austrian Grand Prix,2023,HARD,25.0,25.0,1
+VER,Austrian Grand Prix,2023,MEDIUM,50.0,20.0,1
+GAS,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+GAS,Austrian Grand Prix,2023,HARD,15.0,30.0,1
+PER,Austrian Grand Prix,2023,MEDIUM,45.0,27.0,1
+PER,Austrian Grand Prix,2023,MEDIUM,1.0,25.0,1
+PER,Austrian Grand Prix,2023,MEDIUM,26.0,25.0,1
+ALO,Austrian Grand Prix,2023,HARD,51.0,21.0,1
+ALO,Austrian Grand Prix,2023,MEDIUM,16.0,29.0,1
+LEC,Austrian Grand Prix,2023,MEDIUM,45.0,27.0,1
+LEC,Austrian Grand Prix,2023,MEDIUM,1.0,15.0,1
+LEC,Austrian Grand Prix,2023,MEDIUM,16.0,32.0,1
+STR,Austrian Grand Prix,2023,HARD,48.0,24.0,1
+STR,Austrian Grand Prix,2023,MEDIUM,1.0,15.0,1
+STR,Austrian Grand Prix,2023,HARD,16.0,21.0,1
+SAR,Austrian Grand Prix,2023,MEDIUM,55.0,17.0,1
+SAR,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+SAR,Austrian Grand Prix,2023,HARD,15.0,29.0,1
+MAG,Austrian Grand Prix,2023,HARD,44.0,27.0,1
+MAG,Austrian Grand Prix,2023,HARD,3.0,32.0,1
+DEV,Austrian Grand Prix,2023,HARD,35.0,37.0,1
+DEV,Austrian Grand Prix,2023,MEDIUM,1.0,12.0,1
+DEV,Austrian Grand Prix,2023,HARD,13.0,25.0,1
+TSU,Austrian Grand Prix,2023,MEDIUM,38.0,33.0,1
+TSU,Austrian Grand Prix,2023,HARD,2.0,22.0,1
+TSU,Austrian Grand Prix,2023,HARD,24.0,20.0,1
+ALB,Austrian Grand Prix,2023,MEDIUM,44.0,27.0,1
+ALB,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+ALB,Austrian Grand Prix,2023,HARD,15.0,27.0,1
+ZHO,Austrian Grand Prix,2023,HARD,42.0,30.0,1
+ZHO,Austrian Grand Prix,2023,HARD,9.0,30.0,1
+HUL,Austrian Grand Prix,2023,HARD,39.0,32.0,1
+HUL,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+OCO,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+OCO,Austrian Grand Prix,2023,HARD,15.0,26.0,1
+NOR,Austrian Grand Prix,2023,HARD,41.0,30.0,1
+NOR,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+NOR,Austrian Grand Prix,2023,HARD,15.0,27.0,1
+HAM,Austrian Grand Prix,2023,HARD,42.0,30.0,1
+HAM,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+HAM,Austrian Grand Prix,2023,HARD,15.0,28.0,1
+SAI,Austrian Grand Prix,2023,MEDIUM,43.0,29.0,1
+SAI,Austrian Grand Prix,2023,MEDIUM,1.0,15.0,1
+SAI,Austrian Grand Prix,2023,MEDIUM,16.0,30.0,1
+RUS,Austrian Grand Prix,2023,HARD,46.0,26.0,1
+RUS,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+RUS,Austrian Grand Prix,2023,HARD,15.0,27.0,1
+BOT,Austrian Grand Prix,2023,MEDIUM,42.0,30.0,1
+BOT,Austrian Grand Prix,2023,HARD,1.0,21.0,1
+BOT,Austrian Grand Prix,2023,MEDIUM,22.0,19.0,1
+PIA,Austrian Grand Prix,2023,HARD,41.0,30.0,1
+PIA,Austrian Grand Prix,2023,MEDIUM,1.0,14.0,1
+PIA,Austrian Grand Prix,2023,HARD,23.0,19.0,1
+VER,British Grand Prix,2023,MEDIUM,1.0,33.0,1
+GAS,British Grand Prix,2023,SOFT,34.0,22.0,1
+GAS,British Grand Prix,2023,MEDIUM,1.0,31.0,1
+PER,British Grand Prix,2023,SOFT,32.0,18.0,1
+PER,British Grand Prix,2023,MEDIUM,1.0,28.0,1
+ALO,British Grand Prix,2023,SOFT,29.0,24.0,1
+ALO,British Grand Prix,2023,MEDIUM,1.0,34.0,1
+LEC,British Grand Prix,2023,SOFT,34.0,22.0,1
+LEC,British Grand Prix,2023,MEDIUM,1.0,18.0,1
+STR,British Grand Prix,2023,MEDIUM,33.0,20.0,1
+STR,British Grand Prix,2023,MEDIUM,1.0,32.0,1
+SAR,British Grand Prix,2023,SOFT,32.0,24.0,1
+SAR,British Grand Prix,2023,MEDIUM,1.0,29.0,1
+MAG,British Grand Prix,2023,SOFT,30.0,23.0,1
+DEV,British Grand Prix,2023,MEDIUM,1.0,32.0,1
+DEV,British Grand Prix,2023,SOFT,1.0,27.0,1
+TSU,British Grand Prix,2023,SOFT,33.0,20.0,1
+TSU,British Grand Prix,2023,SOFT,1.0,14.0,1
+ALB,British Grand Prix,2023,SOFT,33.0,20.0,1
+ALB,British Grand Prix,2023,MEDIUM,1.0,32.0,1
+ZHO,British Grand Prix,2023,SOFT,33.0,24.0,1
+ZHO,British Grand Prix,2023,MEDIUM,1.0,24.0,1
+HUL,British Grand Prix,2023,SOFT,34.0,19.0,1
+HUL,British Grand Prix,2023,MEDIUM,8.0,25.0,1
+OCO,British Grand Prix,2023,SOFT,33.0,20.0,1
+NOR,British Grand Prix,2023,SOFT,1.0,9.0,1
+NOR,British Grand Prix,2023,MEDIUM,1.0,33.0,1
+HAM,British Grand Prix,2023,HARD,34.0,19.0,1
+HAM,British Grand Prix,2023,MEDIUM,1.0,33.0,1
+SAI,British Grand Prix,2023,SOFT,34.0,22.0,1
+SAI,British Grand Prix,2023,MEDIUM,1.0,26.0,1
+RUS,British Grand Prix,2023,HARD,27.0,26.0,1
+RUS,British Grand Prix,2023,SOFT,1.0,31.0,1
+BOT,British Grand Prix,2023,MEDIUM,29.0,24.0,1
+BOT,British Grand Prix,2023,HARD,1.0,32.0,1
+PIA,British Grand Prix,2023,SOFT,33.0,20.0,1
+PIA,British Grand Prix,2023,MEDIUM,1.0,29.0,1
+VER,Hungarian Grand Prix,2023,MEDIUM,1.0,26.0,1
+VER,Hungarian Grand Prix,2023,HARD,24.0,28.0,1
+NOR,Hungarian Grand Prix,2023,MEDIUM,52.0,22.0,1
+NOR,Hungarian Grand Prix,2023,MEDIUM,1.0,17.0,1
+NOR,Hungarian Grand Prix,2023,HARD,18.0,27.0,1
+PER,Hungarian Grand Prix,2023,MEDIUM,45.0,29.0,1
+PER,Hungarian Grand Prix,2023,HARD,1.0,27.0,1
+PER,Hungarian Grand Prix,2023,MEDIUM,25.0,24.0,1
+HAM,Hungarian Grand Prix,2023,MEDIUM,43.0,31.0,1
+HAM,Hungarian Grand Prix,2023,MEDIUM,1.0,19.0,1
+HAM,Hungarian Grand Prix,2023,HARD,17.0,33.0,1
+PIA,Hungarian Grand Prix,2023,MEDIUM,50.0,24.0,1
+PIA,Hungarian Grand Prix,2023,MEDIUM,1.0,20.0,1
+PIA,Hungarian Grand Prix,2023,HARD,19.0,24.0,1
+RUS,Hungarian Grand Prix,2023,MEDIUM,43.0,31.0,1
+RUS,Hungarian Grand Prix,2023,HARD,1.0,28.0,1
+RUS,Hungarian Grand Prix,2023,MEDIUM,29.0,18.0,1
+LEC,Hungarian Grand Prix,2023,MEDIUM,47.0,24.0,1
+LEC,Hungarian Grand Prix,2023,MEDIUM,1.0,20.0,1
+LEC,Hungarian Grand Prix,2023,HARD,18.0,26.0,1
+SAI,Hungarian Grand Prix,2023,HARD,44.0,31.0,1
+SAI,Hungarian Grand Prix,2023,SOFT,1.0,15.0,1
+SAI,Hungarian Grand Prix,2023,HARD,16.0,29.0,1
+ALO,Hungarian Grand Prix,2023,HARD,45.0,29.0,1
+ALO,Hungarian Grand Prix,2023,MEDIUM,1.0,23.0,1
+ALO,Hungarian Grand Prix,2023,HARD,21.0,27.0,1
+STR,Hungarian Grand Prix,2023,HARD,44.0,27.0,1
+STR,Hungarian Grand Prix,2023,SOFT,1.0,9.0,1
+STR,Hungarian Grand Prix,2023,HARD,10.0,30.0,1
+ALB,Hungarian Grand Prix,2023,HARD,35.0,39.0,1
+ALB,Hungarian Grand Prix,2023,HARD,9.0,26.0,1
+BOT,Hungarian Grand Prix,2023,HARD,32.0,38.0,1
+BOT,Hungarian Grand Prix,2023,MEDIUM,1.0,12.0,1
+BOT,Hungarian Grand Prix,2023,HARD,10.0,36.0,1
+RIC,Hungarian Grand Prix,2023,HARD,41.0,32.0,1
+RIC,Hungarian Grand Prix,2023,MEDIUM,1.0,21.0,1
+HUL,Hungarian Grand Prix,2023,MEDIUM,30.0,43.0,1
+HUL,Hungarian Grand Prix,2023,MEDIUM,1.0,19.0,1
+HUL,Hungarian Grand Prix,2023,HARD,17.0,25.0,1
+TSU,Hungarian Grand Prix,2023,HARD,39.0,36.0,1
+TSU,Hungarian Grand Prix,2023,SOFT,1.0,9.0,1
+TSU,Hungarian Grand Prix,2023,HARD,10.0,38.0,1
+ZHO,Hungarian Grand Prix,2023,MEDIUM,45.0,25.0,1
+ZHO,Hungarian Grand Prix,2023,MEDIUM,1.0,13.0,1
+ZHO,Hungarian Grand Prix,2023,HARD,11.0,33.0,1
+MAG,Hungarian Grand Prix,2023,HARD,39.0,36.0,1
+MAG,Hungarian Grand Prix,2023,MEDIUM,1.0,14.0,1
+MAG,Hungarian Grand Prix,2023,HARD,15.0,30.0,1
+SAR,Hungarian Grand Prix,2023,HARD,42.0,33.0,1
+SAR,Hungarian Grand Prix,2023,MEDIUM,1.0,13.0,1
+SAR,Hungarian Grand Prix,2023,HARD,14.0,24.0,1
+OCO,Hungarian Grand Prix,2023,HARD,35.0,33.0,1
+VER,Belgian Grand Prix,2023,SOFT,1.0,14.0,1
+VER,Belgian Grand Prix,2023,MEDIUM,15.0,16.0,1
+PER,Belgian Grand Prix,2023,SOFT,31.0,14.0,1
+PER,Belgian Grand Prix,2023,SOFT,1.0,13.0,1
+PER,Belgian Grand Prix,2023,MEDIUM,14.0,16.0,1
+LEC,Belgian Grand Prix,2023,SOFT,30.0,15.0,1
+LEC,Belgian Grand Prix,2023,SOFT,1.0,13.0,1
+LEC,Belgian Grand Prix,2023,MEDIUM,14.0,15.0,1
+HAM,Belgian Grand Prix,2023,SOFT,29.0,16.0,1
+HAM,Belgian Grand Prix,2023,SOFT,1.0,12.0,1
+HAM,Belgian Grand Prix,2023,MEDIUM,13.0,15.0,1
+HAM,Belgian Grand Prix,2023,SOFT,28.0,15.0,1
+ALO,Belgian Grand Prix,2023,MEDIUM,11.0,19.0,1
+RUS,Belgian Grand Prix,2023,SOFT,30.0,15.0,1
+RUS,Belgian Grand Prix,2023,MEDIUM,1.0,22.0,1
+NOR,Belgian Grand Prix,2023,SOFT,23.0,22.0,1
+OCO,Belgian Grand Prix,2023,SOFT,18.0,27.0,1
+OCO,Belgian Grand Prix,2023,MEDIUM,7.0,19.0,1
+STR,Belgian Grand Prix,2023,SOFT,26.0,19.0,1
+STR,Belgian Grand Prix,2023,MEDIUM,1.0,20.0,1
+TSU,Belgian Grand Prix,2023,SOFT,21.0,24.0,1
+TSU,Belgian Grand Prix,2023,MEDIUM,10.0,15.0,1
+GAS,Belgian Grand Prix,2023,SOFT,25.0,20.0,1
+GAS,Belgian Grand Prix,2023,SOFT,1.0,23.0,1
+BOT,Belgian Grand Prix,2023,MEDIUM,24.0,21.0,1
+BOT,Belgian Grand Prix,2023,MEDIUM,7.0,18.0,1
+ZHO,Belgian Grand Prix,2023,MEDIUM,25.0,20.0,1
+ZHO,Belgian Grand Prix,2023,MEDIUM,8.0,18.0,1
+ALB,Belgian Grand Prix,2023,SOFT,26.0,19.0,1
+ALB,Belgian Grand Prix,2023,MEDIUM,8.0,16.0,1
+MAG,Belgian Grand Prix,2023,SOFT,34.0,11.0,1
+MAG,Belgian Grand Prix,2023,MEDIUM,6.0,20.0,1
+RIC,Belgian Grand Prix,2023,MEDIUM,26.0,19.0,1
+RIC,Belgian Grand Prix,2023,MEDIUM,6.0,17.0,1
+SAR,Belgian Grand Prix,2023,MEDIUM,23.0,22.0,1
+SAR,Belgian Grand Prix,2023,SOFT,1.0,8.0,1
+SAR,Belgian Grand Prix,2023,MEDIUM,9.0,16.0,1
+HUL,Belgian Grand Prix,2023,SOFT,35.0,10.0,1
+HUL,Belgian Grand Prix,2023,MEDIUM,1.0,12.0,1
+HUL,Belgian Grand Prix,2023,SOFT,13.0,12.0,1
+SAI,Belgian Grand Prix,2023,SOFT,25.0,20.0,1
+PIA,Belgian Grand Prix,2023,MEDIUM,8.0,16.0,1
+VER,Dutch Grand Prix,2023,SOFT,12.0,38.0,1
+VER,Dutch Grand Prix,2023,SOFT,50.0,13.0,1
+GAS,Dutch Grand Prix,2023,SOFT,12.0,35.0,1
+GAS,Dutch Grand Prix,2023,SOFT,47.0,14.0,1
+PER,Dutch Grand Prix,2023,SOFT,13.0,33.0,1
+PER,Dutch Grand Prix,2023,SOFT,46.0,16.0,1
+ALO,Dutch Grand Prix,2023,SOFT,11.0,38.0,1
+ALO,Dutch Grand Prix,2023,SOFT,49.0,15.0,1
+STR,Dutch Grand Prix,2023,SOFT,12.0,30.0,1
+STR,Dutch Grand Prix,2023,MEDIUM,17.0,18.0,1
+STR,Dutch Grand Prix,2023,SOFT,35.0,26.0,1
+MAG,Dutch Grand Prix,2023,SOFT,1.0,15.0,1
+MAG,Dutch Grand Prix,2023,SOFT,10.0,26.0,1
+MAG,Dutch Grand Prix,2023,MEDIUM,36.0,25.0,1
+ALB,Dutch Grand Prix,2023,MEDIUM,45.0,17.0,1
+ZHO,Dutch Grand Prix,2023,MEDIUM,11.0,27.0,1
+ZHO,Dutch Grand Prix,2023,SOFT,38.0,23.0,1
+HUL,Dutch Grand Prix,2023,SOFT,1.0,16.0,1
+HUL,Dutch Grand Prix,2023,MEDIUM,17.0,32.0,1
+HUL,Dutch Grand Prix,2023,SOFT,49.0,12.0,1
+OCO,Dutch Grand Prix,2023,SOFT,11.0,33.0,1
+OCO,Dutch Grand Prix,2023,SOFT,44.0,18.0,1
+NOR,Dutch Grand Prix,2023,SOFT,11.0,33.0,1
+NOR,Dutch Grand Prix,2023,SOFT,43.0,21.0,1
+LAW,Dutch Grand Prix,2023,MEDIUM,18.0,29.0,1
+LAW,Dutch Grand Prix,2023,SOFT,47.0,13.0,1
+HAM,Dutch Grand Prix,2023,SOFT,10.0,36.0,1
+HAM,Dutch Grand Prix,2023,SOFT,46.0,15.0,1
+SAI,Dutch Grand Prix,2023,SOFT,11.0,31.0,1
+SAI,Dutch Grand Prix,2023,SOFT,42.0,21.0,1
+RUS,Dutch Grand Prix,2023,HARD,17.0,44.0,1
+BOT,Dutch Grand Prix,2023,SOFT,1.0,16.0,1
+BOT,Dutch Grand Prix,2023,MEDIUM,17.0,31.0,1
+BOT,Dutch Grand Prix,2023,SOFT,48.0,12.0,1
+PIA,Dutch Grand Prix,2023,SOFT,1.0,15.0,1
+PIA,Dutch Grand Prix,2023,SOFT,16.0,31.0,1
+PIA,Dutch Grand Prix,2023,MEDIUM,47.0,14.0,1
+VER,Italian Grand Prix,2023,MEDIUM,1.0,20.0,1
+GAS,Italian Grand Prix,2023,HARD,21.0,31.0,1
+GAS,Italian Grand Prix,2023,HARD,11.0,24.0,1
+PER,Italian Grand Prix,2023,MEDIUM,32.0,20.0,1
+PER,Italian Grand Prix,2023,MEDIUM,1.0,21.0,1
+ALO,Italian Grand Prix,2023,HARD,22.0,30.0,1
+ALO,Italian Grand Prix,2023,MEDIUM,1.0,21.0,1
+LEC,Italian Grand Prix,2023,HARD,22.0,33.0,1
+LEC,Italian Grand Prix,2023,MEDIUM,1.0,20.0,1
+STR,Italian Grand Prix,2023,HARD,21.0,31.0,1
+STR,Italian Grand Prix,2023,MEDIUM,1.0,20.0,1
+SAR,Italian Grand Prix,2023,HARD,21.0,35.0,1
+SAR,Italian Grand Prix,2023,MEDIUM,1.0,17.0,1
+MAG,Italian Grand Prix,2023,HARD,15.0,40.0,1
+MAG,Italian Grand Prix,2023,MEDIUM,13.0,21.0,1
+TSU,Italian Grand Prix,2023,MEDIUM,34.0,18.0,1
+ALB,Italian Grand Prix,2023,MEDIUM,1.0,18.0,1
+ZHO,Italian Grand Prix,2023,HARD,16.0,39.0,1
+ZHO,Italian Grand Prix,2023,HARD,12.0,25.0,1
+HUL,Italian Grand Prix,2023,MEDIUM,34.0,18.0,1
+HUL,Italian Grand Prix,2023,MEDIUM,1.0,17.0,1
+HUL,Italian Grand Prix,2023,HARD,15.0,30.0,1
+OCO,Italian Grand Prix,2023,MEDIUM,40.0,15.0,1
+OCO,Italian Grand Prix,2023,MEDIUM,1.0,24.0,1
+NOR,Italian Grand Prix,2023,MEDIUM,1.0,22.0,1
+LAW,Italian Grand Prix,2023,HARD,23.0,33.0,1
+LAW,Italian Grand Prix,2023,MEDIUM,1.0,16.0,1
+LAW,Italian Grand Prix,2023,HARD,14.0,23.0,1
+HAM,Italian Grand Prix,2023,MEDIUM,34.0,21.0,1
+HAM,Italian Grand Prix,2023,HARD,1.0,30.0,1
+SAI,Italian Grand Prix,2023,MEDIUM,28.0,24.0,1
+SAI,Italian Grand Prix,2023,MEDIUM,1.0,19.0,1
+RUS,Italian Grand Prix,2023,HARD,20.0,32.0,1
+RUS,Italian Grand Prix,2023,MEDIUM,1.0,19.0,1
+BOT,Italian Grand Prix,2023,HARD,20.0,35.0,1
+BOT,Italian Grand Prix,2023,HARD,1.0,28.0,1
+PIA,Italian Grand Prix,2023,MEDIUM,26.0,29.0,1
+PIA,Italian Grand Prix,2023,MEDIUM,1.0,23.0,1
+PIA,Italian Grand Prix,2023,HARD,24.0,23.0,1
+VER,Singapore Grand Prix,2023,HARD,1.0,40.0,1
+GAS,Singapore Grand Prix,2023,MEDIUM,41.0,22.0,1
+GAS,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+PER,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+PER,Singapore Grand Prix,2023,HARD,1.0,39.0,1
+ALO,Singapore Grand Prix,2023,MEDIUM,40.0,23.0,1
+ALO,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+ALO,Singapore Grand Prix,2023,HARD,21.0,24.0,1
+LEC,Singapore Grand Prix,2023,SOFT,45.0,20.0,1
+LEC,Singapore Grand Prix,2023,SOFT,1.0,23.0,1
+SAR,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+SAR,Singapore Grand Prix,2023,MEDIUM,1.0,19.0,1
+SAR,Singapore Grand Prix,2023,HARD,20.0,24.0,1
+MAG,Singapore Grand Prix,2023,MEDIUM,44.0,19.0,1
+MAG,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+MAG,Singapore Grand Prix,2023,HARD,21.0,23.0,1
+TSU,Singapore Grand Prix,2023,SOFT,44.0,22.0,1
+ALB,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+ALB,Singapore Grand Prix,2023,HARD,21.0,23.0,1
+ZHO,Singapore Grand Prix,2023,MEDIUM,44.0,19.0,1
+HUL,Singapore Grand Prix,2023,MEDIUM,21.0,42.0,1
+HUL,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+OCO,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+OCO,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+NOR,Singapore Grand Prix,2023,HARD,21.0,23.0,1
+NOR,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+LAW,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+LAW,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+HAM,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+HAM,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+HAM,Singapore Grand Prix,2023,HARD,21.0,24.0,1
+SAI,Singapore Grand Prix,2023,MEDIUM,45.0,18.0,1
+SAI,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+RUS,Singapore Grand Prix,2023,HARD,21.0,42.0,1
+RUS,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+RUS,Singapore Grand Prix,2023,HARD,21.0,24.0,1
+BOT,Singapore Grand Prix,2023,MEDIUM,45.0,18.0,1
+BOT,Singapore Grand Prix,2023,HARD,1.0,40.0,1
+PIA,Singapore Grand Prix,2023,MEDIUM,41.0,12.0,1
+PIA,Singapore Grand Prix,2023,MEDIUM,1.0,20.0,1
+VER,Japanese Grand Prix,2023,MEDIUM,1.0,16.0,1
+VER,Japanese Grand Prix,2023,MEDIUM,17.0,21.0,1
+NOR,Japanese Grand Prix,2023,MEDIUM,1.0,17.0,1
+NOR,Japanese Grand Prix,2023,HARD,18.0,19.0,1
+PIA,Japanese Grand Prix,2023,MEDIUM,1.0,13.0,1
+PIA,Japanese Grand Prix,2023,HARD,14.0,22.0,1
+LEC,Japanese Grand Prix,2023,MEDIUM,1.0,17.0,1
+LEC,Japanese Grand Prix,2023,MEDIUM,18.0,17.0,1
+HAM,Japanese Grand Prix,2023,HARD,35.0,19.0,1
+HAM,Japanese Grand Prix,2023,MEDIUM,1.0,16.0,1
+SAI,Japanese Grand Prix,2023,HARD,35.0,19.0,1
+SAI,Japanese Grand Prix,2023,MEDIUM,1.0,18.0,1
+SAI,Japanese Grand Prix,2023,MEDIUM,19.0,20.0,1
+RUS,Japanese Grand Prix,2023,MEDIUM,1.0,24.0,1
+ALO,Japanese Grand Prix,2023,HARD,25.0,29.0,1
+ALO,Japanese Grand Prix,2023,SOFT,1.0,14.0,1
+OCO,Japanese Grand Prix,2023,HARD,26.0,28.0,1
+OCO,Japanese Grand Prix,2023,HARD,2.0,27.0,1
+GAS,Japanese Grand Prix,2023,HARD,29.0,25.0,1
+GAS,Japanese Grand Prix,2023,MEDIUM,1.0,18.0,1
+LAW,Japanese Grand Prix,2023,HARD,35.0,19.0,1
+LAW,Japanese Grand Prix,2023,SOFT,1.0,10.0,1
+LAW,Japanese Grand Prix,2023,MEDIUM,11.0,15.0,1
+TSU,Japanese Grand Prix,2023,HARD,26.0,27.0,1
+TSU,Japanese Grand Prix,2023,SOFT,1.0,12.0,1
+TSU,Japanese Grand Prix,2023,MEDIUM,10.0,21.0,1
+ZHO,Japanese Grand Prix,2023,HARD,31.0,22.0,1
+ZHO,Japanese Grand Prix,2023,SOFT,2.0,9.0,1
+ZHO,Japanese Grand Prix,2023,SOFT,11.0,19.0,1
+HUL,Japanese Grand Prix,2023,HARD,30.0,23.0,1
+HUL,Japanese Grand Prix,2023,SOFT,1.0,8.0,1
+HUL,Japanese Grand Prix,2023,MEDIUM,9.0,13.0,1
+MAG,Japanese Grand Prix,2023,MEDIUM,38.0,15.0,1
+MAG,Japanese Grand Prix,2023,MEDIUM,1.0,12.0,1
+MAG,Japanese Grand Prix,2023,HARD,13.0,19.0,1
+ALB,Japanese Grand Prix,2023,HARD,32.0,21.0,1
+ALB,Japanese Grand Prix,2023,MEDIUM,2.0,12.0,1
+SAR,Japanese Grand Prix,2023,SOFT,14.0,13.0,1
+SAR,Japanese Grand Prix,2023,MEDIUM,6.0,16.0,1
+STR,Japanese Grand Prix,2023,SOFT,1.0,14.0,1
+VER,Qatar Grand Prix,2023,MEDIUM,1.0,20.0,1
+VER,Qatar Grand Prix,2023,MEDIUM,18.0,20.0,1
+PIA,Qatar Grand Prix,2023,MEDIUM,1.0,18.0,1
+PIA,Qatar Grand Prix,2023,MEDIUM,13.0,20.0,1
+PIA,Qatar Grand Prix,2023,MEDIUM,26.0,18.0,1
+NOR,Qatar Grand Prix,2023,MEDIUM,1.0,20.0,1
+NOR,Qatar Grand Prix,2023,MEDIUM,14.0,20.0,1
+NOR,Qatar Grand Prix,2023,MEDIUM,28.0,17.0,1
+RUS,Qatar Grand Prix,2023,MEDIUM,2.0,20.0,1
+RUS,Qatar Grand Prix,2023,MEDIUM,15.0,18.0,1
+LEC,Qatar Grand Prix,2023,SOFT,51.0,10.0,1
+LEC,Qatar Grand Prix,2023,MEDIUM,1.0,20.0,1
+LEC,Qatar Grand Prix,2023,MEDIUM,13.0,20.0,1
+ALO,Qatar Grand Prix,2023,MEDIUM,44.0,14.0,1
+ALO,Qatar Grand Prix,2023,MEDIUM,1.0,16.0,1
+ALO,Qatar Grand Prix,2023,MEDIUM,12.0,20.0,1
+OCO,Qatar Grand Prix,2023,MEDIUM,45.0,13.0,1
+OCO,Qatar Grand Prix,2023,MEDIUM,1.0,17.0,1
+OCO,Qatar Grand Prix,2023,MEDIUM,11.0,20.0,1
+BOT,Qatar Grand Prix,2023,MEDIUM,44.0,14.0,1
+BOT,Qatar Grand Prix,2023,MEDIUM,4.0,18.0,1
+ZHO,Qatar Grand Prix,2023,HARD,40.0,19.0,1
+ZHO,Qatar Grand Prix,2023,MEDIUM,1.0,18.0,1
+PER,Qatar Grand Prix,2023,MEDIUM,18.0,20.0,1
+PER,Qatar Grand Prix,2023,MEDIUM,32.0,18.0,1
+STR,Qatar Grand Prix,2023,MEDIUM,44.0,14.0,1
+STR,Qatar Grand Prix,2023,MEDIUM,4.0,18.0,1
+GAS,Qatar Grand Prix,2023,MEDIUM,40.0,18.0,1
+GAS,Qatar Grand Prix,2023,MEDIUM,1.0,18.0,1
+GAS,Qatar Grand Prix,2023,MEDIUM,12.0,20.0,1
+ALB,Qatar Grand Prix,2023,MEDIUM,45.0,13.0,1
+ALB,Qatar Grand Prix,2023,MEDIUM,1.0,18.0,1
+ALB,Qatar Grand Prix,2023,MEDIUM,19.0,13.0,1
+MAG,Qatar Grand Prix,2023,MEDIUM,4.0,18.0,1
+TSU,Qatar Grand Prix,2023,MEDIUM,10.0,13.0,1
+HUL,Qatar Grand Prix,2023,MEDIUM,1.0,20.0,1
+HUL,Qatar Grand Prix,2023,MEDIUM,28.0,18.0,1
+SAR,Qatar Grand Prix,2023,MEDIUM,40.0,17.0,1
+SAR,Qatar Grand Prix,2023,MEDIUM,1.0,13.0,1
+SAR,Qatar Grand Prix,2023,MEDIUM,14.0,13.0,1
+VER,United States Grand Prix,2023,MEDIUM,1.0,16.0,1
+VER,United States Grand Prix,2023,MEDIUM,17.0,19.0,1
+NOR,United States Grand Prix,2023,HARD,36.0,21.0,1
+NOR,United States Grand Prix,2023,MEDIUM,1.0,17.0,1
+SAI,United States Grand Prix,2023,HARD,35.0,22.0,1
+SAI,United States Grand Prix,2023,MEDIUM,1.0,17.0,1
+SAI,United States Grand Prix,2023,MEDIUM,18.0,18.0,1
+PER,United States Grand Prix,2023,HARD,36.0,21.0,1
+PER,United States Grand Prix,2023,MEDIUM,1.0,17.0,1
+PER,United States Grand Prix,2023,MEDIUM,18.0,20.0,1
+RUS,United States Grand Prix,2023,HARD,38.0,19.0,1
+RUS,United States Grand Prix,2023,MEDIUM,1.0,21.0,1
+GAS,United States Grand Prix,2023,MEDIUM,40.0,17.0,1
+GAS,United States Grand Prix,2023,MEDIUM,1.0,18.0,1
+GAS,United States Grand Prix,2023,MEDIUM,19.0,19.0,1
+STR,United States Grand Prix,2023,HARD,38.0,19.0,1
+STR,United States Grand Prix,2023,HARD,1.0,20.0,1
+STR,United States Grand Prix,2023,MEDIUM,21.0,20.0,1
+TSU,United States Grand Prix,2023,MEDIUM,41.0,16.0,1
+TSU,United States Grand Prix,2023,MEDIUM,1.0,17.0,1
+TSU,United States Grand Prix,2023,MEDIUM,35.0,20.0,1
+ALB,United States Grand Prix,2023,MEDIUM,1.0,13.0,1
+ALB,United States Grand Prix,2023,HARD,11.0,19.0,1
+SAR,United States Grand Prix,2023,MEDIUM,30.0,33.0,1
+SAR,United States Grand Prix,2023,HARD,12.0,21.0,1
+HUL,United States Grand Prix,2023,MEDIUM,33.0,24.0,1
+HUL,United States Grand Prix,2023,HARD,1.0,19.0,1
+HUL,United States Grand Prix,2023,MEDIUM,20.0,15.0,1
+BOT,United States Grand Prix,2023,MEDIUM,35.0,28.0,1
+ZHO,United States Grand Prix,2023,HARD,29.0,28.0,1
+MAG,United States Grand Prix,2023,HARD,28.0,28.0,1
+MAG,United States Grand Prix,2023,HARD,11.0,19.0,1
+RIC,United States Grand Prix,2023,MEDIUM,30.0,26.0,1
+RIC,United States Grand Prix,2023,MEDIUM,1.0,22.0,1
+RIC,United States Grand Prix,2023,HARD,23.0,25.0,1
+ALO,United States Grand Prix,2023,SOFT,48.0,8.0,1
+ALO,United States Grand Prix,2023,MEDIUM,1.0,19.0,1
+ALO,United States Grand Prix,2023,MEDIUM,20.0,23.0,1
+HAM,United States Grand Prix,2023,MEDIUM,1.0,20.0,1
+LEC,United States Grand Prix,2023,MEDIUM,39.0,18.0,1
+LEC,United States Grand Prix,2023,MEDIUM,1.0,23.0,1
+VER,Mexico City Grand Prix,2023,MEDIUM,1.0,19.0,1
+GAS,Mexico City Grand Prix,2023,HARD,34.0,38.0,1
+GAS,Mexico City Grand Prix,2023,MEDIUM,1.0,28.0,1
+PER,Mexico City Grand Prix,2023,HARD,29.0,43.0,1
+ALO,Mexico City Grand Prix,2023,MEDIUM,1.0,30.0,1
+LEC,Mexico City Grand Prix,2023,HARD,30.0,19.0,1
+LEC,Mexico City Grand Prix,2023,MEDIUM,1.0,31.0,1
+STR,Mexico City Grand Prix,2023,HARD,32.0,40.0,1
+STR,Mexico City Grand Prix,2023,MEDIUM,1.0,31.0,1
+SAR,Mexico City Grand Prix,2023,HARD,31.0,37.0,1
+SAR,Mexico City Grand Prix,2023,MEDIUM,1.0,22.0,1
+MAG,Mexico City Grand Prix,2023,MEDIUM,35.0,37.0,1
+MAG,Mexico City Grand Prix,2023,MEDIUM,1.0,23.0,1
+TSU,Mexico City Grand Prix,2023,HARD,10.0,25.0,1
+ALB,Mexico City Grand Prix,2023,HARD,35.0,37.0,1
+ALB,Mexico City Grand Prix,2023,HARD,1.0,33.0,1
+ZHO,Mexico City Grand Prix,2023,MEDIUM,34.0,38.0,1
+ZHO,Mexico City Grand Prix,2023,MEDIUM,1.0,21.0,1
+HUL,Mexico City Grand Prix,2023,HARD,22.0,50.0,1
+HUL,Mexico City Grand Prix,2023,MEDIUM,1.0,23.0,1
+RIC,Mexico City Grand Prix,2023,MEDIUM,35.0,37.0,1
+RIC,Mexico City Grand Prix,2023,MEDIUM,1.0,27.0,1
+OCO,Mexico City Grand Prix,2023,HARD,28.0,44.0,1
+OCO,Mexico City Grand Prix,2023,HARD,1.0,34.0,1
+NOR,Mexico City Grand Prix,2023,MEDIUM,35.0,37.0,1
+NOR,Mexico City Grand Prix,2023,SOFT,1.0,11.0,1
+NOR,Mexico City Grand Prix,2023,HARD,12.0,22.0,1
+HAM,Mexico City Grand Prix,2023,MEDIUM,34.0,38.0,1
+HAM,Mexico City Grand Prix,2023,MEDIUM,1.0,24.0,1
+SAI,Mexico City Grand Prix,2023,MEDIUM,35.0,41.0,1
+SAI,Mexico City Grand Prix,2023,MEDIUM,1.0,30.0,1
+RUS,Mexico City Grand Prix,2023,HARD,31.0,41.0,1
+RUS,Mexico City Grand Prix,2023,MEDIUM,1.0,26.0,1
+BOT,Mexico City Grand Prix,2023,MEDIUM,35.0,42.0,1
+BOT,Mexico City Grand Prix,2023,MEDIUM,1.0,31.0,1
+PIA,Mexico City Grand Prix,2023,HARD,32.0,40.0,1
+PIA,Mexico City Grand Prix,2023,MEDIUM,1.0,25.0,1
+VER,São Paulo Grand Prix,2023,SOFT,3.0,28.0,1
+VER,São Paulo Grand Prix,2023,MEDIUM,28.0,29.0,1
+NOR,São Paulo Grand Prix,2023,SOFT,57.0,15.0,1
+NOR,São Paulo Grand Prix,2023,SOFT,3.0,25.0,1
+NOR,São Paulo Grand Prix,2023,MEDIUM,28.0,32.0,1
+ALO,São Paulo Grand Prix,2023,SOFT,60.0,15.0,1
+ALO,São Paulo Grand Prix,2023,SOFT,3.0,26.0,1
+ALO,São Paulo Grand Prix,2023,MEDIUM,26.0,22.0,1
+PER,São Paulo Grand Prix,2023,SOFT,48.0,24.0,1
+PER,São Paulo Grand Prix,2023,SOFT,3.0,21.0,1
+PER,São Paulo Grand Prix,2023,MEDIUM,21.0,26.0,1
+STR,São Paulo Grand Prix,2023,SOFT,47.0,28.0,1
+STR,São Paulo Grand Prix,2023,SOFT,3.0,23.0,1
+STR,São Paulo Grand Prix,2023,MEDIUM,23.0,30.0,1
+SAI,São Paulo Grand Prix,2023,SOFT,53.0,21.0,1
+SAI,São Paulo Grand Prix,2023,SOFT,1.0,28.0,1
+SAI,São Paulo Grand Prix,2023,MEDIUM,27.0,25.0,1
+GAS,São Paulo Grand Prix,2023,SOFT,52.0,23.0,1
+GAS,São Paulo Grand Prix,2023,SOFT,3.0,27.0,1
+GAS,São Paulo Grand Prix,2023,MEDIUM,27.0,20.0,1
+HAM,São Paulo Grand Prix,2023,SOFT,47.0,25.0,1
+HAM,São Paulo Grand Prix,2023,SOFT,3.0,19.0,1
+HAM,São Paulo Grand Prix,2023,MEDIUM,19.0,28.0,1
+TSU,São Paulo Grand Prix,2023,SOFT,47.0,28.0,1
+TSU,São Paulo Grand Prix,2023,SOFT,3.0,24.0,1
+TSU,São Paulo Grand Prix,2023,MEDIUM,27.0,29.0,1
+OCO,São Paulo Grand Prix,2023,SOFT,56.0,19.0,1
+OCO,São Paulo Grand Prix,2023,SOFT,3.0,15.0,1
+OCO,São Paulo Grand Prix,2023,MEDIUM,15.0,17.0,1
+OCO,São Paulo Grand Prix,2023,SOFT,32.0,23.0,1
+SAR,São Paulo Grand Prix,2023,SOFT,52.0,19.0,1
+SAR,São Paulo Grand Prix,2023,SOFT,3.0,15.0,1
+SAR,São Paulo Grand Prix,2023,SOFT,18.0,27.0,1
+HUL,São Paulo Grand Prix,2023,SOFT,45.0,26.0,1
+HUL,São Paulo Grand Prix,2023,SOFT,3.0,22.0,1
+HUL,São Paulo Grand Prix,2023,SOFT,22.0,28.0,1
+RIC,São Paulo Grand Prix,2023,SOFT,47.0,27.0,1
+RIC,São Paulo Grand Prix,2023,SOFT,2.0,28.0,1
+RIC,São Paulo Grand Prix,2023,MEDIUM,27.0,29.0,1
+PIA,São Paulo Grand Prix,2023,SOFT,56.0,15.0,1
+PIA,São Paulo Grand Prix,2023,MEDIUM,2.0,23.0,1
+PIA,São Paulo Grand Prix,2023,SOFT,25.0,31.0,1
+RUS,São Paulo Grand Prix,2023,SOFT,53.0,22.0,1
+RUS,São Paulo Grand Prix,2023,SOFT,3.0,20.0,1
+RUS,São Paulo Grand Prix,2023,MEDIUM,20.0,26.0,1
+BOT,São Paulo Grand Prix,2023,SOFT,46.0,15.0,1
+BOT,São Paulo Grand Prix,2023,SOFT,3.0,16.0,1
+ZHO,São Paulo Grand Prix,2023,MEDIUM,19.0,21.0,1
+ZHO,São Paulo Grand Prix,2023,SOFT,3.0,13.0,1
+VER,Las Vegas Grand Prix,2023,MEDIUM,1.0,16.0,1
+GAS,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+GAS,Las Vegas Grand Prix,2023,MEDIUM,1.0,17.0,1
+PER,Las Vegas Grand Prix,2023,HARD,18.0,33.0,1
+PER,Las Vegas Grand Prix,2023,HARD,2.0,25.0,1
+ALO,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+ALO,Las Vegas Grand Prix,2023,HARD,1.0,26.0,1
+LEC,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+LEC,Las Vegas Grand Prix,2023,MEDIUM,1.0,21.0,1
+STR,Las Vegas Grand Prix,2023,HARD,22.0,29.0,1
+STR,Las Vegas Grand Prix,2023,HARD,4.0,24.0,1
+SAR,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+SAR,Las Vegas Grand Prix,2023,MEDIUM,1.0,15.0,1
+MAG,Las Vegas Grand Prix,2023,HARD,16.0,35.0,1
+MAG,Las Vegas Grand Prix,2023,MEDIUM,1.0,14.0,1
+TSU,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+TSU,Las Vegas Grand Prix,2023,SOFT,1.0,10.0,1
+ALB,Las Vegas Grand Prix,2023,HARD,22.0,26.0,1
+ALB,Las Vegas Grand Prix,2023,MEDIUM,1.0,16.0,1
+ZHO,Las Vegas Grand Prix,2023,HARD,17.0,34.0,1
+ZHO,Las Vegas Grand Prix,2023,HARD,1.0,26.0,1
+HUL,Las Vegas Grand Prix,2023,MEDIUM,27.0,24.0,1
+HUL,Las Vegas Grand Prix,2023,MEDIUM,1.0,12.0,1
+RIC,Las Vegas Grand Prix,2023,HARD,27.0,20.0,1
+RIC,Las Vegas Grand Prix,2023,MEDIUM,1.0,17.0,1
+OCO,Las Vegas Grand Prix,2023,HARD,18.0,33.0,1
+OCO,Las Vegas Grand Prix,2023,MEDIUM,1.0,20.0,1
+NOR,Las Vegas Grand Prix,2023,HARD,21.0,30.0,1
+SAI,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+SAI,Las Vegas Grand Prix,2023,HARD,4.0,23.0,1
+RUS,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+RUS,Las Vegas Grand Prix,2023,MEDIUM,1.0,15.0,1
+BOT,Las Vegas Grand Prix,2023,HARD,27.0,24.0,1
+BOT,Las Vegas Grand Prix,2023,HARD,2.0,23.0,1
+PIA,Las Vegas Grand Prix,2023,MEDIUM,25.0,26.0,1
+PIA,Las Vegas Grand Prix,2023,HARD,17.0,28.0,1
+VER,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,16.0,1
+VER,Abu Dhabi Grand Prix,2023,HARD,17.0,27.0,1
+LEC,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,17.0,1
+RUS,Abu Dhabi Grand Prix,2023,HARD,36.0,23.0,1
+RUS,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,14.0,1
+RUS,Abu Dhabi Grand Prix,2023,HARD,15.0,20.0,1
+PER,Abu Dhabi Grand Prix,2023,HARD,35.0,24.0,1
+PER,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,17.0,1
+PER,Abu Dhabi Grand Prix,2023,HARD,18.0,25.0,1
+NOR,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,14.0,1
+NOR,Abu Dhabi Grand Prix,2023,HARD,15.0,19.0,1
+PIA,Abu Dhabi Grand Prix,2023,HARD,34.0,25.0,1
+PIA,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,13.0,1
+PIA,Abu Dhabi Grand Prix,2023,HARD,14.0,23.0,1
+ALO,Abu Dhabi Grand Prix,2023,HARD,37.0,22.0,1
+ALO,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,12.0,1
+ALO,Abu Dhabi Grand Prix,2023,HARD,13.0,25.0,1
+TSU,Abu Dhabi Grand Prix,2023,HARD,37.0,23.0,1
+TSU,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,22.0,1
+HAM,Abu Dhabi Grand Prix,2023,HARD,23.0,36.0,1
+HAM,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,15.0,1
+HAM,Abu Dhabi Grand Prix,2023,HARD,16.0,20.0,1
+STR,Abu Dhabi Grand Prix,2023,HARD,36.0,23.0,1
+STR,Abu Dhabi Grand Prix,2023,HARD,1.0,23.0,1
+STR,Abu Dhabi Grand Prix,2023,HARD,23.0,21.0,1
+RIC,Abu Dhabi Grand Prix,2023,MEDIUM,43.0,16.0,1
+RIC,Abu Dhabi Grand Prix,2023,HARD,8.0,24.0,1
+OCO,Abu Dhabi Grand Prix,2023,HARD,32.0,27.0,1
+OCO,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,15.0,1
+GAS,Abu Dhabi Grand Prix,2023,HARD,16.0,43.0,1
+GAS,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,17.0,1
+ALB,Abu Dhabi Grand Prix,2023,HARD,33.0,26.0,1
+ALB,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,17.0,1
+ALB,Abu Dhabi Grand Prix,2023,HARD,17.0,27.0,1
+HUL,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,13.0,1
+HUL,Abu Dhabi Grand Prix,2023,HARD,14.0,20.0,1
+SAR,Abu Dhabi Grand Prix,2023,HARD,34.0,25.0,1
+SAR,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,16.0,1
+SAR,Abu Dhabi Grand Prix,2023,HARD,16.0,26.0,1
+ZHO,Abu Dhabi Grand Prix,2023,MEDIUM,1.0,13.0,1
+ZHO,Abu Dhabi Grand Prix,2023,HARD,14.0,24.0,1
+SAI,Abu Dhabi Grand Prix,2023,MEDIUM,38.0,21.0,1
+SAI,Abu Dhabi Grand Prix,2023,HARD,1.0,23.0,1
+SAI,Abu Dhabi Grand Prix,2023,HARD,24.0,33.0,1
+BOT,Abu Dhabi Grand Prix,2023,HARD,1.0,29.0,1
+MAG,Abu Dhabi Grand Prix,2023,MEDIUM,30.0,28.0,1
+VER,Bahrain Grand Prix,2024,SOFT,1.0,20.0,1
+VER,Bahrain Grand Prix,2024,HARD,18.0,20.0,1
+PER,Bahrain Grand Prix,2024,SOFT,38.0,20.0,1
+PER,Bahrain Grand Prix,2024,SOFT,1.0,15.0,1
+PER,Bahrain Grand Prix,2024,HARD,13.0,24.0,1
+SAI,Bahrain Grand Prix,2024,SOFT,37.0,21.0,1
+SAI,Bahrain Grand Prix,2024,SOFT,1.0,17.0,1
+SAI,Bahrain Grand Prix,2024,HARD,15.0,21.0,1
+LEC,Bahrain Grand Prix,2024,HARD,36.0,22.0,1
+LEC,Bahrain Grand Prix,2024,SOFT,1.0,14.0,1
+LEC,Bahrain Grand Prix,2024,HARD,12.0,23.0,1
+RUS,Bahrain Grand Prix,2024,HARD,35.0,23.0,1
+RUS,Bahrain Grand Prix,2024,SOFT,1.0,14.0,1
+RUS,Bahrain Grand Prix,2024,HARD,12.0,20.0,1
+NOR,Bahrain Grand Prix,2024,HARD,32.0,26.0,1
+NOR,Bahrain Grand Prix,2024,SOFT,1.0,16.0,1
+NOR,Bahrain Grand Prix,2024,HARD,14.0,20.0,1
+HAM,Bahrain Grand Prix,2024,HARD,34.0,24.0,1
+HAM,Bahrain Grand Prix,2024,SOFT,1.0,15.0,1
+HAM,Bahrain Grand Prix,2024,HARD,13.0,21.0,1
+PIA,Bahrain Grand Prix,2024,HARD,34.0,24.0,1
+PIA,Bahrain Grand Prix,2024,SOFT,1.0,15.0,1
+PIA,Bahrain Grand Prix,2024,HARD,13.0,22.0,1
+ALO,Bahrain Grand Prix,2024,HARD,35.0,23.0,1
+ALO,Bahrain Grand Prix,2024,SOFT,1.0,18.0,1
+ALO,Bahrain Grand Prix,2024,HARD,16.0,26.0,1
+STR,Bahrain Grand Prix,2024,SOFT,1.0,9.0,1
+ZHO,Bahrain Grand Prix,2024,HARD,28.0,30.0,1
+ZHO,Bahrain Grand Prix,2024,SOFT,1.0,9.0,1
+ZHO,Bahrain Grand Prix,2024,HARD,10.0,19.0,1
+MAG,Bahrain Grand Prix,2024,HARD,29.0,28.0,1
+MAG,Bahrain Grand Prix,2024,SOFT,1.0,11.0,1
+MAG,Bahrain Grand Prix,2024,HARD,12.0,21.0,1
+RIC,Bahrain Grand Prix,2024,HARD,33.0,24.0,1
+RIC,Bahrain Grand Prix,2024,SOFT,1.0,16.0,1
+RIC,Bahrain Grand Prix,2024,HARD,14.0,22.0,1
+TSU,Bahrain Grand Prix,2024,SOFT,36.0,21.0,1
+TSU,Bahrain Grand Prix,2024,SOFT,1.0,14.0,1
+TSU,Bahrain Grand Prix,2024,HARD,15.0,20.0,1
+ALB,Bahrain Grand Prix,2024,HARD,35.0,22.0,1
+ALB,Bahrain Grand Prix,2024,SOFT,1.0,15.0,1
+ALB,Bahrain Grand Prix,2024,HARD,16.0,21.0,1
+HUL,Bahrain Grand Prix,2024,HARD,37.0,20.0,1
+HUL,Bahrain Grand Prix,2024,HARD,2.0,19.0,1
+HUL,Bahrain Grand Prix,2024,HARD,21.0,21.0,1
+OCO,Bahrain Grand Prix,2024,SOFT,42.0,16.0,1
+OCO,Bahrain Grand Prix,2024,SOFT,1.0,10.0,1
+OCO,Bahrain Grand Prix,2024,HARD,11.0,20.0,1
+GAS,Bahrain Grand Prix,2024,HARD,31.0,26.0,1
+GAS,Bahrain Grand Prix,2024,SOFT,1.0,12.0,1
+GAS,Bahrain Grand Prix,2024,HARD,13.0,19.0,1
+BOT,Bahrain Grand Prix,2024,SOFT,44.0,13.0,1
+BOT,Bahrain Grand Prix,2024,SOFT,1.0,12.0,1
+SAR,Bahrain Grand Prix,2024,HARD,31.0,26.0,1
+SAR,Bahrain Grand Prix,2024,SOFT,1.0,10.0,1
+GAS,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+ALO,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+LEC,Saudi Arabian Grand Prix,2024,HARD,8.0,44.0,1
+STR,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+MAG,Saudi Arabian Grand Prix,2024,HARD,8.0,42.0,1
+TSU,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+ALB,Saudi Arabian Grand Prix,2024,HARD,8.0,42.0,1
+ZHO,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+ZHO,Saudi Arabian Grand Prix,2024,MEDIUM,1.0,41.0,1
+HUL,Saudi Arabian Grand Prix,2024,SOFT,42.0,8.0,1
+HUL,Saudi Arabian Grand Prix,2024,MEDIUM,1.0,33.0,1
+OCO,Saudi Arabian Grand Prix,2024,HARD,8.0,42.0,1
+BEA,Saudi Arabian Grand Prix,2024,HARD,8.0,42.0,1
+NOR,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+NOR,Saudi Arabian Grand Prix,2024,MEDIUM,1.0,37.0,1
+HAM,Saudi Arabian Grand Prix,2024,SOFT,38.0,19.0,1
+HAM,Saudi Arabian Grand Prix,2024,MEDIUM,1.0,36.0,1
+RUS,Saudi Arabian Grand Prix,2024,SOFT,37.0,17.0,1
+BOT,Saudi Arabian Grand Prix,2024,HARD,8.0,43.0,1
+BOT,Saudi Arabian Grand Prix,2024,HARD,8.0,28.0,1
+PIA,Saudi Arabian Grand Prix,2024,SOFT,36.0,14.0,1
+GAS,Australian Grand Prix,2024,MEDIUM,1.0,17.0,1
+GAS,Australian Grand Prix,2024,HARD,18.0,24.0,1
+PER,Australian Grand Prix,2024,MEDIUM,1.0,14.0,1
+PER,Australian Grand Prix,2024,HARD,15.0,21.0,1
+ALO,Australian Grand Prix,2024,HARD,36.0,23.0,1
+ALO,Australian Grand Prix,2024,MEDIUM,18.0,25.0,1
+LEC,Australian Grand Prix,2024,HARD,10.0,25.0,1
+STR,Australian Grand Prix,2024,HARD,35.0,24.0,1
+STR,Australian Grand Prix,2024,HARD,9.0,30.0,1
+MAG,Australian Grand Prix,2024,HARD,38.0,22.0,1
+MAG,Australian Grand Prix,2024,HARD,8.0,26.0,1
+TSU,Australian Grand Prix,2024,HARD,34.0,24.0,1
+TSU,Australian Grand Prix,2024,HARD,10.0,27.0,1
+ALB,Australian Grand Prix,2024,HARD,37.0,22.0,1
+ALB,Australian Grand Prix,2024,HARD,7.0,21.0,1
+ZHO,Australian Grand Prix,2024,HARD,28.0,30.0,1
+ZHO,Australian Grand Prix,2024,HARD,7.0,30.0,1
+HUL,Australian Grand Prix,2024,HARD,36.0,22.0,1
+HUL,Australian Grand Prix,2024,MEDIUM,18.0,18.0,1
+RIC,Australian Grand Prix,2024,HARD,36.0,23.0,1
+RIC,Australian Grand Prix,2024,HARD,6.0,24.0,1
+OCO,Australian Grand Prix,2024,HARD,30.0,28.0,1
+OCO,Australian Grand Prix,2024,HARD,17.0,26.0,1
+NOR,Australian Grand Prix,2024,HARD,43.0,22.0,1
+NOR,Australian Grand Prix,2024,MEDIUM,1.0,14.0,1
+NOR,Australian Grand Prix,2024,HARD,15.0,27.0,1
+HAM,Australian Grand Prix,2024,HARD,41.0,19.0,1
+SAI,Australian Grand Prix,2024,MEDIUM,1.0,16.0,1
+SAI,Australian Grand Prix,2024,HARD,17.0,25.0,1
+RUS,Australian Grand Prix,2024,HARD,9.0,37.0,1
+BOT,Australian Grand Prix,2024,HARD,9.0,29.0,1
+PIA,Australian Grand Prix,2024,HARD,37.0,21.0,1
+PIA,Australian Grand Prix,2024,HARD,10.0,31.0,1
+VER,Japanese Grand Prix,2024,MEDIUM,1.0,16.0,1
+VER,Japanese Grand Prix,2024,MEDIUM,17.0,18.0,1
+PER,Japanese Grand Prix,2024,HARD,35.0,19.0,1
+PER,Japanese Grand Prix,2024,MEDIUM,1.0,15.0,1
+PER,Japanese Grand Prix,2024,MEDIUM,16.0,18.0,1
+SAI,Japanese Grand Prix,2024,HARD,34.0,20.0,1
+SAI,Japanese Grand Prix,2024,MEDIUM,2.0,14.0,1
+SAI,Japanese Grand Prix,2024,MEDIUM,16.0,22.0,1
+LEC,Japanese Grand Prix,2024,MEDIUM,2.0,25.0,1
+NOR,Japanese Grand Prix,2024,HARD,27.0,27.0,1
+ALO,Japanese Grand Prix,2024,HARD,27.0,27.0,1
+ALO,Japanese Grand Prix,2024,SOFT,1.0,13.0,1
+ALO,Japanese Grand Prix,2024,MEDIUM,14.0,20.0,1
+RUS,Japanese Grand Prix,2024,HARD,34.0,20.0,1
+RUS,Japanese Grand Prix,2024,HARD,2.0,21.0,1
+PIA,Japanese Grand Prix,2024,MEDIUM,38.0,17.0,1
+PIA,Japanese Grand Prix,2024,MEDIUM,1.0,12.0,1
+PIA,Japanese Grand Prix,2024,HARD,13.0,20.0,1
+HAM,Japanese Grand Prix,2024,HARD,33.0,21.0,1
+HAM,Japanese Grand Prix,2024,HARD,2.0,22.0,1
+TSU,Japanese Grand Prix,2024,MEDIUM,40.0,15.0,1
+TSU,Japanese Grand Prix,2024,SOFT,2.0,9.0,1
+HUL,Japanese Grand Prix,2024,HARD,23.0,30.0,1
+HUL,Japanese Grand Prix,2024,HARD,6.0,28.0,1
+STR,Japanese Grand Prix,2024,HARD,34.0,19.0,1
+STR,Japanese Grand Prix,2024,SOFT,2.0,11.0,1
+MAG,Japanese Grand Prix,2024,SOFT,35.0,18.0,1
+MAG,Japanese Grand Prix,2024,MEDIUM,2.0,21.0,1
+BOT,Japanese Grand Prix,2024,HARD,23.0,30.0,1
+OCO,Japanese Grand Prix,2024,HARD,23.0,30.0,1
+GAS,Japanese Grand Prix,2024,MEDIUM,34.0,19.0,1
+GAS,Japanese Grand Prix,2024,MEDIUM,17.0,16.0,1
+SAR,Japanese Grand Prix,2024,HARD,33.0,20.0,1
+SAR,Japanese Grand Prix,2024,HARD,2.0,21.0,1
+ZHO,Japanese Grand Prix,2024,SOFT,42.0,11.0,1
+VER,Chinese Grand Prix,2024,MEDIUM,1.0,13.0,1
+GAS,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+PER,Chinese Grand Prix,2024,MEDIUM,39.0,18.0,1
+PER,Chinese Grand Prix,2024,MEDIUM,1.0,13.0,1
+ALO,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+ALO,Chinese Grand Prix,2024,SOFT,24.0,20.0,1
+LEC,Chinese Grand Prix,2024,MEDIUM,44.0,13.0,1
+LEC,Chinese Grand Prix,2024,MEDIUM,1.0,21.0,1
+STR,Chinese Grand Prix,2024,HARD,22.0,35.0,1
+STR,Chinese Grand Prix,2024,SOFT,1.0,9.0,1
+STR,Chinese Grand Prix,2024,MEDIUM,10.0,12.0,1
+SAR,Chinese Grand Prix,2024,HARD,36.0,26.0,1
+SAR,Chinese Grand Prix,2024,SOFT,1.0,12.0,1
+SAR,Chinese Grand Prix,2024,MEDIUM,13.0,12.0,1
+MAG,Chinese Grand Prix,2024,HARD,25.0,32.0,1
+TSU,Chinese Grand Prix,2024,MEDIUM,28.0,29.0,1
+TSU,Chinese Grand Prix,2024,SOFT,1.0,8.0,1
+TSU,Chinese Grand Prix,2024,MEDIUM,9.0,15.0,1
+ALB,Chinese Grand Prix,2024,MEDIUM,10.0,14.0,1
+ZHO,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+HUL,Chinese Grand Prix,2024,SOFT,41.0,16.0,1
+RIC,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+RIC,Chinese Grand Prix,2024,MEDIUM,1.0,14.0,1
+OCO,Chinese Grand Prix,2024,MEDIUM,15.0,19.0,1
+NOR,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+NOR,Chinese Grand Prix,2024,MEDIUM,1.0,22.0,1
+HAM,Chinese Grand Prix,2024,HARD,23.0,34.0,1
+HAM,Chinese Grand Prix,2024,SOFT,1.0,9.0,1
+HAM,Chinese Grand Prix,2024,MEDIUM,10.0,12.0,1
+SAI,Chinese Grand Prix,2024,HARD,22.0,35.0,1
+SAI,Chinese Grand Prix,2024,MEDIUM,1.0,17.0,1
+RUS,Chinese Grand Prix,2024,HARD,18.0,39.0,1
+RUS,Chinese Grand Prix,2024,MEDIUM,12.0,12.0,1
+BOT,Chinese Grand Prix,2024,HARD,24.0,33.0,1
+PIA,Chinese Grand Prix,2024,MEDIUM,1.0,16.0,1
+VER,Miami Grand Prix,2024,MEDIUM,1.0,23.0,1
+GAS,Miami Grand Prix,2024,HARD,24.0,34.0,1
+GAS,Miami Grand Prix,2024,MEDIUM,1.0,12.0,1
+PER,Miami Grand Prix,2024,HARD,13.0,45.0,1
+PER,Miami Grand Prix,2024,MEDIUM,1.0,17.0,1
+ALO,Miami Grand Prix,2024,MEDIUM,29.0,34.0,1
+ALO,Miami Grand Prix,2024,HARD,1.0,23.0,1
+LEC,Miami Grand Prix,2024,MEDIUM,23.0,36.0,1
+LEC,Miami Grand Prix,2024,MEDIUM,1.0,19.0,1
+STR,Miami Grand Prix,2024,HARD,20.0,38.0,1
+STR,Miami Grand Prix,2024,MEDIUM,1.0,12.0,1
+SAR,Miami Grand Prix,2024,MEDIUM,29.0,29.0,1
+MAG,Miami Grand Prix,2024,HARD,1.0,22.0,1
+TSU,Miami Grand Prix,2024,MEDIUM,29.0,29.0,1
+TSU,Miami Grand Prix,2024,MEDIUM,1.0,28.0,1
+ALB,Miami Grand Prix,2024,HARD,29.0,29.0,1
+ALB,Miami Grand Prix,2024,HARD,11.0,43.0,1
+ZHO,Miami Grand Prix,2024,MEDIUM,1.0,28.0,1
+HUL,Miami Grand Prix,2024,SOFT,29.0,29.0,1
+HUL,Miami Grand Prix,2024,MEDIUM,1.0,12.0,1
+RIC,Miami Grand Prix,2024,MEDIUM,29.0,29.0,1
+RIC,Miami Grand Prix,2024,HARD,1.0,28.0,1
+OCO,Miami Grand Prix,2024,MEDIUM,29.0,34.0,1
+OCO,Miami Grand Prix,2024,MEDIUM,1.0,22.0,1
+NOR,Miami Grand Prix,2024,HARD,23.0,35.0,1
+NOR,Miami Grand Prix,2024,MEDIUM,1.0,29.0,1
+HAM,Miami Grand Prix,2024,HARD,30.0,28.0,1
+HAM,Miami Grand Prix,2024,HARD,1.0,26.0,1
+SAI,Miami Grand Prix,2024,MEDIUM,27.0,34.0,1
+SAI,Miami Grand Prix,2024,MEDIUM,1.0,27.0,1
+RUS,Miami Grand Prix,2024,HARD,28.0,30.0,1
+RUS,Miami Grand Prix,2024,MEDIUM,1.0,27.0,1
+BOT,Miami Grand Prix,2024,HARD,25.0,33.0,1
+BOT,Miami Grand Prix,2024,SOFT,1.0,11.0,1
+PIA,Miami Grand Prix,2024,MEDIUM,30.0,28.0,1
+PIA,Miami Grand Prix,2024,MEDIUM,1.0,27.0,1
+VER,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,24.0,1
+NOR,Emilia Romagna Grand Prix,2024,HARD,25.0,39.0,1
+NOR,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,22.0,1
+LEC,Emilia Romagna Grand Prix,2024,HARD,23.0,42.0,1
+LEC,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,25.0,1
+PIA,Emilia Romagna Grand Prix,2024,HARD,26.0,38.0,1
+PIA,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,23.0,1
+SAI,Emilia Romagna Grand Prix,2024,HARD,24.0,41.0,1
+SAI,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,27.0,1
+HAM,Emilia Romagna Grand Prix,2024,HARD,28.0,36.0,1
+HAM,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,27.0,1
+RUS,Emilia Romagna Grand Prix,2024,HARD,28.0,36.0,1
+RUS,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,21.0,1
+RUS,Emilia Romagna Grand Prix,2024,HARD,22.0,31.0,1
+PER,Emilia Romagna Grand Prix,2024,MEDIUM,53.0,13.0,1
+PER,Emilia Romagna Grand Prix,2024,HARD,1.0,37.0,1
+STR,Emilia Romagna Grand Prix,2024,MEDIUM,38.0,26.0,1
+STR,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,38.0,1
+TSU,Emilia Romagna Grand Prix,2024,HARD,38.0,27.0,1
+TSU,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,12.0,1
+HUL,Emilia Romagna Grand Prix,2024,HARD,13.0,50.0,1
+HUL,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,13.0,1
+MAG,Emilia Romagna Grand Prix,2024,HARD,14.0,49.0,1
+MAG,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,37.0,1
+RIC,Emilia Romagna Grand Prix,2024,HARD,38.0,25.0,1
+OCO,Emilia Romagna Grand Prix,2024,HARD,12.0,51.0,1
+OCO,Emilia Romagna Grand Prix,2024,MEDIUM,1.0,25.0,1
+ZHO,Emilia Romagna Grand Prix,2024,HARD,26.0,37.0,1
+ZHO,Emilia Romagna Grand Prix,2024,HARD,1.0,33.0,1
+GAS,Emilia Romagna Grand Prix,2024,MEDIUM,34.0,29.0,1
+GAS,Emilia Romagna Grand Prix,2024,SOFT,1.0,8.0,1
+GAS,Emilia Romagna Grand Prix,2024,HARD,9.0,22.0,1
+SAR,Emilia Romagna Grand Prix,2024,MEDIUM,31.0,32.0,1
+SAR,Emilia Romagna Grand Prix,2024,HARD,1.0,31.0,1
+BOT,Emilia Romagna Grand Prix,2024,MEDIUM,32.0,31.0,1
+ALO,Emilia Romagna Grand Prix,2024,HARD,9.0,54.0,1
+ALO,Emilia Romagna Grand Prix,2024,HARD,8.0,34.0,1
+ALO,Emilia Romagna Grand Prix,2024,MEDIUM,41.0,20.0,1
+ALB,Emilia Romagna Grand Prix,2024,MEDIUM,10.0,19.0,1
+HAM,Monaco Grand Prix,2024,HARD,53.0,27.0,1
+TSU,Monaco Grand Prix,2024,HARD,52.0,28.0,1
+BOT,Monaco Grand Prix,2024,MEDIUM,2.0,14.0,1
+STR,Monaco Grand Prix,2024,MEDIUM,2.0,42.0,1
+SAR,Monaco Grand Prix,2024,SOFT,49.0,28.0,1
+ZHO,Monaco Grand Prix,2024,MEDIUM,58.0,19.0,1
+GAS,Canadian Grand Prix,2024,MEDIUM,46.0,25.0,1
+PER,Canadian Grand Prix,2024,HARD,41.0,30.0,1
+LEC,Canadian Grand Prix,2024,HARD,45.0,26.0,1
+SAR,Canadian Grand Prix,2024,HARD,45.0,27.0,1
+MAG,Canadian Grand Prix,2024,MEDIUM,42.0,13.0,1
+TSU,Canadian Grand Prix,2024,MEDIUM,55.0,16.0,1
+ALB,Canadian Grand Prix,2024,MEDIUM,45.0,26.0,1
+HUL,Canadian Grand Prix,2024,MEDIUM,53.0,17.0,1
+RIC,Canadian Grand Prix,2024,MEDIUM,45.0,26.0,1
+OCO,Canadian Grand Prix,2024,MEDIUM,44.0,28.0,1
+NOR,Canadian Grand Prix,2024,MEDIUM,45.0,26.0,1
+HAM,Canadian Grand Prix,2024,MEDIUM,48.0,23.0,1
+BOT,Canadian Grand Prix,2024,MEDIUM,55.0,16.0,1
+PIA,Canadian Grand Prix,2024,MEDIUM,43.0,28.0,1
+VER,Spanish Grand Prix,2024,SOFT,1.0,20.0,1
+VER,Spanish Grand Prix,2024,MEDIUM,18.0,27.0,1
+NOR,Spanish Grand Prix,2024,SOFT,45.0,22.0,1
+NOR,Spanish Grand Prix,2024,SOFT,1.0,23.0,1
+NOR,Spanish Grand Prix,2024,MEDIUM,24.0,24.0,1
+HAM,Spanish Grand Prix,2024,SOFT,48.0,22.0,1
+HAM,Spanish Grand Prix,2024,SOFT,1.0,19.0,1
+HAM,Spanish Grand Prix,2024,MEDIUM,17.0,27.0,1
+RUS,Spanish Grand Prix,2024,SOFT,44.0,26.0,1
+RUS,Spanish Grand Prix,2024,SOFT,1.0,18.0,1
+RUS,Spanish Grand Prix,2024,MEDIUM,16.0,21.0,1
+LEC,Spanish Grand Prix,2024,HARD,37.0,30.0,1
+LEC,Spanish Grand Prix,2024,SOFT,1.0,24.0,1
+LEC,Spanish Grand Prix,2024,MEDIUM,25.0,23.0,1
+SAI,Spanish Grand Prix,2024,SOFT,48.0,22.0,1
+SAI,Spanish Grand Prix,2024,SOFT,1.0,15.0,1
+SAI,Spanish Grand Prix,2024,MEDIUM,16.0,21.0,1
+PIA,Spanish Grand Prix,2024,HARD,37.0,30.0,1
+PIA,Spanish Grand Prix,2024,SOFT,1.0,24.0,1
+PIA,Spanish Grand Prix,2024,MEDIUM,22.0,25.0,1
+PER,Spanish Grand Prix,2024,SOFT,47.0,23.0,1
+PER,Spanish Grand Prix,2024,SOFT,1.0,16.0,1
+PER,Spanish Grand Prix,2024,SOFT,14.0,21.0,1
+PER,Spanish Grand Prix,2024,MEDIUM,32.0,18.0,1
+GAS,Spanish Grand Prix,2024,SOFT,50.0,20.0,1
+GAS,Spanish Grand Prix,2024,SOFT,1.0,17.0,1
+GAS,Spanish Grand Prix,2024,MEDIUM,15.0,24.0,1
+OCO,Spanish Grand Prix,2024,HARD,39.0,28.0,1
+OCO,Spanish Grand Prix,2024,SOFT,1.0,16.0,1
+OCO,Spanish Grand Prix,2024,MEDIUM,14.0,24.0,1
+HUL,Spanish Grand Prix,2024,HARD,38.0,29.0,1
+HUL,Spanish Grand Prix,2024,SOFT,1.0,12.0,1
+HUL,Spanish Grand Prix,2024,MEDIUM,13.0,26.0,1
+ALO,Spanish Grand Prix,2024,HARD,39.0,28.0,1
+ALO,Spanish Grand Prix,2024,SOFT,1.0,19.0,1
+ALO,Spanish Grand Prix,2024,MEDIUM,20.0,27.0,1
+ZHO,Spanish Grand Prix,2024,HARD,46.0,21.0,1
+ZHO,Spanish Grand Prix,2024,SOFT,1.0,9.0,1
+ZHO,Spanish Grand Prix,2024,MEDIUM,10.0,32.0,1
+STR,Spanish Grand Prix,2024,HARD,42.0,24.0,1
+STR,Spanish Grand Prix,2024,SOFT,1.0,17.0,1
+STR,Spanish Grand Prix,2024,MEDIUM,18.0,21.0,1
+RIC,Spanish Grand Prix,2024,HARD,38.0,29.0,1
+RIC,Spanish Grand Prix,2024,SOFT,1.0,16.0,1
+RIC,Spanish Grand Prix,2024,MEDIUM,17.0,26.0,1
+BOT,Spanish Grand Prix,2024,HARD,43.0,23.0,1
+BOT,Spanish Grand Prix,2024,SOFT,1.0,11.0,1
+BOT,Spanish Grand Prix,2024,SOFT,12.0,20.0,1
+MAG,Spanish Grand Prix,2024,HARD,29.0,37.0,1
+MAG,Spanish Grand Prix,2024,SOFT,1.0,10.0,1
+MAG,Spanish Grand Prix,2024,MEDIUM,11.0,19.0,1
+ALB,Spanish Grand Prix,2024,HARD,30.0,36.0,1
+ALB,Spanish Grand Prix,2024,MEDIUM,1.0,18.0,1
+ALB,Spanish Grand Prix,2024,SOFT,19.0,25.0,1
+TSU,Spanish Grand Prix,2024,SOFT,44.0,22.0,1
+TSU,Spanish Grand Prix,2024,SOFT,1.0,9.0,1
+TSU,Spanish Grand Prix,2024,MEDIUM,10.0,18.0,1
+SAR,Spanish Grand Prix,2024,SOFT,45.0,21.0,1
+SAR,Spanish Grand Prix,2024,SOFT,1.0,14.0,1
+SAR,Spanish Grand Prix,2024,MEDIUM,15.0,20.0,1
+RUS,Austrian Grand Prix,2024,MEDIUM,1.0,22.0,1
+RUS,Austrian Grand Prix,2024,MEDIUM,23.0,24.0,1
+PIA,Austrian Grand Prix,2024,HARD,47.0,25.0,1
+PIA,Austrian Grand Prix,2024,MEDIUM,1.0,25.0,1
+PIA,Austrian Grand Prix,2024,HARD,26.0,26.0,1
+SAI,Austrian Grand Prix,2024,MEDIUM,52.0,20.0,1
+SAI,Austrian Grand Prix,2024,MEDIUM,1.0,22.0,1
+SAI,Austrian Grand Prix,2024,HARD,23.0,25.0,1
+HAM,Austrian Grand Prix,2024,MEDIUM,48.0,24.0,1
+HAM,Austrian Grand Prix,2024,MEDIUM,1.0,21.0,1
+HAM,Austrian Grand Prix,2024,HARD,22.0,32.0,1
+VER,Austrian Grand Prix,2024,MEDIUM,54.0,18.0,1
+VER,Austrian Grand Prix,2024,MEDIUM,1.0,23.0,1
+VER,Austrian Grand Prix,2024,HARD,24.0,28.0,1
+VER,Austrian Grand Prix,2024,MEDIUM,52.0,16.0,1
+HUL,Austrian Grand Prix,2024,SOFT,65.0,10.0,1
+HUL,Austrian Grand Prix,2024,HARD,12.0,28.0,1
+PER,Austrian Grand Prix,2024,HARD,40.0,32.0,1
+PER,Austrian Grand Prix,2024,MEDIUM,1.0,21.0,1
+PER,Austrian Grand Prix,2024,HARD,22.0,30.0,1
+MAG,Austrian Grand Prix,2024,MEDIUM,52.0,25.0,1
+MAG,Austrian Grand Prix,2024,HARD,11.0,28.0,1
+RIC,Austrian Grand Prix,2024,HARD,39.0,33.0,1
+RIC,Austrian Grand Prix,2024,HARD,11.0,27.0,1
+GAS,Austrian Grand Prix,2024,HARD,38.0,34.0,1
+GAS,Austrian Grand Prix,2024,MEDIUM,1.0,20.0,1
+GAS,Austrian Grand Prix,2024,HARD,21.0,22.0,1
+LEC,Austrian Grand Prix,2024,MEDIUM,43.0,29.0,1
+LEC,Austrian Grand Prix,2024,MEDIUM,17.0,17.0,1
+LEC,Austrian Grand Prix,2024,MEDIUM,34.0,19.0,1
+OCO,Austrian Grand Prix,2024,MEDIUM,52.0,26.0,1
+OCO,Austrian Grand Prix,2024,MEDIUM,1.0,19.0,1
+OCO,Austrian Grand Prix,2024,HARD,20.0,24.0,1
+STR,Austrian Grand Prix,2024,MEDIUM,44.0,28.0,1
+STR,Austrian Grand Prix,2024,MEDIUM,1.0,21.0,1
+STR,Austrian Grand Prix,2024,MEDIUM,21.0,23.0,1
+TSU,Austrian Grand Prix,2024,HARD,44.0,28.0,1
+TSU,Austrian Grand Prix,2024,MEDIUM,1.0,21.0,1
+TSU,Austrian Grand Prix,2024,HARD,22.0,23.0,1
+ALB,Austrian Grand Prix,2024,HARD,45.0,26.0,1
+ALB,Austrian Grand Prix,2024,MEDIUM,1.0,12.0,1
+ALB,Austrian Grand Prix,2024,HARD,13.0,27.0,1
+BOT,Austrian Grand Prix,2024,HARD,40.0,31.0,1
+BOT,Austrian Grand Prix,2024,MEDIUM,1.0,19.0,1
+BOT,Austrian Grand Prix,2024,HARD,20.0,23.0,1
+ZHO,Austrian Grand Prix,2024,HARD,43.0,28.0,1
+ZHO,Austrian Grand Prix,2024,HARD,1.0,28.0,1
+ZHO,Austrian Grand Prix,2024,MEDIUM,29.0,23.0,1
+ALO,Austrian Grand Prix,2024,HARD,52.0,19.0,1
+ALO,Austrian Grand Prix,2024,MEDIUM,1.0,14.0,1
+ALO,Austrian Grand Prix,2024,MEDIUM,12.0,25.0,1
+ALO,Austrian Grand Prix,2024,HARD,36.0,34.0,1
+SAR,Austrian Grand Prix,2024,MEDIUM,2.0,25.0,1
+SAR,Austrian Grand Prix,2024,HARD,21.0,29.0,1
+NOR,Austrian Grand Prix,2024,MEDIUM,50.0,21.0,1
+NOR,Austrian Grand Prix,2024,MEDIUM,1.0,23.0,1
+NOR,Austrian Grand Prix,2024,HARD,24.0,28.0,1
+HAM,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+VER,British Grand Prix,2024,SOFT,39.0,15.0,1
+VER,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+NOR,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+PIA,British Grand Prix,2024,SOFT,40.0,15.0,1
+PIA,British Grand Prix,2024,MEDIUM,1.0,28.0,1
+SAI,British Grand Prix,2024,MEDIUM,39.0,14.0,1
+SAI,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+HUL,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+STR,British Grand Prix,2024,SOFT,40.0,16.0,1
+STR,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+ALO,British Grand Prix,2024,MEDIUM,40.0,13.0,1
+ALO,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+ALB,British Grand Prix,2024,MEDIUM,39.0,14.0,1
+ALB,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+TSU,British Grand Prix,2024,MEDIUM,39.0,14.0,1
+TSU,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+SAR,British Grand Prix,2024,SOFT,39.0,14.0,1
+SAR,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+MAG,British Grand Prix,2024,SOFT,39.0,14.0,1
+MAG,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+RIC,British Grand Prix,2024,SOFT,38.0,15.0,1
+RIC,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+LEC,British Grand Prix,2024,SOFT,38.0,14.0,1
+LEC,British Grand Prix,2024,MEDIUM,1.0,19.0,1
+BOT,British Grand Prix,2024,SOFT,38.0,14.0,1
+BOT,British Grand Prix,2024,MEDIUM,1.0,26.0,1
+OCO,British Grand Prix,2024,SOFT,38.0,14.0,1
+OCO,British Grand Prix,2024,SOFT,1.0,19.0,1
+PER,British Grand Prix,2024,MEDIUM,39.0,12.0,1
+PER,British Grand Prix,2024,HARD,1.0,19.0,1
+ZHO,British Grand Prix,2024,SOFT,1.0,12.0,1
+RUS,British Grand Prix,2024,SOFT,38.0,14.0,1
+RUS,British Grand Prix,2024,MEDIUM,1.0,27.0,1
+PIA,Hungarian Grand Prix,2024,MEDIUM,1.0,18.0,1
+PIA,Hungarian Grand Prix,2024,HARD,19.0,30.0,1
+NOR,Hungarian Grand Prix,2024,MEDIUM,48.0,24.0,1
+NOR,Hungarian Grand Prix,2024,MEDIUM,1.0,17.0,1
+NOR,Hungarian Grand Prix,2024,HARD,18.0,29.0,1
+HAM,Hungarian Grand Prix,2024,MEDIUM,46.0,26.0,1
+HAM,Hungarian Grand Prix,2024,MEDIUM,1.0,16.0,1
+HAM,Hungarian Grand Prix,2024,HARD,17.0,24.0,1
+LEC,Hungarian Grand Prix,2024,HARD,41.0,30.0,1
+LEC,Hungarian Grand Prix,2024,MEDIUM,1.0,23.0,1
+VER,Hungarian Grand Prix,2024,MEDIUM,41.0,30.0,1
+VER,Hungarian Grand Prix,2024,MEDIUM,1.0,21.0,1
+VER,Hungarian Grand Prix,2024,HARD,22.0,28.0,1
+SAI,Hungarian Grand Prix,2024,MEDIUM,50.0,21.0,1
+SAI,Hungarian Grand Prix,2024,MEDIUM,1.0,21.0,1
+SAI,Hungarian Grand Prix,2024,HARD,22.0,26.0,1
+PER,Hungarian Grand Prix,2024,MEDIUM,48.0,23.0,1
+PER,Hungarian Grand Prix,2024,HARD,1.0,28.0,1
+PER,Hungarian Grand Prix,2024,MEDIUM,29.0,19.0,1
+RUS,Hungarian Grand Prix,2024,MEDIUM,48.0,23.0,1
+RUS,Hungarian Grand Prix,2024,HARD,1.0,33.0,1
+RUS,Hungarian Grand Prix,2024,MEDIUM,34.0,20.0,1
+TSU,Hungarian Grand Prix,2024,MEDIUM,1.0,29.0,1
+STR,Hungarian Grand Prix,2024,HARD,30.0,41.0,1
+STR,Hungarian Grand Prix,2024,SOFT,1.0,17.0,1
+STR,Hungarian Grand Prix,2024,MEDIUM,15.0,32.0,1
+ALO,Hungarian Grand Prix,2024,HARD,46.0,26.0,1
+ALO,Hungarian Grand Prix,2024,SOFT,1.0,9.0,1
+ALO,Hungarian Grand Prix,2024,MEDIUM,8.0,31.0,1
+RIC,Hungarian Grand Prix,2024,HARD,38.0,34.0,1
+RIC,Hungarian Grand Prix,2024,HARD,8.0,21.0,1
+HUL,Hungarian Grand Prix,2024,HARD,29.0,41.0,1
+HUL,Hungarian Grand Prix,2024,HARD,3.0,27.0,1
+ALB,Hungarian Grand Prix,2024,HARD,30.0,40.0,1
+ALB,Hungarian Grand Prix,2024,HARD,7.0,23.0,1
+MAG,Hungarian Grand Prix,2024,HARD,30.0,40.0,1
+MAG,Hungarian Grand Prix,2024,HARD,7.0,28.0,1
+BOT,Hungarian Grand Prix,2024,HARD,35.0,35.0,1
+BOT,Hungarian Grand Prix,2024,MEDIUM,1.0,17.0,1
+BOT,Hungarian Grand Prix,2024,HARD,17.0,29.0,1
+SAR,Hungarian Grand Prix,2024,HARD,46.0,24.0,1
+SAR,Hungarian Grand Prix,2024,HARD,9.0,25.0,1
+SAR,Hungarian Grand Prix,2024,HARD,34.0,30.0,1
+OCO,Hungarian Grand Prix,2024,HARD,7.0,24.0,1
+OCO,Hungarian Grand Prix,2024,HARD,31.0,34.0,1
+ZHO,Hungarian Grand Prix,2024,HARD,8.0,29.0,1
+GAS,Hungarian Grand Prix,2024,HARD,37.0,33.0,1
+GAS,Hungarian Grand Prix,2024,HARD,1.0,28.0,1
+PIA,Belgian Grand Prix,2024,HARD,12.0,19.0,1
+LEC,Belgian Grand Prix,2024,MEDIUM,1.0,12.0,1
+VER,Belgian Grand Prix,2024,HARD,26.0,19.0,1
+NOR,Belgian Grand Prix,2024,MEDIUM,29.0,16.0,1
+NOR,Belgian Grand Prix,2024,MEDIUM,1.0,15.0,1
+SAI,Belgian Grand Prix,2024,HARD,1.0,20.0,1
+PER,Belgian Grand Prix,2024,HARD,22.0,21.0,1
+ALO,Belgian Grand Prix,2024,MEDIUM,1.0,13.0,1
+OCO,Belgian Grand Prix,2024,HARD,14.0,31.0,1
+OCO,Belgian Grand Prix,2024,MEDIUM,1.0,12.0,1
+RIC,Belgian Grand Prix,2024,SOFT,1.0,8.0,1
+RIC,Belgian Grand Prix,2024,MEDIUM,9.0,13.0,1
+STR,Belgian Grand Prix,2024,HARD,22.0,24.0,1
+STR,Belgian Grand Prix,2024,MEDIUM,1.0,12.0,1
+ALB,Belgian Grand Prix,2024,HARD,13.0,32.0,1
+ALB,Belgian Grand Prix,2024,MEDIUM,9.0,15.0,1
+GAS,Belgian Grand Prix,2024,HARD,24.0,21.0,1
+GAS,Belgian Grand Prix,2024,HARD,10.0,19.0,1
+MAG,Belgian Grand Prix,2024,MEDIUM,1.0,17.0,1
+BOT,Belgian Grand Prix,2024,HARD,18.0,27.0,1
+BOT,Belgian Grand Prix,2024,HARD,12.0,24.0,1
+TSU,Belgian Grand Prix,2024,MEDIUM,1.0,15.0,1
+SAR,Belgian Grand Prix,2024,HARD,16.0,30.0,1
+SAR,Belgian Grand Prix,2024,MEDIUM,9.0,16.0,1
+HUL,Belgian Grand Prix,2024,HARD,25.0,20.0,1
+ZHO,Belgian Grand Prix,2024,MEDIUM,21.0,24.0,1
+NOR,Dutch Grand Prix,2024,MEDIUM,1.0,28.0,1
+VER,Dutch Grand Prix,2024,HARD,29.0,44.0,1
+VER,Dutch Grand Prix,2024,MEDIUM,1.0,27.0,1
+LEC,Dutch Grand Prix,2024,HARD,28.0,45.0,1
+LEC,Dutch Grand Prix,2024,MEDIUM,1.0,24.0,1
+PIA,Dutch Grand Prix,2024,HARD,25.0,48.0,1
+PIA,Dutch Grand Prix,2024,MEDIUM,1.0,33.0,1
+SAI,Dutch Grand Prix,2024,HARD,34.0,39.0,1
+SAI,Dutch Grand Prix,2024,MEDIUM,1.0,30.0,1
+PER,Dutch Grand Prix,2024,HARD,31.0,42.0,1
+PER,Dutch Grand Prix,2024,MEDIUM,1.0,29.0,1
+RUS,Dutch Grand Prix,2024,HARD,30.0,43.0,1
+RUS,Dutch Grand Prix,2024,MEDIUM,1.0,25.0,1
+RUS,Dutch Grand Prix,2024,HARD,26.0,29.0,1
+HAM,Dutch Grand Prix,2024,SOFT,55.0,21.0,1
+HAM,Dutch Grand Prix,2024,SOFT,1.0,23.0,1
+HAM,Dutch Grand Prix,2024,HARD,24.0,25.0,1
+GAS,Dutch Grand Prix,2024,SOFT,49.0,24.0,1
+GAS,Dutch Grand Prix,2024,MEDIUM,1.0,32.0,1
+ALO,Dutch Grand Prix,2024,HARD,33.0,39.0,1
+ALO,Dutch Grand Prix,2024,MEDIUM,1.0,31.0,1
+HUL,Dutch Grand Prix,2024,HARD,32.0,40.0,1
+HUL,Dutch Grand Prix,2024,MEDIUM,1.0,14.0,1
+RIC,Dutch Grand Prix,2024,MEDIUM,1.0,29.0,1
+STR,Dutch Grand Prix,2024,HARD,30.0,42.0,1
+STR,Dutch Grand Prix,2024,MEDIUM,1.0,30.0,1
+ALB,Dutch Grand Prix,2024,HARD,31.0,41.0,1
+ALB,Dutch Grand Prix,2024,MEDIUM,1.0,12.0,1
+ALB,Dutch Grand Prix,2024,HARD,13.0,42.0,1
+OCO,Dutch Grand Prix,2024,MEDIUM,55.0,17.0,1
+OCO,Dutch Grand Prix,2024,MEDIUM,1.0,30.0,1
+SAR,Dutch Grand Prix,2024,HARD,31.0,41.0,1
+SAR,Dutch Grand Prix,2024,MEDIUM,1.0,22.0,1
+TSU,Dutch Grand Prix,2024,HARD,23.0,49.0,1
+TSU,Dutch Grand Prix,2024,SOFT,1.0,14.0,1
+TSU,Dutch Grand Prix,2024,MEDIUM,15.0,18.0,1
+MAG,Dutch Grand Prix,2024,HARD,33.0,39.0,1
+MAG,Dutch Grand Prix,2024,HARD,1.0,40.0,1
+BOT,Dutch Grand Prix,2024,MEDIUM,41.0,31.0,1
+BOT,Dutch Grand Prix,2024,SOFT,1.0,15.0,1
+BOT,Dutch Grand Prix,2024,HARD,16.0,28.0,1
+ZHO,Dutch Grand Prix,2024,MEDIUM,44.0,27.0,1
+ZHO,Dutch Grand Prix,2024,MEDIUM,1.0,18.0,1
+ZHO,Dutch Grand Prix,2024,HARD,19.0,33.0,1
+LEC,Italian Grand Prix,2024,MEDIUM,1.0,15.0,1
+PIA,Italian Grand Prix,2024,HARD,16.0,38.0,1
+PIA,Italian Grand Prix,2024,MEDIUM,1.0,16.0,1
+PIA,Italian Grand Prix,2024,HARD,17.0,22.0,1
+NOR,Italian Grand Prix,2024,MEDIUM,1.0,14.0,1
+SAI,Italian Grand Prix,2024,HARD,33.0,21.0,1
+SAI,Italian Grand Prix,2024,MEDIUM,1.0,19.0,1
+HAM,Italian Grand Prix,2024,HARD,20.0,34.0,1
+HAM,Italian Grand Prix,2024,MEDIUM,1.0,15.0,1
+HAM,Italian Grand Prix,2024,HARD,16.0,22.0,1
+VER,Italian Grand Prix,2024,HARD,1.0,22.0,1
+VER,Italian Grand Prix,2024,HARD,23.0,19.0,1
+RUS,Italian Grand Prix,2024,MEDIUM,42.0,12.0,1
+RUS,Italian Grand Prix,2024,HARD,12.0,22.0,1
+PER,Italian Grand Prix,2024,HARD,34.0,20.0,1
+PER,Italian Grand Prix,2024,HARD,1.0,23.0,1
+ALB,Italian Grand Prix,2024,MEDIUM,36.0,18.0,1
+ALB,Italian Grand Prix,2024,MEDIUM,1.0,17.0,1
+MAG,Italian Grand Prix,2024,HARD,18.0,36.0,1
+MAG,Italian Grand Prix,2024,MEDIUM,1.0,14.0,1
+ALO,Italian Grand Prix,2024,HARD,15.0,39.0,1
+ALO,Italian Grand Prix,2024,MEDIUM,1.0,13.0,1
+ALO,Italian Grand Prix,2024,HARD,13.0,24.0,1
+COL,Italian Grand Prix,2024,HARD,36.0,20.0,1
+COL,Italian Grand Prix,2024,MEDIUM,1.0,16.0,1
+RIC,Italian Grand Prix,2024,HARD,17.0,37.0,1
+OCO,Italian Grand Prix,2024,HARD,12.0,43.0,1
+OCO,Italian Grand Prix,2024,HARD,1.0,31.0,1
+GAS,Italian Grand Prix,2024,MEDIUM,32.0,21.0,1
+GAS,Italian Grand Prix,2024,HARD,11.0,20.0,1
+BOT,Italian Grand Prix,2024,HARD,31.0,22.0,1
+BOT,Italian Grand Prix,2024,HARD,1.0,34.0,1
+HUL,Italian Grand Prix,2024,MEDIUM,34.0,20.0,1
+HUL,Italian Grand Prix,2024,HARD,6.0,27.0,1
+ZHO,Italian Grand Prix,2024,HARD,33.0,20.0,1
+ZHO,Italian Grand Prix,2024,MEDIUM,1.0,16.0,1
+STR,Italian Grand Prix,2024,HARD,16.0,38.0,1
+STR,Italian Grand Prix,2024,HARD,1.0,20.0,1
+STR,Italian Grand Prix,2024,HARD,20.0,19.0,1
+STR,Italian Grand Prix,2024,MEDIUM,37.0,15.0,1
+VER,Azerbaijan Grand Prix,2024,MEDIUM,1.0,12.0,1
+VER,Azerbaijan Grand Prix,2024,HARD,13.0,37.0,1
+GAS,Azerbaijan Grand Prix,2024,HARD,1.0,50.0,1
+PER,Azerbaijan Grand Prix,2024,MEDIUM,1.0,13.0,1
+ALO,Azerbaijan Grand Prix,2024,HARD,14.0,37.0,1
+ALO,Azerbaijan Grand Prix,2024,MEDIUM,1.0,12.0,1
+LEC,Azerbaijan Grand Prix,2024,HARD,12.0,41.0,1
+LEC,Azerbaijan Grand Prix,2024,MEDIUM,1.0,16.0,1
+STR,Azerbaijan Grand Prix,2024,HARD,17.0,35.0,1
+STR,Azerbaijan Grand Prix,2024,HARD,2.0,22.0,1
+TSU,Azerbaijan Grand Prix,2024,HARD,23.0,24.0,1
+TSU,Azerbaijan Grand Prix,2024,MEDIUM,1.0,13.0,1
+ALB,Azerbaijan Grand Prix,2024,HARD,1.0,31.0,1
+ZHO,Azerbaijan Grand Prix,2024,MEDIUM,32.0,20.0,1
+ZHO,Azerbaijan Grand Prix,2024,HARD,1.0,35.0,1
+HUL,Azerbaijan Grand Prix,2024,MEDIUM,35.0,18.0,1
+HUL,Azerbaijan Grand Prix,2024,MEDIUM,1.0,15.0,1
+RIC,Azerbaijan Grand Prix,2024,HARD,16.0,36.0,1
+RIC,Azerbaijan Grand Prix,2024,HARD,1.0,50.0,1
+OCO,Azerbaijan Grand Prix,2024,HARD,1.0,52.0,1
+NOR,Azerbaijan Grand Prix,2024,HARD,1.0,37.0,1
+COL,Azerbaijan Grand Prix,2024,MEDIUM,38.0,14.0,1
+HAM,Azerbaijan Grand Prix,2024,HARD,11.0,41.0,1
+HAM,Azerbaijan Grand Prix,2024,MEDIUM,1.0,12.0,1
+BEA,Azerbaijan Grand Prix,2024,HARD,13.0,39.0,1
+BEA,Azerbaijan Grand Prix,2024,MEDIUM,1.0,14.0,1
+SAI,Azerbaijan Grand Prix,2024,HARD,15.0,37.0,1
+SAI,Azerbaijan Grand Prix,2024,MEDIUM,1.0,17.0,1
+RUS,Azerbaijan Grand Prix,2024,HARD,18.0,33.0,1
+RUS,Azerbaijan Grand Prix,2024,MEDIUM,1.0,12.0,1
+BOT,Azerbaijan Grand Prix,2024,HARD,13.0,39.0,1
+BOT,Azerbaijan Grand Prix,2024,MEDIUM,1.0,12.0,1
+PIA,Azerbaijan Grand Prix,2024,HARD,12.0,40.0,1
+PIA,Azerbaijan Grand Prix,2024,MEDIUM,1.0,15.0,1
+NOR,Singapore Grand Prix,2024,MEDIUM,1.0,30.0,1
+VER,Singapore Grand Prix,2024,HARD,31.0,32.0,1
+VER,Singapore Grand Prix,2024,MEDIUM,1.0,29.0,1
+PIA,Singapore Grand Prix,2024,HARD,30.0,33.0,1
+PIA,Singapore Grand Prix,2024,MEDIUM,1.0,38.0,1
+RUS,Singapore Grand Prix,2024,HARD,39.0,24.0,1
+RUS,Singapore Grand Prix,2024,MEDIUM,1.0,27.0,1
+LEC,Singapore Grand Prix,2024,HARD,28.0,35.0,1
+LEC,Singapore Grand Prix,2024,MEDIUM,1.0,36.0,1
+HAM,Singapore Grand Prix,2024,HARD,37.0,26.0,1
+HAM,Singapore Grand Prix,2024,SOFT,1.0,19.0,1
+SAI,Singapore Grand Prix,2024,HARD,18.0,45.0,1
+SAI,Singapore Grand Prix,2024,MEDIUM,1.0,13.0,1
+ALO,Singapore Grand Prix,2024,HARD,14.0,49.0,1
+ALO,Singapore Grand Prix,2024,MEDIUM,1.0,26.0,1
+HUL,Singapore Grand Prix,2024,HARD,26.0,37.0,1
+HUL,Singapore Grand Prix,2024,MEDIUM,1.0,29.0,1
+PER,Singapore Grand Prix,2024,HARD,30.0,32.0,1
+PER,Singapore Grand Prix,2024,MEDIUM,1.0,28.0,1
+COL,Singapore Grand Prix,2024,HARD,29.0,33.0,1
+COL,Singapore Grand Prix,2024,MEDIUM,1.0,29.0,1
+TSU,Singapore Grand Prix,2024,HARD,30.0,32.0,1
+TSU,Singapore Grand Prix,2024,MEDIUM,1.0,33.0,1
+OCO,Singapore Grand Prix,2024,SOFT,34.0,31.0,1
+OCO,Singapore Grand Prix,2024,MEDIUM,1.0,29.0,1
+STR,Singapore Grand Prix,2024,HARD,30.0,32.0,1
+STR,Singapore Grand Prix,2024,HARD,1.0,27.0,1
+ZHO,Singapore Grand Prix,2024,MEDIUM,27.0,36.0,1
+ZHO,Singapore Grand Prix,2024,HARD,1.0,34.0,1
+BOT,Singapore Grand Prix,2024,MEDIUM,35.0,27.0,1
+BOT,Singapore Grand Prix,2024,HARD,1.0,33.0,1
+GAS,Singapore Grand Prix,2024,MEDIUM,34.0,28.0,1
+GAS,Singapore Grand Prix,2024,MEDIUM,1.0,37.0,1
+RIC,Singapore Grand Prix,2024,SOFT,38.0,24.0,1
+RIC,Singapore Grand Prix,2024,SOFT,1.0,10.0,1
+RIC,Singapore Grand Prix,2024,MEDIUM,11.0,36.0,1
+RIC,Singapore Grand Prix,2024,SOFT,47.0,12.0,1
+MAG,Singapore Grand Prix,2024,HARD,1.0,28.0,1
+MAG,Singapore Grand Prix,2024,MEDIUM,29.0,21.0,1
+ALB,Singapore Grand Prix,2024,SOFT,50.0,8.0,1
+VER,United States Grand Prix,2024,MEDIUM,1.0,25.0,1
+GAS,United States Grand Prix,2024,HARD,26.0,31.0,1
+GAS,United States Grand Prix,2024,MEDIUM,1.0,18.0,1
+PER,United States Grand Prix,2024,HARD,19.0,38.0,1
+PER,United States Grand Prix,2024,MEDIUM,1.0,26.0,1
+ALO,United States Grand Prix,2024,HARD,27.0,30.0,1
+ALO,United States Grand Prix,2024,MEDIUM,1.0,26.0,1
+LEC,United States Grand Prix,2024,HARD,27.0,30.0,1
+LEC,United States Grand Prix,2024,MEDIUM,1.0,26.0,1
+STR,United States Grand Prix,2024,HARD,27.0,30.0,1
+STR,United States Grand Prix,2024,HARD,1.0,28.0,1
+MAG,United States Grand Prix,2024,MEDIUM,28.0,28.0,1
+MAG,United States Grand Prix,2024,MEDIUM,1.0,17.0,1
+MAG,United States Grand Prix,2024,HARD,18.0,21.0,1
+TSU,United States Grand Prix,2024,MEDIUM,39.0,18.0,1
+TSU,United States Grand Prix,2024,MEDIUM,1.0,18.0,1
+ALB,United States Grand Prix,2024,HARD,19.0,37.0,1
+ALB,United States Grand Prix,2024,MEDIUM,4.0,30.0,1
+ZHO,United States Grand Prix,2024,HARD,34.0,22.0,1
+ZHO,United States Grand Prix,2024,MEDIUM,1.0,13.0,1
+ZHO,United States Grand Prix,2024,MEDIUM,14.0,22.0,1
+HUL,United States Grand Prix,2024,HARD,36.0,20.0,1
+HUL,United States Grand Prix,2024,MEDIUM,1.0,27.0,1
+LAW,United States Grand Prix,2024,HARD,28.0,29.0,1
+LAW,United States Grand Prix,2024,HARD,1.0,36.0,1
+OCO,United States Grand Prix,2024,MEDIUM,37.0,20.0,1
+OCO,United States Grand Prix,2024,MEDIUM,1.0,31.0,1
+OCO,United States Grand Prix,2024,HARD,32.0,20.0,1
+NOR,United States Grand Prix,2024,MEDIUM,1.0,31.0,1
+COL,United States Grand Prix,2024,HARD,32.0,25.0,1
+COL,United States Grand Prix,2024,HARD,1.0,39.0,1
+HAM,United States Grand Prix,2024,MEDIUM,40.0,17.0,1
+SAI,United States Grand Prix,2024,MEDIUM,1.0,21.0,1
+RUS,United States Grand Prix,2024,HARD,22.0,35.0,1
+RUS,United States Grand Prix,2024,HARD,1.0,40.0,1
+BOT,United States Grand Prix,2024,MEDIUM,41.0,16.0,1
+BOT,United States Grand Prix,2024,MEDIUM,1.0,15.0,1
+PIA,United States Grand Prix,2024,HARD,16.0,40.0,1
+PIA,United States Grand Prix,2024,MEDIUM,1.0,32.0,1
+SAI,Mexico City Grand Prix,2024,MEDIUM,1.0,32.0,1
+NOR,Mexico City Grand Prix,2024,HARD,33.0,39.0,1
+NOR,Mexico City Grand Prix,2024,MEDIUM,1.0,30.0,1
+LEC,Mexico City Grand Prix,2024,HARD,31.0,41.0,1
+LEC,Mexico City Grand Prix,2024,MEDIUM,1.0,31.0,1
+LEC,Mexico City Grand Prix,2024,HARD,32.0,38.0,1
+HAM,Mexico City Grand Prix,2024,MEDIUM,1.0,28.0,1
+RUS,Mexico City Grand Prix,2024,HARD,29.0,43.0,1
+RUS,Mexico City Grand Prix,2024,MEDIUM,1.0,31.0,1
+VER,Mexico City Grand Prix,2024,HARD,32.0,40.0,1
+VER,Mexico City Grand Prix,2024,MEDIUM,1.0,26.0,1
+MAG,Mexico City Grand Prix,2024,HARD,27.0,45.0,1
+MAG,Mexico City Grand Prix,2024,MEDIUM,1.0,30.0,1
+PIA,Mexico City Grand Prix,2024,HARD,31.0,41.0,1
+PIA,Mexico City Grand Prix,2024,MEDIUM,1.0,39.0,1
+HUL,Mexico City Grand Prix,2024,HARD,40.0,32.0,1
+HUL,Mexico City Grand Prix,2024,MEDIUM,1.0,29.0,1
+GAS,Mexico City Grand Prix,2024,HARD,30.0,41.0,1
+GAS,Mexico City Grand Prix,2024,MEDIUM,1.0,28.0,1
+STR,Mexico City Grand Prix,2024,HARD,29.0,42.0,1
+STR,Mexico City Grand Prix,2024,MEDIUM,1.0,27.0,1
+COL,Mexico City Grand Prix,2024,HARD,27.0,45.0,1
+COL,Mexico City Grand Prix,2024,HARD,1.0,47.0,1
+OCO,Mexico City Grand Prix,2024,MEDIUM,48.0,23.0,1
+OCO,Mexico City Grand Prix,2024,HARD,1.0,48.0,1
+BOT,Mexico City Grand Prix,2024,MEDIUM,49.0,22.0,1
+BOT,Mexico City Grand Prix,2024,HARD,1.0,50.0,1
+ZHO,Mexico City Grand Prix,2024,MEDIUM,50.0,22.0,1
+ZHO,Mexico City Grand Prix,2024,HARD,1.0,44.0,1
+LAW,Mexico City Grand Prix,2024,MEDIUM,44.0,28.0,1
+LAW,Mexico City Grand Prix,2024,HARD,1.0,39.0,1
+LAW,Mexico City Grand Prix,2024,MEDIUM,40.0,26.0,1
+PER,Mexico City Grand Prix,2024,HARD,1.0,20.0,1
+PER,Mexico City Grand Prix,2024,MEDIUM,21.0,23.0,1
+PER,Mexico City Grand Prix,2024,MEDIUM,44.0,25.0,1
+ALB,Mexico City Grand Prix,2024,MEDIUM,1.0,16.0,1
+RUS,Las Vegas Grand Prix,2024,MEDIUM,1.0,13.0,1
+RUS,Las Vegas Grand Prix,2024,HARD,13.0,21.0,1
+HAM,Las Vegas Grand Prix,2024,HARD,33.0,19.0,1
+HAM,Las Vegas Grand Prix,2024,MEDIUM,1.0,13.0,1
+SAI,Las Vegas Grand Prix,2024,HARD,28.0,24.0,1
+LEC,Las Vegas Grand Prix,2024,HARD,29.0,22.0,1
+LEC,Las Vegas Grand Prix,2024,HARD,10.0,22.0,1
+VER,Las Vegas Grand Prix,2024,HARD,32.0,19.0,1
+NOR,Las Vegas Grand Prix,2024,HARD,28.0,23.0,1
+NOR,Las Vegas Grand Prix,2024,HARD,10.0,21.0,1
+HUL,Las Vegas Grand Prix,2024,HARD,26.0,25.0,1
+HUL,Las Vegas Grand Prix,2024,MEDIUM,1.0,14.0,1
+HUL,Las Vegas Grand Prix,2024,HARD,15.0,19.0,1
+TSU,Las Vegas Grand Prix,2024,HARD,11.0,20.0,1
+PER,Las Vegas Grand Prix,2024,HARD,30.0,22.0,1
+PER,Las Vegas Grand Prix,2024,MEDIUM,18.0,15.0,1
+ALO,Las Vegas Grand Prix,2024,HARD,5.0,21.0,1
+MAG,Las Vegas Grand Prix,2024,HARD,25.0,27.0,1
+MAG,Las Vegas Grand Prix,2024,MEDIUM,1.0,17.0,1
+ZHO,Las Vegas Grand Prix,2024,HARD,18.0,33.0,1
+ZHO,Las Vegas Grand Prix,2024,MEDIUM,1.0,12.0,1
+ZHO,Las Vegas Grand Prix,2024,HARD,12.0,24.0,1
+STR,Las Vegas Grand Prix,2024,HARD,27.0,24.0,1
+STR,Las Vegas Grand Prix,2024,HARD,10.0,20.0,1
+LAW,Las Vegas Grand Prix,2024,HARD,29.0,23.0,1
+LAW,Las Vegas Grand Prix,2024,HARD,12.0,28.0,1
+OCO,Las Vegas Grand Prix,2024,MEDIUM,1.0,12.0,1
+OCO,Las Vegas Grand Prix,2024,HARD,13.0,33.0,1
+BOT,Las Vegas Grand Prix,2024,MEDIUM,18.0,18.0,1
+VER,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+GAS,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+GAS,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+PER,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+PER,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+ALO,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+LEC,Qatar Grand Prix,2024,MEDIUM,37.0,27.0,1
+LEC,Qatar Grand Prix,2024,MEDIUM,1.0,36.0,1
+STR,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+MAG,Qatar Grand Prix,2024,MEDIUM,1.0,27.0,1
+TSU,Qatar Grand Prix,2024,HARD,28.0,30.0,1
+TSU,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+ALB,Qatar Grand Prix,2024,SOFT,41.0,17.0,1
+ALB,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+ALB,Qatar Grand Prix,2024,SOFT,36.0,20.0,1
+ZHO,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+HUL,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+HUL,Qatar Grand Prix,2024,HARD,2.0,30.0,1
+LAW,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+OCO,Qatar Grand Prix,2024,SOFT,41.0,17.0,1
+NOR,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+COL,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+HAM,Qatar Grand Prix,2024,MEDIUM,1.0,34.0,1
+SAI,Qatar Grand Prix,2024,HARD,35.0,23.0,1
+SAI,Qatar Grand Prix,2024,MEDIUM,1.0,35.0,1
+RUS,Qatar Grand Prix,2024,HARD,35.0,23.0,1
+RUS,Qatar Grand Prix,2024,MEDIUM,1.0,24.0,1
+BOT,Qatar Grand Prix,2024,HARD,36.0,22.0,1
+BOT,Qatar Grand Prix,2024,MEDIUM,1.0,24.0,1
+PIA,Qatar Grand Prix,2024,MEDIUM,36.0,30.0,1
+PIA,Qatar Grand Prix,2024,MEDIUM,1.0,34.0,1
+VER,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,29.0,1
+GAS,Abu Dhabi Grand Prix,2024,HARD,30.0,29.0,1
+GAS,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,14.0,1
+PER,Abu Dhabi Grand Prix,2024,HARD,15.0,44.0,1
+ALO,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,14.0,1
+ALO,Abu Dhabi Grand Prix,2024,HARD,14.0,25.0,1
+LEC,Abu Dhabi Grand Prix,2024,HARD,38.0,22.0,1
+LEC,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,20.0,1
+STR,Abu Dhabi Grand Prix,2024,HARD,21.0,38.0,1
+STR,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,12.0,1
+STR,Abu Dhabi Grand Prix,2024,HARD,12.0,22.0,1
+MAG,Abu Dhabi Grand Prix,2024,HARD,33.0,25.0,1
+MAG,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,12.0,1
+MAG,Abu Dhabi Grand Prix,2024,SOFT,31.0,25.0,1
+TSU,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,22.0,1
+ALB,Abu Dhabi Grand Prix,2024,HARD,23.0,35.0,1
+ALB,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,12.0,1
+ZHO,Abu Dhabi Grand Prix,2024,HARD,13.0,45.0,1
+ZHO,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,12.0,1
+ZHO,Abu Dhabi Grand Prix,2024,HARD,13.0,27.0,1
+HUL,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,13.0,1
+LAW,Abu Dhabi Grand Prix,2024,HARD,14.0,45.0,1
+LAW,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,23.0,1
+NOR,Abu Dhabi Grand Prix,2024,HARD,24.0,33.0,1
+NOR,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,26.0,1
+COL,Abu Dhabi Grand Prix,2024,HARD,27.0,32.0,1
+HAM,Abu Dhabi Grand Prix,2024,HARD,4.0,23.0,1
+HAM,Abu Dhabi Grand Prix,2024,HARD,1.0,34.0,1
+SAI,Abu Dhabi Grand Prix,2024,MEDIUM,35.0,25.0,1
+SAI,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,25.0,1
+DOO,Abu Dhabi Grand Prix,2024,HARD,26.0,33.0,1
+DOO,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,22.0,1
+RUS,Abu Dhabi Grand Prix,2024,HARD,23.0,35.0,1
+RUS,Abu Dhabi Grand Prix,2024,MEDIUM,1.0,27.0,1
+BOT,Abu Dhabi Grand Prix,2024,HARD,27.0,32.0,1
+PIA,Abu Dhabi Grand Prix,2024,HARD,7.0,24.0,1
+PIA,Abu Dhabi Grand Prix,2024,HARD,5.0,28.0,1
+VER,Australian Grand Prix,2025,MEDIUM,35.0,12.0,1
+TSU,Australian Grand Prix,2025,MEDIUM,34.0,14.0,1
+OCO,Australian Grand Prix,2025,MEDIUM,34.0,14.0,1
+BOR,Australian Grand Prix,2025,MEDIUM,5.0,40.0,1
+BEA,Australian Grand Prix,2025,MEDIUM,5.0,40.0,1
+PIA,Chinese Grand Prix,2025,MEDIUM,1.0,14.0,1
+NOR,Chinese Grand Prix,2025,HARD,15.0,42.0,1
+NOR,Chinese Grand Prix,2025,MEDIUM,1.0,15.0,1
+RUS,Chinese Grand Prix,2025,HARD,16.0,41.0,1
+RUS,Chinese Grand Prix,2025,MEDIUM,1.0,14.0,1
+VER,Chinese Grand Prix,2025,HARD,15.0,42.0,1
+VER,Chinese Grand Prix,2025,MEDIUM,1.0,13.0,1
+OCO,Chinese Grand Prix,2025,HARD,14.0,43.0,1
+ANT,Chinese Grand Prix,2025,HARD,12.0,45.0,1
+ANT,Chinese Grand Prix,2025,MEDIUM,1.0,12.0,1
+ALB,Chinese Grand Prix,2025,HARD,13.0,44.0,1
+ALB,Chinese Grand Prix,2025,MEDIUM,1.0,20.0,1
+BEA,Chinese Grand Prix,2025,HARD,21.0,36.0,1
+BEA,Chinese Grand Prix,2025,HARD,1.0,26.0,1
+STR,Chinese Grand Prix,2025,MEDIUM,27.0,30.0,1
+STR,Chinese Grand Prix,2025,HARD,1.0,36.0,1
+SAI,Chinese Grand Prix,2025,MEDIUM,37.0,20.0,1
+SAI,Chinese Grand Prix,2025,MEDIUM,1.0,17.0,1
+HAD,Chinese Grand Prix,2025,HARD,18.0,39.0,1
+HAD,Chinese Grand Prix,2025,MEDIUM,1.0,12.0,1
+HAD,Chinese Grand Prix,2025,HARD,13.0,21.0,1
+LAW,Chinese Grand Prix,2025,HARD,34.0,23.0,1
+LAW,Chinese Grand Prix,2025,MEDIUM,19.0,12.0,1
+DOO,Chinese Grand Prix,2025,HARD,31.0,26.0,1
+BOR,Chinese Grand Prix,2025,HARD,12.0,45.0,1
+BOR,Chinese Grand Prix,2025,HARD,2.0,25.0,1
+HUL,Chinese Grand Prix,2025,HARD,27.0,29.0,1
+HUL,Chinese Grand Prix,2025,MEDIUM,1.0,20.0,1
+TSU,Chinese Grand Prix,2025,HARD,21.0,35.0,1
+TSU,Chinese Grand Prix,2025,HARD,12.0,24.0,1
+ALO,Chinese Grand Prix,2025,MEDIUM,47.0,15.0,1
+LEC,Chinese Grand Prix,2025,MEDIUM,1.0,15.0,1
+HAM,Chinese Grand Prix,2025,HARD,16.0,41.0,1
+HAM,Chinese Grand Prix,2025,MEDIUM,1.0,13.0,1
+HAM,Chinese Grand Prix,2025,HARD,14.0,24.0,1
+GAS,Chinese Grand Prix,2025,HARD,38.0,19.0,1
+VER,Japanese Grand Prix,2025,MEDIUM,1.0,21.0,1
+NOR,Japanese Grand Prix,2025,HARD,22.0,32.0,1
+NOR,Japanese Grand Prix,2025,MEDIUM,1.0,21.0,1
+PIA,Japanese Grand Prix,2025,HARD,22.0,32.0,1
+PIA,Japanese Grand Prix,2025,MEDIUM,1.0,20.0,1
+LEC,Japanese Grand Prix,2025,HARD,21.0,33.0,1
+LEC,Japanese Grand Prix,2025,MEDIUM,1.0,21.0,1
+RUS,Japanese Grand Prix,2025,HARD,22.0,32.0,1
+RUS,Japanese Grand Prix,2025,MEDIUM,1.0,19.0,1
+ANT,Japanese Grand Prix,2025,HARD,20.0,34.0,1
+ANT,Japanese Grand Prix,2025,MEDIUM,1.0,31.0,1
+HAM,Japanese Grand Prix,2025,HARD,32.0,22.0,1
+HAM,Japanese Grand Prix,2025,HARD,1.0,30.0,1
+HAD,Japanese Grand Prix,2025,MEDIUM,31.0,23.0,1
+HAD,Japanese Grand Prix,2025,MEDIUM,1.0,25.0,1
+ALB,Japanese Grand Prix,2025,HARD,26.0,28.0,1
+ALB,Japanese Grand Prix,2025,MEDIUM,1.0,24.0,1
+BEA,Japanese Grand Prix,2025,HARD,25.0,29.0,1
+BEA,Japanese Grand Prix,2025,MEDIUM,1.0,23.0,1
+ALO,Japanese Grand Prix,2025,HARD,24.0,31.0,1
+ALO,Japanese Grand Prix,2025,MEDIUM,1.0,25.0,1
+TSU,Japanese Grand Prix,2025,HARD,25.0,30.0,1
+TSU,Japanese Grand Prix,2025,MEDIUM,1.0,23.0,1
+GAS,Japanese Grand Prix,2025,HARD,24.0,30.0,1
+GAS,Japanese Grand Prix,2025,MEDIUM,1.0,24.0,1
+SAI,Japanese Grand Prix,2025,HARD,25.0,29.0,1
+SAI,Japanese Grand Prix,2025,MEDIUM,1.0,33.0,1
+DOO,Japanese Grand Prix,2025,SOFT,34.0,20.0,1
+DOO,Japanese Grand Prix,2025,SOFT,1.0,15.0,1
+HUL,Japanese Grand Prix,2025,HARD,16.0,38.0,1
+HUL,Japanese Grand Prix,2025,MEDIUM,1.0,22.0,1
+LAW,Japanese Grand Prix,2025,HARD,23.0,31.0,1
+LAW,Japanese Grand Prix,2025,MEDIUM,1.0,33.0,1
+OCO,Japanese Grand Prix,2025,SOFT,34.0,20.0,1
+OCO,Japanese Grand Prix,2025,HARD,1.0,33.0,1
+BOR,Japanese Grand Prix,2025,MEDIUM,33.0,21.0,1
+BOR,Japanese Grand Prix,2025,HARD,1.0,31.0,1
+STR,Japanese Grand Prix,2025,MEDIUM,32.0,22.0,1
+STR,Japanese Grand Prix,2025,SOFT,1.0,9.0,1
+STR,Japanese Grand Prix,2025,HARD,10.0,22.0,1
