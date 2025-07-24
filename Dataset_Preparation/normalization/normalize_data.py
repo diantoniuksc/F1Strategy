@@ -80,7 +80,8 @@ def remove_wet_tyres():
         writer.writerow(header)
         writer.writerows(filtered_rows)
 
-remove_wet_tyres()
+if __name__ == "__main__":
+    remove_wet_tyres()
 
 def normalize_gp_name():
     with open(input_file, 'r', encoding='utf-8') as file:

@@ -25,6 +25,8 @@ def write_all_sessions_csv(year: int, write_full: bool = True):
         time.sleep(0.01)  # Sleep for 10 milliseconds
         race_number += 1  '''
         race_number += 1
+        
+#write_all_sessions_csv(2023, True)
 
 def write_all_years(write_full: bool = True):
     for year in years_races:
