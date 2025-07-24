@@ -1,6 +1,10 @@
 import csv
 import fastf1
-import Dataset_Preparation.normalization.name_to_compound as name_to_compound
+import sys
+import os
+# Add the project root to sys.path so absolute imports work from any location
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from normalization.name_to_compound import get_compound
 from fastf1.events import get_event_schedule
 
 TRACK_LENGTHS = {
@@ -96,7 +100,7 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
                     team_name = driver_row.iloc[0]['TeamId']
 
                 # Map the compound name to its code using your custom function
-                compound_code = name_to_compound.get_compound(year, race_number, tyre_name)
+                compound_code = get_compound(year, race_number, tyre_name)
 
                 circut_length = TRACK_LENGTHS[race_name.removesuffix(' Grand Prix')]
 
@@ -120,14 +124,35 @@ def write_session_info(year: int, race_number: int, session_type: str, doc_name:
             driver_row = results[results['Abbreviation'] == prev_lap_driver]
             if not driver_row.empty:
                 team_name = driver_row.iloc[0]['TeamId']
-            compound_code = name_to_compound.get_compound(year, race_number, tyre_name)
+            compound_code = get_compound(year, race_number, tyre_name)
             csv_writer.writerow([
                prev_lap_driver, circut_length, year, tyre_name, prev_lap_tyre_age  
             ])
             
+def write_gp_laps(year, race_number, doc_name, session_type):
+    schedule = get_event_schedule(year)
+    event_row = schedule[schedule['RoundNumber'] == race_number]
+    if not event_row.empty:
+        race_name = event_row.iloc[0]['EventName']
 
+       # Load the session using the round number and session type (e.g., 'R' for Race)
+    session = fastf1.get_session(year, race_number, session_type)
+    session.load()
 
+    # Get all laps and session results (for driver/team info)
+    laps = session.laps
+
+    laps_in_gp = laps['LapNumber'].max()
+    with open(doc_name, 'a', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile, delimiter=',')
+
+        csv_writer.writerow([
+                    #prev_lap_driver, team_name, race_name, year, race_length, tyre_name, stint_start_lap, prev_lap_tyre_age
+                    race_name, year, laps_in_gp  
+                ])
+        print(str(race_name) + " " + str(year) + " " + str(laps_in_gp))
 
 if __name__ == '__main__':
     # Example usage
-    write_session_info(2025, 9, 'R', 'Dataset_Preparation/DataSetTest/session_test_v10.csv')
+    #write_session_info(2025, 9, 'R', 'Dataset_Preparation/DataSetTest/session_test_v10.csv')
+    write_gp_laps(2025, 13, 'Dataset_Preparation/data_processed/gps_laps.csv', 'R')
