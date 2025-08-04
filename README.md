@@ -1,5 +1,9 @@
 # F1 Tyre Life Prediction Project
-This project analyzes Formula 1 race data to predict tyre life using machine learning models such as LightGBM, Random Forest, and Linear Regression. It includes data pipelines for session extraction, feature engineering, and model training. The codebase supports data cleaning, feature selection, and model evaluation, with a focus on tyre compound analysis and stint strategies. See more: www.linkedin.com/in/dіana-antoniuk-067b28362
+This project analyzes Formula 1 race data to predict tyre life using machine learning models such as LightGBM, Random Forest, and Linear Regression. It includes data pipelines for session extraction, feature engineering, and model training. The codebase supports data cleaning, feature selection, and model evaluation, with a focus on tyre compound analysis and stint strategies. See more project story: www.linkedin.com/in/dіana-antoniuk-067b28362
+
+Deployed project: https://antoniukdin34.pythonanywhere.com/
+
+Demo info: The demo showcases the best-performing model by plotting the entire test set in a graph, so you can see how the model works with real data. Most predictions are accurate, with a few outliers visible in the last graph. The first three graphs show the data I gathered for the project. I chose this approach to make the results and model behavior clear and understandable.
 
 ## How It Was Built
  - Read up on F1 strategy and talked to people on LinkedIn to define the problem.
@@ -53,6 +57,3 @@ pip install -r requirements.txt
 ### To generate the all_years_sessions.csv file with all session data, run the batch pipeline script:
 python batch_pipeline.py
 ### The generated file all_years_sessions.csv will be saved in the Dataset_Preparation directory.
-
-
-
